@@ -7,98 +7,126 @@
         "heure_sortie": "03h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 62126,
+        "imdb_id": null
       },
       {
         "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61663,
+        "imdb_id": null
       },
       {
         "titre": "Digimon Beatbreak",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61269,
+        "imdb_id": null
       },
       {
         "titre": "Kaya-chan wa Kowakunai",
         "heure_sortie": "10h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60223,
+        "imdb_id": null
       },
       {
         "titre": "Seihantai na Kimi to Boku",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60371,
+        "imdb_id": null
       },
       {
         "titre": "Majutsushi Kunon wa Mieteiru",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60810,
+        "imdb_id": null
       },
       {
         "titre": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 62000,
+        "imdb_id": null
       },
       {
         "titre": "Kizoku Tensei",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 52608,
+        "imdb_id": null
       },
       {
         "titre": "Hell's Paradise",
         "heure_sortie": "16h45",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 46569,
+        "imdb_id": null
       },
       {
         "titre": "Hell's Paradise",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 46569,
+        "imdb_id": null
       },
       {
         "titre": "Ikoku Nikki",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 58788,
+        "imdb_id": null
       },
       {
         "titre": "Goumon Baito-kun no Nichijou",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61886,
+        "imdb_id": null
       },
       {
         "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 61663,
+        "imdb_id": null
       },
       {
         "titre": "Seihantai na Kimi to Boku",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt37532731"
       }
     ]
   },
@@ -110,42 +138,54 @@
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61782,
+        "imdb_id": null
       },
       {
         "titre": "My Hero Academia Vigilantes",
         "heure_sortie": "15h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60593,
+        "imdb_id": null
       },
       {
         "titre": "My Hero Academia Vigilantes",
         "heure_sortie": "15h45",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 60593,
+        "imdb_id": null
       },
       {
         "titre": "Golden Kamui",
         "heure_sortie": "16h00",
         "saison": "Saison 5",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 36028,
+        "imdb_id": null
       },
       {
         "titre": "Osananajimi to wa LoveCom ni Naranai",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61359,
+        "imdb_id": null
       },
       {
         "titre": "'Tis Time for \"Torture,\" Princess",
         "heure_sortie": "17h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 55774,
+        "imdb_id": null
       }
     ]
   },
@@ -157,49 +197,63 @@
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61884,
+        "imdb_id": null
       },
       {
         "titre": "Mayonaka Heart Tune",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61211,
+        "imdb_id": null
       },
       {
         "titre": "Isekai no Sata wa Shachiku Shidai",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38652044"
       },
       {
         "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61983,
+        "imdb_id": null
       },
       {
         "titre": "Darwin's Incident",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 58886,
+        "imdb_id": null
       },
       {
         "titre": "Darwin's Incident",
         "heure_sortie": "17h15",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 58886,
+        "imdb_id": null
       },
       {
         "titre": "Arne no Jikenbo",
         "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60255,
+        "imdb_id": null
       }
     ]
   },
@@ -211,63 +265,81 @@
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61637,
+        "imdb_id": null
       },
       {
         "titre": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61549,
+        "imdb_id": null
       },
       {
         "titre": "OSHI NO KO",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 52034,
+        "imdb_id": null
       },
       {
         "titre": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38648925"
       },
       {
         "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60071,
+        "imdb_id": null
       },
       {
         "titre": "SHIBOYUGI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt33309549"
       },
       {
         "titre": "SHIBOYUGI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt33309549"
       },
       {
         "titre": "TAMON'S B-SIDE",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 1672,
+        "imdb_id": null
       },
       {
         "titre": "DRAGON RAJA",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 52890,
+        "imdb_id": null
       }
     ]
   },
@@ -279,77 +351,99 @@
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 56009,
+        "imdb_id": null
       },
       {
         "titre": "Sentenced to Be a Hero",
         "heure_sortie": "15h45",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 56009,
+        "imdb_id": null
       },
       {
         "titre": "MF Ghost",
         "heure_sortie": "16h00",
         "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 50695,
+        "imdb_id": null
       },
       {
         "titre": "Eris no Seihai",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60151,
+        "imdb_id": null
       },
       {
         "titre": "Toumei Otoko to Ningen Onna",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38647911"
       },
       {
         "titre": "Demon Slave",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 37210,
+        "imdb_id": null
       },
       {
         "titre": "Omaegotoki",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61587,
+        "imdb_id": null
       },
       {
         "titre": "Jujutsu Kaisen",
         "heure_sortie": "18h00",
         "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 40748,
+        "imdb_id": null
       },
       {
         "titre": "Douse, Koi Shite Shimaunda",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 58259,
+        "imdb_id": null
       },
       {
         "titre": "Champignon Witch",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60509,
+        "imdb_id": null
       },
       {
         "titre": "Jujutsu Kaisen",
         "heure_sortie": "?",
         "saison": "Reporté",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 40748,
+        "imdb_id": null
       }
     ]
   },
@@ -361,63 +455,81 @@
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
-        "langue": "Inconnue"
+        "langue": "Inconnue",
+        "mal_id": 33421,
+        "imdb_id": null
       },
       {
         "titre": "Frieren",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       },
       {
         "titre": "Frieren",
         "heure_sortie": "17h15",
         "saison": "Retardé",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 52991,
+        "imdb_id": null
       },
       {
         "titre": "Le Collège fou, fou, fou",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 714,
+        "imdb_id": null
       },
       {
         "titre": "Hell Mode",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 60460,
+        "imdb_id": null
       },
       {
         "titre": "Dark Moon",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 59853,
+        "imdb_id": null
       },
       {
         "titre": "Dark Moon",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 59853,
+        "imdb_id": null
       },
       {
         "titre": "Fire Force",
         "heure_sortie": "19h00",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 38671,
+        "imdb_id": null
       },
       {
         "titre": "Fire Force",
         "heure_sortie": "19h15",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 38671,
+        "imdb_id": null
       }
     ]
   },
@@ -429,98 +541,126 @@
         "heure_sortie": "11h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt30523856"
       },
       {
         "titre": "Detective Conan",
         "heure_sortie": "12h00",
         "saison": "Saison 31",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 235,
+        "imdb_id": null
       },
       {
         "titre": "Tensei Shitara Dragon no Tamago Datta",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61207,
+        "imdb_id": null
       },
       {
         "titre": "Trigun Stampede",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 52093,
+        "imdb_id": null
       },
       {
         "titre": "Dead Account",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61196,
+        "imdb_id": null
       },
       {
         "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 62432,
+        "imdb_id": null
       },
       {
         "titre": "To Your Eternity",
         "heure_sortie": "17h15",
         "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 41025,
+        "imdb_id": null
       },
       {
         "titre": "Fate/Strange Fake",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 55830,
+        "imdb_id": null
       },
       {
         "titre": "Yuusha no Kuzu",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt36290183"
       },
       {
         "titre": "Tojima Wants to Be a Kamen Rider",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 61159,
+        "imdb_id": null
       },
       {
         "titre": "Medalist",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR"
+        "langue": "VOSTFR",
+        "mal_id": 55318,
+        "imdb_id": null
       },
       {
         "titre": "Dead Account",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 61196,
+        "imdb_id": null
       },
       {
         "titre": "Trigun Stampede",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 52093,
+        "imdb_id": null
       },
       {
         "titre": "To Your Eternity",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VF"
+        "langue": "VF",
+        "mal_id": 41025,
+        "imdb_id": null
       }
     ]
   }
