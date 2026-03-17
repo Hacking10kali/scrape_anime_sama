@@ -1,0 +1,527 @@
+[
+  {
+    "jour": "Sorties du Dimanche - 22/03",
+    "animes": [
+      {
+        "titre": "SI-VIS: The Sound of Heroes",
+        "heure_sortie": "03h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Uruwashi no Yoi no Tsuki",
+        "heure_sortie": "09h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Digimon Beatbreak",
+        "heure_sortie": "09h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Kaya-chan wa Kowakunai",
+        "heure_sortie": "10h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Seihantai na Kimi to Boku",
+        "heure_sortie": "11h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Majutsushi Kunon wa Mieteiru",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "heure_sortie": "16h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Kizoku Tensei",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Hell's Paradise",
+        "heure_sortie": "16h45",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Hell's Paradise",
+        "heure_sortie": "17h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Ikoku Nikki",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Goumon Baito-kun no Nichijou",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Uruwashi no Yoi no Tsuki",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Seihantai na Kimi to Boku",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      }
+    ]
+  },
+  {
+    "jour": "Sorties du Lundi - 16/03",
+    "animes": [
+      {
+        "titre": "Wash It All Away",
+        "heure_sortie": "15h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "My Hero Academia Vigilantes",
+        "heure_sortie": "15h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "My Hero Academia Vigilantes",
+        "heure_sortie": "15h45",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Golden Kamui",
+        "heure_sortie": "16h00",
+        "saison": "Saison 5",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Osananajimi to wa LoveCom ni Naranai",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "'Tis Time for \"Torture,\" Princess",
+        "heure_sortie": "17h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      }
+    ]
+  },
+  {
+    "jour": "Sorties du Mardi - 17/03",
+    "animes": [
+      {
+        "titre": "Maou no Musume wa Yasashi Sugiru",
+        "heure_sortie": "14h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Mayonaka Heart Tune",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Isekai no Sata wa Shachiku Shidai",
+        "heure_sortie": "16h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Darwin's Incident",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Darwin's Incident",
+        "heure_sortie": "17h15",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Arne no Jikenbo",
+        "heure_sortie": "19h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      }
+    ]
+  },
+  {
+    "jour": "SORTIES DU MERCREDI - 18/03",
+    "animes": [
+      {
+        "titre": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+        "heure_sortie": "14h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI",
+        "heure_sortie": "14h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "OSHI NO KO",
+        "heure_sortie": "16h30",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "SHIBOYUGI",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "SHIBOYUGI",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "TAMON'S B-SIDE",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "DRAGON RAJA",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      }
+    ]
+  },
+  {
+    "jour": "Sorties du Jeudi - 19/03",
+    "animes": [
+      {
+        "titre": "Sentenced to Be a Hero",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Sentenced to Be a Hero",
+        "heure_sortie": "15h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "MF Ghost",
+        "heure_sortie": "16h00",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Eris no Seihai",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Toumei Otoko to Ningen Onna",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Demon Slave",
+        "heure_sortie": "17h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Omaegotoki",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Jujutsu Kaisen",
+        "heure_sortie": "18h00",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Douse, Koi Shite Shimaunda",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Champignon Witch",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Jujutsu Kaisen",
+        "heure_sortie": "?",
+        "saison": "Reporté",
+        "format": "Anime",
+        "langue": "VF"
+      }
+    ]
+  },
+  {
+    "jour": "Sorties du Vendredi - 20/03",
+    "animes": [
+      {
+        "titre": "Hitori no Shita, The Outcast",
+        "heure_sortie": "12h00",
+        "saison": "Saison 6",
+        "format": "Anime",
+        "langue": "Inconnue"
+      },
+      {
+        "titre": "Frieren",
+        "heure_sortie": "17h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Frieren",
+        "heure_sortie": "17h15",
+        "saison": "Retardé",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Le Collège fou, fou, fou",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Hell Mode",
+        "heure_sortie": "18h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Dark Moon",
+        "heure_sortie": "18h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Dark Moon",
+        "heure_sortie": "18h15",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Fire Force",
+        "heure_sortie": "19h00",
+        "saison": "Saison 3 Partie 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Fire Force",
+        "heure_sortie": "19h15",
+        "saison": "Saison 3 Partie 2",
+        "format": "Anime",
+        "langue": "VF"
+      }
+    ]
+  },
+  {
+    "jour": "Sorties du Samedi - 21/03",
+    "animes": [
+      {
+        "titre": "Blue Wolves",
+        "heure_sortie": "11h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Detective Conan",
+        "heure_sortie": "12h00",
+        "saison": "Saison 31",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Tensei Shitara Dragon no Tamago Datta",
+        "heure_sortie": "14h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Trigun Stampede",
+        "heure_sortie": "16h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Dead Account",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "To Your Eternity",
+        "heure_sortie": "17h15",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Fate/Strange Fake",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Yuusha no Kuzu",
+        "heure_sortie": "18h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Tojima Wants to Be a Kamen Rider",
+        "heure_sortie": "18h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Medalist",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR"
+      },
+      {
+        "titre": "Dead Account",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "Trigun Stampede",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF"
+      },
+      {
+        "titre": "To Your Eternity",
+        "heure_sortie": "?",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VF"
+      }
+    ]
+  }
+]
