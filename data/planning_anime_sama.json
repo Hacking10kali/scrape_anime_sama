@@ -125,8 +125,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37532731"
+        "mal_id": 60371,
+        "imdb_id": null
       }
     ]
   },
@@ -166,8 +166,8 @@
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 36028,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt8225204"
       },
       {
         "titre": "Osananajimi to wa LoveCom ni Naranai",
@@ -216,8 +216,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38652044"
+        "mal_id": 60226,
+        "imdb_id": null
       },
       {
         "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
@@ -293,8 +293,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38648925"
+        "mal_id": 61128,
+        "imdb_id": null
       },
       {
         "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
@@ -302,8 +302,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60071,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36632066"
       },
       {
         "titre": "SHIBOYUGI",
@@ -388,8 +388,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38647911"
+        "mal_id": 60395,
+        "imdb_id": null
       },
       {
         "titre": "Demon Slave",
@@ -424,8 +424,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 58259,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32832412"
       },
       {
         "titre": "Champignon Witch",
@@ -439,7 +439,7 @@
       {
         "titre": "Jujutsu Kaisen",
         "heure_sortie": "?",
-        "saison": "Reporté",
+        "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 40748,
@@ -465,13 +465,13 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt22248376"
+        "mal_id": 52991,
+        "imdb_id": null
       },
       {
         "titre": "Frieren",
         "heure_sortie": "17h15",
-        "saison": "Retardé",
+        "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 52991,
@@ -519,8 +519,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 38671,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt9307686"
       },
       {
         "titre": "Fire Force",
@@ -542,8 +542,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt30523856"
+        "mal_id": 56647,
+        "imdb_id": null
       },
       {
         "titre": "Detective Conan",
@@ -614,8 +614,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36290183"
+        "mal_id": 61217,
+        "imdb_id": null
       },
       {
         "titre": "Tojima Wants to Be a Kamen Rider",
@@ -632,8 +632,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 55318,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt33310730"
       },
       {
         "titre": "Dead Account",
