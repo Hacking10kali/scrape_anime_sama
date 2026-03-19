@@ -116,8 +116,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 61663,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37246098"
       },
       {
         "titre": "Seihantai na Kimi to Boku",
@@ -166,8 +166,8 @@
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt8225204"
+        "mal_id": 36028,
+        "imdb_id": null
       },
       {
         "titre": "Osananajimi to wa LoveCom ni Naranai",
@@ -175,8 +175,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61359,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38253018"
       },
       {
         "titre": "'Tis Time for \"Torture,\" Princess",
@@ -252,16 +252,16 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60255,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38798044"
       }
     ]
   },
   {
-    "jour": "SORTIES DU MERCREDI - 18/03",
+    "jour": "Sorties du Mercredi - 18/03",
     "animes": [
       {
-        "titre": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+        "titre": "29-Sai Dokushin Chuuken Boukensha no Nichijou",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -270,7 +270,7 @@
         "imdb_id": null
       },
       {
-        "titre": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI",
+        "titre": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -279,7 +279,7 @@
         "imdb_id": null
       },
       {
-        "titre": "OSHI NO KO",
+        "titre": "Oshi no Ko",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -288,7 +288,7 @@
         "imdb_id": null
       },
       {
-        "titre": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
+        "titre": "Yuusha Party wo Oidasareta Kiyoubinbou",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -297,16 +297,16 @@
         "imdb_id": null
       },
       {
-        "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
+        "titre": "Odayaka Kizoku no Yuuuka no Susume",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36632066"
+        "mal_id": 60071,
+        "imdb_id": null
       },
       {
-        "titre": "SHIBOYUGI",
+        "titre": "Shiboyugi",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -315,7 +315,7 @@
         "imdb_id": "tt33309549"
       },
       {
-        "titre": "SHIBOYUGI",
+        "titre": "Shiboyugi",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -324,39 +324,57 @@
         "imdb_id": "tt33309549"
       },
       {
-        "titre": "TAMON'S B-SIDE",
+        "titre": "Tamon's B-Side",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 1672,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37532722"
       },
       {
-        "titre": "DRAGON RAJA",
+        "titre": "Dragon Raja",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 52890,
         "imdb_id": null
+      },
+      {
+        "titre": "Invincible",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "Inconnue",
+        "mal_id": 54913,
+        "imdb_id": null
+      },
+      {
+        "titre": "Invincible",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 54913,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 19/03",
+    "jour": "SORTIES DU JEUDI - 19/03",
     "animes": [
       {
-        "titre": "Sentenced to Be a Hero",
+        "titre": "SENTENCED TO BE A HERO",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56009,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32536168"
       },
       {
-        "titre": "Sentenced to Be a Hero",
+        "titre": "SENTENCED TO BE A HERO",
         "heure_sortie": "15h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -365,7 +383,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MF Ghost",
+        "titre": "MF GHOST",
         "heure_sortie": "16h00",
         "saison": "Saison 3",
         "format": "Anime",
@@ -374,7 +392,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Eris no Seihai",
+        "titre": "ERIS NO SEIHAI",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -383,7 +401,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Toumei Otoko to Ningen Onna",
+        "titre": "TOUMEI OTOKO TO NINGEN ONNA",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -392,7 +410,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Demon Slave",
+        "titre": "DEMON SLAVE",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -401,7 +419,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Omaegotoki",
+        "titre": "OMAEGOTOKI",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -410,25 +428,25 @@
         "imdb_id": null
       },
       {
-        "titre": "Jujutsu Kaisen",
+        "titre": "JUJUTSU KAISEN",
         "heure_sortie": "18h00",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 40748,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12343534"
       },
       {
-        "titre": "Douse, Koi Shite Shimaunda",
+        "titre": "DOUSE, KOI SHITE SHIMAUNDA",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32832412"
+        "mal_id": 58259,
+        "imdb_id": null
       },
       {
-        "titre": "Champignon Witch",
+        "titre": "CHAMPIGNON WITCH",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -437,12 +455,30 @@
         "imdb_id": null
       },
       {
-        "titre": "Jujutsu Kaisen",
+        "titre": "JUJUTSU KAISEN",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 40748,
+        "imdb_id": null
+      },
+      {
+        "titre": "JOJO'S BIZARRE ADVENTURE - STEEL BALL RUN",
+        "heure_sortie": "?",
+        "saison": "Partie 7",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61469,
+        "imdb_id": null
+      },
+      {
+        "titre": "JOJO'S BIZARRE ADVENTURE - STEEL BALL RUN",
+        "heure_sortie": "?",
+        "saison": "Partie 7",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 61469,
         "imdb_id": null
       }
     ]
@@ -474,8 +510,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 52991,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       },
       {
         "titre": "Le Collège fou, fou, fou",
@@ -519,8 +555,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt9307686"
+        "mal_id": 38671,
+        "imdb_id": null
       },
       {
         "titre": "Fire Force",
@@ -542,8 +578,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56647,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt30523856"
       },
       {
         "titre": "Detective Conan",
@@ -605,8 +641,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 55830,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32864316"
       },
       {
         "titre": "Yuusha no Kuzu",
@@ -632,8 +668,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt33310730"
+        "mal_id": 55318,
+        "imdb_id": null
       },
       {
         "titre": "Dead Account",
@@ -659,8 +695,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 41025,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12063450"
       }
     ]
   }
