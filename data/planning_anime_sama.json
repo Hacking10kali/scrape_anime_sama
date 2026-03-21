@@ -207,8 +207,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38980445"
+        "mal_id": 61211,
+        "imdb_id": null
       },
       {
         "titre": "Isekai no Sata wa Shachiku Shidai",
@@ -216,8 +216,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60226,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38652044"
       },
       {
         "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
@@ -284,8 +284,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt21030032"
+        "mal_id": 52034,
+        "imdb_id": null
       },
       {
         "titre": "Yuusha Party wo Oidasareta Kiyoubinbou",
@@ -293,8 +293,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61128,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38648925"
       },
       {
         "titre": "Odayaka Kizoku no Yuuuka no Susume",
@@ -347,8 +347,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": null,
-        "imdb_id": "tt6741278"
+        "mal_id": 54913,
+        "imdb_id": null
       },
       {
         "titre": "Invincible",
@@ -370,8 +370,8 @@
         "saison": "Partie 7",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61469,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38268282"
       },
       {
         "titre": "JoJo's Bizarre Adventure - Steel Ball Run",
@@ -406,8 +406,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28299608"
+        "mal_id": 50695,
+        "imdb_id": null
       },
       {
         "titre": "Eris no Seihai",
@@ -424,8 +424,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60395,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38647911"
       },
       {
         "titre": "Demon Slave",
@@ -469,8 +469,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37137805"
+        "mal_id": 60509,
+        "imdb_id": null
       },
       {
         "titre": "Jujutsu Kaisen",
@@ -484,19 +484,19 @@
     ]
   },
   {
-    "jour": "SORTIES DU VENDREDI - 20/03",
+    "jour": "Sorties du Vendredi - 20/03",
     "animes": [
       {
-        "titre": "HITORI NO SHITA, THE OUTCAST",
+        "titre": "Hitori no Shita, The Outcast",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": 33421,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12882132"
       },
       {
-        "titre": "FRIEREN",
+        "titre": "Frieren",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -505,16 +505,16 @@
         "imdb_id": null
       },
       {
-        "titre": "FRIEREN",
+        "titre": "Frieren",
         "heure_sortie": "17h15",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt22248376"
+        "mal_id": 52991,
+        "imdb_id": null
       },
       {
-        "titre": "LE COLLÈGE FOU, FOU, FOU",
+        "titre": "Le Collège fou, fou, fou",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -523,7 +523,7 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL MODE",
+        "titre": "Hell Mode",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -532,7 +532,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DARK MOON",
+        "titre": "Dark Moon",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -541,7 +541,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DARK MOON",
+        "titre": "Dark Moon",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -550,16 +550,16 @@
         "imdb_id": null
       },
       {
-        "titre": "FIRE FORCE",
+        "titre": "Fire Force",
         "heure_sortie": "19h00",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 38671,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt9307686"
       },
       {
-        "titre": "FIRE FORCE",
+        "titre": "Fire Force",
         "heure_sortie": "19h15",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
@@ -570,19 +570,19 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 21/03",
+    "jour": "SORTIES DU SAMEDI - 21/03",
     "animes": [
       {
-        "titre": "Blue Wolves",
+        "titre": "BLUE WOLVES",
         "heure_sortie": "11h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt30523856"
+        "mal_id": 56647,
+        "imdb_id": null
       },
       {
-        "titre": "Detective Conan",
+        "titre": "DETECTIVE CONAN",
         "heure_sortie": "12h00",
         "saison": "Saison 31",
         "format": "Anime",
@@ -591,7 +591,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Dragon no Tamago Datta",
+        "titre": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -600,7 +600,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Trigun Stampede",
+        "titre": "TRIGUN STAMPEDE",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -609,7 +609,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dead Account",
+        "titre": "DEAD ACCOUNT",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -618,16 +618,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
+        "titre": "JINGAI KYOUSHITSU NO NINGEN-GIRAI KYOUSHI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62432,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38646016"
       },
       {
-        "titre": "To Your Eternity",
+        "titre": "TO YOUR ETERNITY",
         "heure_sortie": "17h15",
         "saison": "Saison 3",
         "format": "Anime",
@@ -636,7 +636,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Fate/Strange Fake",
+        "titre": "FATE/STRANGE FAKE",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -645,16 +645,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Yuusha no Kuzu",
+        "titre": "YUUSHA NO KUZU",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36290183"
+        "mal_id": 61217,
+        "imdb_id": null
       },
       {
-        "titre": "Tojima Wants to Be a Kamen Rider",
+        "titre": "TOJIMA WANTS TO BE A KAMEN RIDER",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -663,7 +663,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Medalist",
+        "titre": "MEDALIST",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -672,7 +672,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dead Account",
+        "titre": "DEAD ACCOUNT",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -681,16 +681,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Trigun Stampede",
+        "titre": "TRIGUN STAMPEDE",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 52093,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt21216104"
       },
       {
-        "titre": "To Your Eternity",
+        "titre": "TO YOUR ETERNITY",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
