@@ -121,8 +121,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt35636246"
+        "mal_id": 60593,
+        "imdb_id": null
       },
       {
         "titre": "Golden Kamui",
@@ -130,8 +130,8 @@
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 36028,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt8225204"
       },
       {
         "titre": "'Tis Time for \"Torture,\" Princess",
@@ -145,10 +145,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 24/03",
+    "jour": "Sorties du Mardi - 24/03",
     "animes": [
       {
-        "titre": "MAYONAKA HEART TUNE",
+        "titre": "Mayonaka Heart Tune",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -157,7 +157,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ISEKAI NO SATA WA SHACHIKU SHIDAI",
+        "titre": "Isekai no Sata wa Shachiku Shidai",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -166,7 +166,16 @@
         "imdb_id": null
       },
       {
-        "titre": "DARWIN'S INCIDENT",
+        "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61983,
+        "imdb_id": null
+      },
+      {
+        "titre": "Darwin's Incident",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -175,7 +184,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DARWIN'S INCIDENT",
+        "titre": "Darwin's Incident",
         "heure_sortie": "17h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -184,7 +193,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ARNE NO JIKENBO",
+        "titre": "Arne no Jikenbo",
         "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -195,19 +204,19 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 25/03",
+    "jour": "SORTIES DU MERCREDI - 25/03",
     "animes": [
       {
-        "titre": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+        "titre": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38977386"
+        "mal_id": 61549,
+        "imdb_id": null
       },
       {
-        "titre": "29-Sai Dokushin Chuuken Boukensha no Nichijou",
+        "titre": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -216,7 +225,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Oshi no Ko",
+        "titre": "OSHI NO KO",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -225,7 +234,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "titre": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -234,7 +243,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Odayaka Kizoku no Yuuuka no Susume",
+        "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -243,7 +252,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tamon's B-Side",
+        "titre": "TAMON'S B-SIDE",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -252,7 +261,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dragon Raja",
+        "titre": "DRAGON RAJA",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -261,22 +270,22 @@
         "imdb_id": null
       },
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": 54913,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt6741278"
       },
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt6741278"
+        "mal_id": 54913,
+        "imdb_id": null
       }
     ]
   },
@@ -325,8 +334,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38647911"
+        "mal_id": 60395,
+        "imdb_id": null
       },
       {
         "titre": "Demon Slave",
@@ -352,8 +361,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 40748,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12343534"
       },
       {
         "titre": "Douse, Koi Shite Shimaunda",
@@ -384,8 +393,8 @@
         "saison": "Saison 6",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": null,
-        "imdb_id": "tt12882132"
+        "mal_id": 33421,
+        "imdb_id": null
       },
       {
         "titre": "Frieren",
@@ -447,8 +456,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 38671,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt9307686"
       },
       {
         "titre": "Fire Force",
@@ -470,8 +479,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt30523856"
+        "mal_id": 56647,
+        "imdb_id": null
       },
       {
         "titre": "Detective Conan",
