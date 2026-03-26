@@ -204,10 +204,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MERCREDI - 25/03",
+    "jour": "Sorties du Mercredi - 25/03",
     "animes": [
       {
-        "titre": "OKIRAKU RYOUSHU NO TANOSHII RYOUCHI BOUEI",
+        "titre": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -216,7 +216,7 @@
         "imdb_id": null
       },
       {
-        "titre": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
+        "titre": "29-Sai Dokushin Chuuken Boukensha no Nichijou",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -225,7 +225,7 @@
         "imdb_id": null
       },
       {
-        "titre": "OSHI NO KO",
+        "titre": "Oshi no Ko",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -234,22 +234,99 @@
         "imdb_id": null
       },
       {
-        "titre": "YUUSHA PARTY WO OIDASARETA KIYOUBINBOU",
-        "heure_sortie": "16h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61128,
-        "imdb_id": null
-      },
-      {
-        "titre": "ODAYAKA KIZOKU NO YUUUKA NO SUSUME",
+        "titre": "Odayaka Kizoku no Yuuuka no Susume",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 60071,
         "imdb_id": null
+      },
+      {
+        "titre": "Dragon Raja",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt27442011"
+      },
+      {
+        "titre": "Invincible",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "Inconnue",
+        "mal_id": 54913,
+        "imdb_id": null
+      },
+      {
+        "titre": "Invincible",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 54913,
+        "imdb_id": null
+      }
+    ]
+  },
+  {
+    "jour": "SORTIES DU JEUDI - 26/03",
+    "animes": [
+      {
+        "titre": "SENTENCED TO BE A HERO",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 56009,
+        "imdb_id": null
+      },
+      {
+        "titre": "SENTENCED TO BE A HERO",
+        "heure_sortie": "15h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 56009,
+        "imdb_id": null
+      },
+      {
+        "titre": "MF GHOST",
+        "heure_sortie": "16h00",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 50695,
+        "imdb_id": null
+      },
+      {
+        "titre": "ERIS NO SEIHAI",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 60151,
+        "imdb_id": null
+      },
+      {
+        "titre": "TOUMEI OTOKO TO NINGEN ONNA",
+        "heure_sortie": "16h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 60395,
+        "imdb_id": null
+      },
+      {
+        "titre": "DEMON SLAVE",
+        "heure_sortie": "17h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt16156736"
       },
       {
         "titre": "TAMON'S B-SIDE",
@@ -261,93 +338,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DRAGON RAJA",
-        "heure_sortie": "18h30",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 52890,
-        "imdb_id": null
-      },
-      {
-        "titre": "INVINCIBLE",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "Inconnue",
-        "mal_id": null,
-        "imdb_id": "tt6741278"
-      },
-      {
-        "titre": "INVINCIBLE",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 54913,
-        "imdb_id": null
-      }
-    ]
-  },
-  {
-    "jour": "Sorties du Jeudi - 26/03",
-    "animes": [
-      {
-        "titre": "Sentenced to Be a Hero",
-        "heure_sortie": "15h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 56009,
-        "imdb_id": null
-      },
-      {
-        "titre": "Sentenced to Be a Hero",
-        "heure_sortie": "15h45",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 56009,
-        "imdb_id": null
-      },
-      {
-        "titre": "MF Ghost",
-        "heure_sortie": "16h00",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 50695,
-        "imdb_id": null
-      },
-      {
-        "titre": "Eris no Seihai",
-        "heure_sortie": "16h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 60151,
-        "imdb_id": null
-      },
-      {
-        "titre": "Toumei Otoko to Ningen Onna",
-        "heure_sortie": "16h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 60395,
-        "imdb_id": null
-      },
-      {
-        "titre": "Demon Slave",
-        "heure_sortie": "17h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 37210,
-        "imdb_id": null
-      },
-      {
-        "titre": "Omaegotoki",
+        "titre": "OMAEGOTOKI",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -356,16 +347,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Jujutsu Kaisen",
+        "titre": "JUJUTSU KAISEN",
         "heure_sortie": "18h00",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt12343534"
+        "mal_id": 40748,
+        "imdb_id": null
       },
       {
-        "titre": "Douse, Koi Shite Shimaunda",
+        "titre": "DOUSE, KOI SHITE SHIMAUNDA",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -374,7 +365,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Jujutsu Kaisen",
+        "titre": "JUJUTSU KAISEN",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -411,8 +402,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 52991,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       },
       {
         "titre": "Le Collège fou, fou, fou",
@@ -456,8 +447,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt9307686"
+        "mal_id": 38671,
+        "imdb_id": null
       },
       {
         "titre": "Fire Force",
@@ -506,8 +497,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 52093,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt21216104"
       },
       {
         "titre": "Dead Account",
@@ -569,8 +560,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt21216104"
+        "mal_id": 52093,
+        "imdb_id": null
       },
       {
         "titre": "To Your Eternity",
