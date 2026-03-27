@@ -98,8 +98,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 61663,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37246098"
       }
     ]
   },
@@ -130,8 +130,8 @@
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt8225204"
+        "mal_id": 36028,
+        "imdb_id": null
       },
       {
         "titre": "'Tis Time for \"Torture,\" Princess",
@@ -162,8 +162,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60226,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38652044"
       },
       {
         "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
@@ -230,8 +230,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 52034,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt21030032"
       },
       {
         "titre": "Odayaka Kizoku no Yuuuka no Susume",
@@ -248,8 +248,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt27442011"
+        "mal_id": 52890,
+        "imdb_id": null
       },
       {
         "titre": "Invincible",
@@ -272,10 +272,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 26/03",
+    "jour": "Sorties du Jeudi - 26/03",
     "animes": [
       {
-        "titre": "SENTENCED TO BE A HERO",
+        "titre": "Sentenced to Be a Hero",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -284,7 +284,7 @@
         "imdb_id": null
       },
       {
-        "titre": "SENTENCED TO BE A HERO",
+        "titre": "Sentenced to Be a Hero",
         "heure_sortie": "15h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -293,16 +293,16 @@
         "imdb_id": null
       },
       {
-        "titre": "MF GHOST",
+        "titre": "MF Ghost",
         "heure_sortie": "16h00",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 50695,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28299608"
       },
       {
-        "titre": "ERIS NO SEIHAI",
+        "titre": "Eris no Seihai",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -311,7 +311,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TOUMEI OTOKO TO NINGEN ONNA",
+        "titre": "Toumei Otoko to Ningen Onna",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -320,16 +320,16 @@
         "imdb_id": null
       },
       {
-        "titre": "DEMON SLAVE",
+        "titre": "Demon Slave",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt16156736"
+        "mal_id": 37210,
+        "imdb_id": null
       },
       {
-        "titre": "TAMON'S B-SIDE",
+        "titre": "Tamon's B-Side",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -338,7 +338,7 @@
         "imdb_id": null
       },
       {
-        "titre": "OMAEGOTOKI",
+        "titre": "Omaegotoki",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -347,16 +347,16 @@
         "imdb_id": null
       },
       {
-        "titre": "JUJUTSU KAISEN",
+        "titre": "Jujutsu Kaisen",
         "heure_sortie": "18h00",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 40748,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12343534"
       },
       {
-        "titre": "DOUSE, KOI SHITE SHIMAUNDA",
+        "titre": "Douse, Koi Shite Shimaunda",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -365,7 +365,7 @@
         "imdb_id": null
       },
       {
-        "titre": "JUJUTSU KAISEN",
+        "titre": "Jujutsu Kaisen",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -376,10 +376,10 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 27/03",
+    "jour": "SORTIES DU VENDREDI - 27/03",
     "animes": [
       {
-        "titre": "Hitori no Shita, The Outcast",
+        "titre": "HITORI NO SHITA, THE OUTCAST",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -388,7 +388,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Frieren",
+        "titre": "FRIEREN",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -397,7 +397,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Frieren",
+        "titre": "FRIEREN",
         "heure_sortie": "17h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -406,7 +406,7 @@
         "imdb_id": "tt22248376"
       },
       {
-        "titre": "Le Collège fou, fou, fou",
+        "titre": "LE COLLÈGE FOU, FOU, FOU",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -415,7 +415,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell Mode",
+        "titre": "HELL MODE",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -424,7 +424,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dark Moon",
+        "titre": "DARK MOON",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -433,7 +433,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dark Moon",
+        "titre": "DARK MOON",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -442,7 +442,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Fire Force",
+        "titre": "FIRE FORCE",
         "heure_sortie": "19h00",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
@@ -451,7 +451,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Fire Force",
+        "titre": "FIRE FORCE",
         "heure_sortie": "19h15",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
@@ -470,8 +470,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56647,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt30523856"
       },
       {
         "titre": "Detective Conan",
@@ -497,8 +497,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt21216104"
+        "mal_id": 52093,
+        "imdb_id": null
       },
       {
         "titre": "Dead Account",
@@ -533,8 +533,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 55830,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32864316"
       },
       {
         "titre": "Yuusha no Kuzu",
