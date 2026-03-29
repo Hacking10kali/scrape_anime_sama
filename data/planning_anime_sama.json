@@ -1,9 +1,9 @@
 [
   {
-    "jour": "Sorties du Dimanche - 29/03",
+    "jour": "SORTIES DU DIMANCHE - 29/03",
     "animes": [
       {
-        "titre": "SI-VIS: The Sound of Heroes",
+        "titre": "SI-VIS: THE SOUND OF HEROES",
         "heure_sortie": "03h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Digimon Beatbreak",
+        "titre": "DIGIMON BEATBREAK",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Uruwashi no Yoi no Tsuki",
+        "titre": "URUWASHI NO YOI NO TSUKI",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kaya-chan wa Kowakunai",
+        "titre": "KAYA-CHAN WA KOWAKUNAI",
         "heure_sortie": "10h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Seihantai na Kimi to Boku",
+        "titre": "SEIHANTAI NA KIMI TO BOKU",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "titre": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell's Paradise",
+        "titre": "HELL'S PARADISE",
         "heure_sortie": "16h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -66,7 +66,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell's Paradise",
+        "titre": "HELL'S PARADISE",
         "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -75,7 +75,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ikoku Nikki",
+        "titre": "IKOKU NIKKI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -84,7 +84,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Seihantai na Kimi to Boku",
+        "titre": "SEIHANTAI NA KIMI TO BOKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,7 +93,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Uruwashi no Yoi no Tsuki",
+        "titre": "URUWASHI NO YOI NO TSUKI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -112,8 +112,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt35636246"
+        "mal_id": 60593,
+        "imdb_id": null
       },
       {
         "titre": "My Hero Academia Vigilantes",
@@ -130,8 +130,8 @@
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 36028,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt8225204"
       },
       {
         "titre": "'Tis Time for \"Torture,\" Princess",
@@ -280,8 +280,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63820,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32536168"
       },
       {
         "titre": "Sentenced to Be a Hero",
@@ -289,8 +289,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt32536168"
+        "mal_id": 63820,
+        "imdb_id": null
       },
       {
         "titre": "MF Ghost",
@@ -325,8 +325,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 37210,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt16156736"
       },
       {
         "titre": "Tamon's B-Side",
@@ -361,8 +361,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32832412"
+        "mal_id": 58259,
+        "imdb_id": null
       },
       {
         "titre": "Jujutsu Kaisen",
@@ -393,8 +393,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63816,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       },
       {
         "titre": "Frieren",
@@ -411,8 +411,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0059592"
+        "mal_id": 714,
+        "imdb_id": null
       },
       {
         "titre": "Hell Mode",
@@ -462,28 +462,28 @@
     ]
   },
   {
-    "jour": "SORTIES DU SAMEDI - 28/03",
+    "jour": "Sorties du Samedi - 28/03",
     "animes": [
       {
-        "titre": "BLUE WOLVES",
+        "titre": "Blue Wolves",
         "heure_sortie": "11h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56647,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt30523856"
       },
       {
-        "titre": "DETECTIVE CONAN",
+        "titre": "Detective Conan",
         "heure_sortie": "12h00",
         "saison": "Saison 31",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0131179"
+        "mal_id": 235,
+        "imdb_id": null
       },
       {
-        "titre": "TENSEI SHITARA DRAGON NO TAMAGO DATTA",
+        "titre": "Tensei Shitara Dragon no Tamago Datta",
         "heure_sortie": "14h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -492,7 +492,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TRIGUN STAMPEDE",
+        "titre": "Trigun Stampede",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -501,7 +501,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DEAD ACCOUNT",
+        "titre": "Dead Account",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -510,7 +510,7 @@
         "imdb_id": null
       },
       {
-        "titre": "JINGAI KYOUSHITSU NO NINGEN-GIRAI KYOUSHI",
+        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -519,7 +519,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TO YOUR ETERNITY",
+        "titre": "To Your Eternity",
         "heure_sortie": "17h15",
         "saison": "Saison 3",
         "format": "Anime",
@@ -528,7 +528,7 @@
         "imdb_id": null
       },
       {
-        "titre": "FATE/STRANGE FAKE",
+        "titre": "Fate/Strange Fake",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -537,25 +537,25 @@
         "imdb_id": null
       },
       {
-        "titre": "YUUSHA NO KUZU",
+        "titre": "Yuusha no Kuzu",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61217,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36290183"
       },
       {
-        "titre": "DEAD ACCOUNT",
+        "titre": "Dead Account",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37533007"
+        "mal_id": 61196,
+        "imdb_id": null
       },
       {
-        "titre": "TRIGUN STAMPEDE",
+        "titre": "Trigun Stampede",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -564,7 +564,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TO YOUR ETERNITY",
+        "titre": "To Your Eternity",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
