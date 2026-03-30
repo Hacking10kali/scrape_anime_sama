@@ -1,9 +1,9 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 29/03",
+    "jour": "Sorties du Dimanche - 05/04",
     "animes": [
       {
-        "titre": "SI-VIS: THE SOUND OF HEROES",
+        "titre": "SI-VIS: The Sound of Heroes",
         "heure_sortie": "03h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,7 +12,16 @@
         "imdb_id": null
       },
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Uruwashi no Yoi no Tsuki",
+        "heure_sortie": "09h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61663,
+        "imdb_id": null
+      },
+      {
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -21,16 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "URUWASHI NO YOI NO TSUKI",
-        "heure_sortie": "09h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61663,
-        "imdb_id": null
-      },
-      {
-        "titre": "KAYA-CHAN WA KOWAKUNAI",
+        "titre": "Kaya-chan wa Kowakunai",
         "heure_sortie": "10h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "SEIHANTAI NA KIMI TO BOKU",
+        "titre": "Seihantai na Kimi to Boku",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,8 +48,26 @@
         "imdb_id": null
       },
       {
-        "titre": "AKUYAKU REIJOU WA RINGOKU NO OUTAISHI NI DEKIAI SARERU",
-        "heure_sortie": "16h00",
+        "titre": "Rooster Fighter",
+        "heure_sortie": "14h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Rooster Fighter",
+        "heure_sortie": "14h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+        "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -57,8 +75,8 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL'S PARADISE",
-        "heure_sortie": "16h45",
+        "titre": "Hell's Paradise",
+        "heure_sortie": "17h45",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -66,17 +84,8 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL'S PARADISE",
-        "heure_sortie": "17h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 46569,
-        "imdb_id": null
-      },
-      {
-        "titre": "IKOKU NIKKI",
-        "heure_sortie": "17h00",
+        "titre": "Ikoku Nikki",
+        "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -84,31 +93,40 @@
         "imdb_id": null
       },
       {
-        "titre": "SEIHANTAI NA KIMI TO BOKU",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
+        "titre": "Hell's Paradise",
+        "heure_sortie": "18h00",
+        "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60371,
+        "mal_id": 46569,
         "imdb_id": null
       },
       {
-        "titre": "URUWASHI NO YOI NO TSUKI",
+        "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 61663,
         "imdb_id": null
+      },
+      {
+        "titre": "Seihantai na Kimi to Boku",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 60371,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Lundi - 23/03",
+    "jour": "SORTIES DU LUNDI - 30/03",
     "animes": [
       {
-        "titre": "My Hero Academia Vigilantes",
-        "heure_sortie": "15h30",
+        "titre": "MY HERO ACADEMIA VIGILANTES",
+        "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -116,8 +134,8 @@
         "imdb_id": null
       },
       {
-        "titre": "My Hero Academia Vigilantes",
-        "heure_sortie": "15h45",
+        "titre": "MY HERO ACADEMIA VIGILANTES",
+        "heure_sortie": "16h45",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
@@ -125,17 +143,17 @@
         "imdb_id": null
       },
       {
-        "titre": "Golden Kamui",
-        "heure_sortie": "16h00",
+        "titre": "GOLDEN KAMUI",
+        "heure_sortie": "17h00",
         "saison": "Saison 5",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt8225204"
+        "mal_id": 36028,
+        "imdb_id": null
       },
       {
-        "titre": "'Tis Time for \"Torture,\" Princess",
-        "heure_sortie": "17h30",
+        "titre": "'TIS TIME FOR \"TORTURE,\" PRINCESS",
+        "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -145,7 +163,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 24/03",
+    "jour": "Sorties du Mardi - 31/03",
     "animes": [
       {
         "titre": "Mayonaka Heart Tune",
@@ -198,13 +216,13 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60255,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38798044"
       }
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 25/03",
+    "jour": "Sorties du Mercredi - 01/04",
     "animes": [
       {
         "titre": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
@@ -212,8 +230,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38977386"
+        "mal_id": 61549,
+        "imdb_id": null
       },
       {
         "titre": "29-Sai Dokushin Chuuken Boukensha no Nichijou",
@@ -272,7 +290,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 26/03",
+    "jour": "Sorties du Jeudi - 02/04",
     "animes": [
       {
         "titre": "Sentenced to Be a Hero",
@@ -280,8 +298,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32536168"
+        "mal_id": 63820,
+        "imdb_id": null
       },
       {
         "titre": "Sentenced to Be a Hero",
@@ -298,8 +316,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 50695,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28299608"
       },
       {
         "titre": "Eris no Seihai",
@@ -325,8 +343,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt16156736"
+        "mal_id": 37210,
+        "imdb_id": null
       },
       {
         "titre": "Tamon's B-Side",
@@ -352,8 +370,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 40748,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12343534"
       },
       {
         "titre": "Douse, Koi Shite Shimaunda",
@@ -376,7 +394,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 27/03",
+    "jour": "Sorties du Vendredi - 03/04",
     "animes": [
       {
         "titre": "Hitori no Shita, The Outcast",
@@ -393,8 +411,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt22248376"
+        "mal_id": 63816,
+        "imdb_id": null
       },
       {
         "titre": "Frieren",
@@ -411,8 +429,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 714,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt0059592"
       },
       {
         "titre": "Hell Mode",
@@ -462,7 +480,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 28/03",
+    "jour": "Sorties du Samedi - 04/04",
     "animes": [
       {
         "titre": "Blue Wolves",
@@ -470,8 +488,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt30523856"
+        "mal_id": 56647,
+        "imdb_id": null
       },
       {
         "titre": "Detective Conan",
@@ -506,8 +524,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61196,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37533007"
       },
       {
         "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
@@ -542,8 +560,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36290183"
+        "mal_id": 61217,
+        "imdb_id": null
       },
       {
         "titre": "Dead Account",
@@ -569,8 +587,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 41025,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12063450"
       }
     ]
   }
