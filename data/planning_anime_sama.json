@@ -91,6 +91,15 @@
         "langue": "VOSTFR",
         "mal_id": 62983,
         "imdb_id": null
+      },
+      {
+        "titre": "Nippon Sangoku",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63375,
+        "imdb_id": null
       }
     ]
   },
@@ -118,20 +127,29 @@
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 31/03",
+    "jour": "Sorties du Mardi - 31/03",
     "animes": [
       {
-        "titre": "YUUSHA PARTY NI KAWAII KO GA ITA NODE, KOKUHAKU SHITEMITA",
-        "heure_sortie": "16h30",
+        "titre": "Biidama no Tsuki",
+        "heure_sortie": "13h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61983,
+        "mal_id": 62484,
         "imdb_id": null
       },
       {
-        "titre": "DARWIN'S INCIDENT",
-        "heure_sortie": "17h00",
+        "titre": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38037498"
+      },
+      {
+        "titre": "Darwin's Incident",
+        "heure_sortie": "18h05",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -139,8 +157,8 @@
         "imdb_id": null
       },
       {
-        "titre": "DARWIN'S INCIDENT",
-        "heure_sortie": "17h15",
+        "titre": "Darwin's Incident",
+        "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
@@ -148,8 +166,8 @@
         "imdb_id": null
       },
       {
-        "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE BUT AN APPRAISER",
-        "heure_sortie": "?",
+        "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
+        "heure_sortie": "18h35",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -157,8 +175,8 @@
         "imdb_id": null
       },
       {
-        "titre": "MAID-SAN WA TABERU DAKE",
-        "heure_sortie": "?",
+        "titre": "Maid-san wa Taberu Dake",
+        "heure_sortie": "18h45",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -168,10 +186,10 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 01/04",
+    "jour": "SORTIES DU MERCREDI - 01/04",
     "animes": [
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -180,7 +198,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -189,7 +207,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ganbare! Nakamura-kun!!",
+        "titre": "GANBARE! NAKAMURA-KUN!!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -198,7 +216,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dorohedoro",
+        "titre": "DOROHEDORO",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -207,7 +225,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Reborn as a Vending Machine",
+        "titre": "REBORN AS A VENDING MACHINE",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -216,7 +234,7 @@
         "imdb_id": "tt28100731"
       },
       {
-        "titre": "Always a Catch",
+        "titre": "ALWAYS A CATCH",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -225,7 +243,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Beginning After the End",
+        "titre": "THE BEGINNING AFTER THE END",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -234,7 +252,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Classroom of the Elite",
+        "titre": "CLASSROOM OF THE ELITE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -280,8 +298,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61943,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122622"
       },
       {
         "titre": "Kirio Fanclub",
@@ -425,7 +443,16 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62432,
+        "mal_id": null,
+        "imdb_id": "tt38646016"
+      },
+      {
+        "titre": "Akane-banashi",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62164,
         "imdb_id": null
       },
       {
@@ -435,15 +462,6 @@
         "format": "Anime",
         "langue": "VF",
         "mal_id": 61196,
-        "imdb_id": null
-      },
-      {
-        "titre": "Akane-banashi",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62164,
         "imdb_id": null
       },
       {
@@ -461,8 +479,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39122739"
+        "mal_id": 62050,
+        "imdb_id": null
       },
       {
         "titre": "Kanan-sama wa Akumade Choroi",
@@ -488,8 +506,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62048,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12432936"
       },
       {
         "titre": "Needy Girl Overdose",
