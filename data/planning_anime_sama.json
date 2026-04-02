@@ -144,8 +144,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38037498"
+        "mal_id": 61983,
+        "imdb_id": null
       },
       {
         "titre": "Darwin's Incident",
@@ -186,10 +186,64 @@
     ]
   },
   {
-    "jour": "SORTIES DU MERCREDI - 01/04",
+    "jour": "Sorties du Mercredi - 01/04",
     "animes": [
       {
-        "titre": "INVINCIBLE",
+        "titre": "Classroom of the Elite",
+        "heure_sortie": "14h00",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 35507,
+        "imdb_id": null
+      },
+      {
+        "titre": "Dorohedoro",
+        "heure_sortie": "16h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 38668,
+        "imdb_id": null
+      },
+      {
+        "titre": "Reborn as a Vending Machine",
+        "heure_sortie": "18h00",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62512,
+        "imdb_id": null
+      },
+      {
+        "titre": "The Beginning After the End",
+        "heure_sortie": "18h45",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt34119820"
+      },
+      {
+        "titre": "Ganbare! Nakamura-kun!!",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59551,
+        "imdb_id": null
+      },
+      {
+        "titre": "Always a Catch",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62893,
+        "imdb_id": null
+      },
+      {
+        "titre": "Invincible",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -198,7 +252,7 @@
         "imdb_id": null
       },
       {
-        "titre": "INVINCIBLE",
+        "titre": "Invincible",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -207,66 +261,21 @@
         "imdb_id": null
       },
       {
-        "titre": "GANBARE! NAKAMURA-KUN!!",
+        "titre": "Ganbare! Nakamura-kun!!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR",
+        "langue": "VF",
         "mal_id": 59551,
-        "imdb_id": null
-      },
-      {
-        "titre": "DOROHEDORO",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 38668,
-        "imdb_id": null
-      },
-      {
-        "titre": "REBORN AS A VENDING MACHINE",
-        "heure_sortie": "?",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28100731"
-      },
-      {
-        "titre": "ALWAYS A CATCH",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62893,
-        "imdb_id": null
-      },
-      {
-        "titre": "THE BEGINNING AFTER THE END",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61831,
-        "imdb_id": null
-      },
-      {
-        "titre": "CLASSROOM OF THE ELITE",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 35507,
         "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 02/04",
+    "jour": "SORTIES DU JEUDI - 02/04",
     "animes": [
       {
-        "titre": "Sentenced to Be a Hero",
+        "titre": "SENTENCED TO BE A HERO",
         "heure_sortie": "15h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -275,7 +284,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Jujutsu Kaisen",
+        "titre": "JUJUTSU KAISEN",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -284,7 +293,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dr. Stone",
+        "titre": "DR. STONE",
         "heure_sortie": "?",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -293,16 +302,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Haibara's Teenage New Game+",
+        "titre": "HAIBARA'S TEENAGE NEW GAME+",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39122622"
+        "mal_id": 61943,
+        "imdb_id": null
       },
       {
-        "titre": "Kirio Fanclub",
+        "titre": "KIRIO FANCLUB",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -311,7 +320,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Komekami! Girls",
+        "titre": "KOMEKAMI! GIRLS",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -320,7 +329,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Koori no Jouheki",
+        "titre": "KOORI NO JOUHEKI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -329,7 +338,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Monster Eater",
+        "titre": "MONSTER EATER",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -338,7 +347,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Killed Again Mr. Detective",
+        "titre": "KILLED AGAIN MR. DETECTIVE",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -347,7 +356,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Reincarnation no Kaben",
+        "titre": "REINCARNATION NO KABEN",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -443,8 +452,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38646016"
+        "mal_id": 62432,
+        "imdb_id": null
       },
       {
         "titre": "Akane-banashi",
@@ -497,8 +506,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39196,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11034066"
       },
       {
         "titre": "MAO",
@@ -506,8 +515,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt12432936"
+        "mal_id": 62048,
+        "imdb_id": null
       },
       {
         "titre": "Needy Girl Overdose",
