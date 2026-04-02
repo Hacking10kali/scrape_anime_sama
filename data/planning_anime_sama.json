@@ -167,7 +167,7 @@
       },
       {
         "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
-        "heure_sortie": "18h35",
+        "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -176,7 +176,7 @@
       },
       {
         "titre": "Maid-san wa Taberu Dake",
-        "heure_sortie": "18h45",
+        "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -198,6 +198,15 @@
         "imdb_id": null
       },
       {
+        "titre": "Reborn as a Vending Machine",
+        "heure_sortie": "16h30",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62512,
+        "imdb_id": null
+      },
+      {
         "titre": "Dorohedoro",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
@@ -207,12 +216,12 @@
         "imdb_id": null
       },
       {
-        "titre": "Reborn as a Vending Machine",
-        "heure_sortie": "18h00",
-        "saison": "Saison 3",
+        "titre": "Always a Catch",
+        "heure_sortie": "18h30",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62512,
+        "mal_id": 62893,
         "imdb_id": null
       },
       {
@@ -231,15 +240,6 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 59551,
-        "imdb_id": null
-      },
-      {
-        "titre": "Always a Catch",
-        "heure_sortie": "19h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62893,
         "imdb_id": null
       },
       {
@@ -276,11 +276,56 @@
     "animes": [
       {
         "titre": "SENTENCED TO BE A HERO",
-        "heure_sortie": "15h45",
+        "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 63820,
+        "imdb_id": null
+      },
+      {
+        "titre": "DR. STONE",
+        "heure_sortie": "16h30",
+        "saison": "Saison 4 Partie 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 38691,
+        "imdb_id": null
+      },
+      {
+        "titre": "DR STONE",
+        "heure_sortie": "17h30",
+        "saison": "Saison 4 Partie 3",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 38691,
+        "imdb_id": null
+      },
+      {
+        "titre": "KOORI NO JOUHEKI",
+        "heure_sortie": "18h15",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 60852,
+        "imdb_id": null
+      },
+      {
+        "titre": "HAIBARA'S TEENAGE NEW GAME+",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61943,
+        "imdb_id": null
+      },
+      {
+        "titre": "KILLED AGAIN MR. DETECTIVE",
+        "heure_sortie": "20h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62964,
         "imdb_id": null
       },
       {
@@ -293,75 +338,12 @@
         "imdb_id": null
       },
       {
-        "titre": "DR. STONE",
-        "heure_sortie": "?",
-        "saison": "Saison 4 Partie 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 38691,
-        "imdb_id": null
-      },
-      {
-        "titre": "HAIBARA'S TEENAGE NEW GAME+",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61943,
-        "imdb_id": null
-      },
-      {
-        "titre": "KIRIO FANCLUB",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 59835,
-        "imdb_id": null
-      },
-      {
-        "titre": "KOMEKAMI! GIRLS",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63709,
-        "imdb_id": null
-      },
-      {
         "titre": "KOORI NO JOUHEKI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR",
+        "langue": "VF",
         "mal_id": 60852,
-        "imdb_id": null
-      },
-      {
-        "titre": "MONSTER EATER",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63304,
-        "imdb_id": null
-      },
-      {
-        "titre": "KILLED AGAIN MR. DETECTIVE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62964,
-        "imdb_id": null
-      },
-      {
-        "titre": "REINCARNATION NO KABEN",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 59443,
         "imdb_id": null
       }
     ]
@@ -393,8 +375,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt9307686"
+        "mal_id": 38671,
+        "imdb_id": null
       },
       {
         "titre": "Fire Force",
@@ -402,8 +384,8 @@
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 38671,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt9307686"
       },
       {
         "titre": "The Angel Next Door Spoils Me Rotten",
@@ -465,6 +447,15 @@
         "imdb_id": null
       },
       {
+        "titre": "Shunkashuutou Daikousha",
+        "heure_sortie": "19h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61443,
+        "imdb_id": null
+      },
+      {
         "titre": "Dead Account",
         "heure_sortie": "?",
         "saison": "Saison 1",
@@ -506,8 +497,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt11034066"
+        "mal_id": 39196,
+        "imdb_id": null
       },
       {
         "titre": "MAO",
@@ -537,12 +528,12 @@
         "imdb_id": null
       },
       {
-        "titre": "Shunkashuutou Daikousha",
+        "titre": "Trigun Stampede",
         "heure_sortie": "?",
-        "saison": "Saison 1",
+        "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61443,
+        "langue": "VF",
+        "mal_id": 52093,
         "imdb_id": null
       }
     ]
