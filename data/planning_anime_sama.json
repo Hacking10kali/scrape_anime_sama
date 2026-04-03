@@ -212,8 +212,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 38668,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11147852"
       },
       {
         "titre": "Always a Catch",
@@ -230,8 +230,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt34119820"
+        "mal_id": 61831,
+        "imdb_id": null
       },
       {
         "titre": "Ganbare! Nakamura-kun!!",
@@ -272,19 +272,19 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 02/04",
+    "jour": "Sorties du Jeudi - 02/04",
     "animes": [
       {
-        "titre": "SENTENCED TO BE A HERO",
+        "titre": "Sentenced to Be a Hero",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 63820,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32536168"
       },
       {
-        "titre": "DR. STONE",
+        "titre": "Dr. Stone",
         "heure_sortie": "16h30",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -293,7 +293,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DR STONE",
+        "titre": "Dr Stone",
         "heure_sortie": "17h30",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -302,7 +302,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KOORI NO JOUHEKI",
+        "titre": "Koori no Jouheki",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -311,7 +311,7 @@
         "imdb_id": null
       },
       {
-        "titre": "HAIBARA'S TEENAGE NEW GAME+",
+        "titre": "Haibara's Teenage New Game+",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -320,7 +320,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KILLED AGAIN MR. DETECTIVE",
+        "titre": "Killed Again Mr. Detective",
         "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -329,7 +329,7 @@
         "imdb_id": null
       },
       {
-        "titre": "JUJUTSU KAISEN",
+        "titre": "Jujutsu Kaisen",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -338,21 +338,21 @@
         "imdb_id": null
       },
       {
-        "titre": "KOORI NO JOUHEKI",
+        "titre": "Koori no Jouheki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       }
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 03/04",
+    "jour": "SORTIES DU VENDREDI - 03/04",
     "animes": [
       {
-        "titre": "Hitori no Shita, The Outcast",
+        "titre": "HITORI NO SHITA, THE OUTCAST",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -361,7 +361,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Frieren",
+        "titre": "FRIEREN",
         "heure_sortie": "17h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -370,7 +370,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Fire Force",
+        "titre": "FIRE FORCE",
         "heure_sortie": "19h00",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
@@ -379,16 +379,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Fire Force",
+        "titre": "FIRE FORCE",
         "heure_sortie": "19h15",
         "saison": "Saison 3 Partie 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt9307686"
+        "mal_id": 38671,
+        "imdb_id": null
       },
       {
-        "titre": "The Angel Next Door Spoils Me Rotten",
+        "titre": "THE ANGEL NEXT DOOR SPOILS ME ROTTEN",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -397,7 +397,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Snowball Earth",
+        "titre": "SNOWBALL EARTH",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -406,7 +406,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -443,8 +443,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62164,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38797595"
       },
       {
         "titre": "Shunkashuutou Daikousha",
