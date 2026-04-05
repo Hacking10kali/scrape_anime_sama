@@ -1,10 +1,10 @@
 [
   {
-    "jour": "Sorties du Dimanche - 05/04",
+    "jour": "SORTIES DU DIMANCHE - 05/04",
     "animes": [
       {
-        "titre": "Digimon Beatbreak",
-        "heure_sortie": "09h30",
+        "titre": "DIGIMON BEATBREAK",
+        "heure_sortie": "12h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -12,17 +12,8 @@
         "imdb_id": null
       },
       {
-        "titre": "Rooster Fighter",
-        "heure_sortie": "14h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 59393,
-        "imdb_id": null
-      },
-      {
-        "titre": "Rooster Fighter",
-        "heure_sortie": "14h00",
+        "titre": "ROOSTER FIGHTER",
+        "heure_sortie": "12h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -30,7 +21,25 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell's Paradise",
+        "titre": "ROOSTER FIGHTER",
+        "heure_sortie": "12h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "NIPPON SANGOKU",
+        "heure_sortie": "15h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63375,
+        "imdb_id": null
+      },
+      {
+        "titre": "HELL'S PARADISE",
         "heure_sortie": "18h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -39,52 +48,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Ace of Diamond",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 18689,
-        "imdb_id": null
-      },
-      {
-        "titre": "Nippon Sangoku",
-        "heure_sortie": "?",
+        "titre": "MAID-SAN WA TABERU DAKE",
+        "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63375,
+        "mal_id": 62342,
         "imdb_id": null
       },
       {
-        "titre": "Marika's Love Meter Malfunction",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62983,
-        "imdb_id": null
-      },
-      {
-        "titre": "Mahou no Shimai Lulutto Lilly",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63667,
-        "imdb_id": null
-      },
-      {
-        "titre": "Ghost Concert",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62852,
-        "imdb_id": null
-      },
-      {
-        "titre": "Seihantai na Kimi to Boku",
+        "titre": "SEIHANTAI NA KIMI TO BOKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,7 +66,34 @@
         "imdb_id": null
       },
       {
-        "titre": "One Piece",
+        "titre": "GHOST CONCERT",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62852,
+        "imdb_id": null
+      },
+      {
+        "titre": "MARIKA'S LOVE METER MALFUNCTION",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt41395364"
+      },
+      {
+        "titre": "MAHOU NO SHIMAI LULUTTO LILLY",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63667,
+        "imdb_id": null
+      },
+      {
+        "titre": "ONE PIECE",
         "heure_sortie": "?",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
@@ -102,7 +102,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Uruwashi no Yoi no Tsuki",
+        "titre": "ACE OF DIAMOND",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 18689,
+        "imdb_id": null
+      },
+      {
+        "titre": "URUWASHI NO YOI NO TSUKI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -121,8 +130,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60593,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt35636246"
       },
       {
         "titre": "Release That Witch",
@@ -153,8 +162,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38037498"
+        "mal_id": 61983,
+        "imdb_id": null
       },
       {
         "titre": "Darwin's Incident",
@@ -172,15 +181,6 @@
         "format": "Anime",
         "langue": "VF",
         "mal_id": 58886,
-        "imdb_id": null
-      },
-      {
-        "titre": "Maid-san wa Taberu Dake",
-        "heure_sortie": "18h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62342,
         "imdb_id": null
       }
     ]
@@ -334,8 +334,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 40748,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt12343534"
       },
       {
         "titre": "Koori no Jouheki",
@@ -343,8 +343,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt39123061"
+        "mal_id": 60852,
+        "imdb_id": null
       }
     ]
   },
@@ -384,8 +384,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 37430,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38650409"
       },
       {
         "titre": "Snowball Earth",
@@ -426,10 +426,19 @@
     ]
   },
   {
-    "jour": "SORTIES DU SAMEDI - 04/04",
+    "jour": "Sorties du Samedi - 04/04",
     "animes": [
       {
-        "titre": "DETECTIVE CONAN",
+        "titre": "Ascendance of a Bookworm",
+        "heure_sortie": "12h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 39468,
+        "imdb_id": null
+      },
+      {
+        "titre": "Detective Conan",
         "heure_sortie": "13h00",
         "saison": "Saison 31",
         "format": "Anime",
@@ -438,7 +447,16 @@
         "imdb_id": "tt0131179"
       },
       {
-        "titre": "JINGAI KYOUSHITSU NO NINGEN-GIRAI KYOUSHI",
+        "titre": "Welcome to Demon School Iruma-kun",
+        "heure_sortie": "13h30",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 39196,
+        "imdb_id": null
+      },
+      {
+        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -447,7 +465,25 @@
         "imdb_id": null
       },
       {
-        "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE BUT AN APPRAISER",
+        "titre": "Akane-banashi",
+        "heure_sortie": "18h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62164,
+        "imdb_id": null
+      },
+      {
+        "titre": "Yomi no Tsugai",
+        "heure_sortie": "18h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62001,
+        "imdb_id": null
+      },
+      {
+        "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -456,7 +492,34 @@
         "imdb_id": null
       },
       {
-        "titre": "SHUNKASHUUTOU DAIKOUSHA",
+        "titre": "MAO",
+        "heure_sortie": "18h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62048,
+        "imdb_id": null
+      },
+      {
+        "titre": "Kanan-sama wa Akumade Choroi",
+        "heure_sortie": "18h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt37729351"
+      },
+      {
+        "titre": "Kusunoki's Garden of Gods",
+        "heure_sortie": "19h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62050,
+        "imdb_id": null
+      },
+      {
+        "titre": "Shunkashuutou Daikousha",
         "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -465,7 +528,16 @@
         "imdb_id": null
       },
       {
-        "titre": "DEAD ACCOUNT",
+        "titre": "Needy Girl Overdose",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62913,
+        "imdb_id": null
+      },
+      {
+        "titre": "Dead Account",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -474,85 +546,22 @@
         "imdb_id": null
       },
       {
-        "titre": "AKANE-BANASHI",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62164,
-        "imdb_id": null
-      },
-      {
-        "titre": "ASCENDANCE OF A BOOKWORM",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 39468,
-        "imdb_id": null
-      },
-      {
-        "titre": "KUSUNOKI'S GARDEN OF GODS",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62050,
-        "imdb_id": null
-      },
-      {
-        "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61501,
-        "imdb_id": null
-      },
-      {
-        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 39196,
-        "imdb_id": null
-      },
-      {
-        "titre": "MAO",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62048,
-        "imdb_id": null
-      },
-      {
-        "titre": "NEEDY GIRL OVERDOSE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62913,
-        "imdb_id": null
-      },
-      {
-        "titre": "YOMI NO TSUGAI",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62001,
-        "imdb_id": null
-      },
-      {
-        "titre": "TRIGUN STAMPEDE",
+        "titre": "Trigun Stampede",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
+        "mal_id": 52093,
+        "imdb_id": null
+      },
+      {
+        "titre": "Yomi no Tsugai",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt21216104"
+        "imdb_id": "tt37532356"
       }
     ]
   }
