@@ -1,9 +1,27 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 05/04",
+    "jour": "Sorties du Dimanche - 12/04",
     "animes": [
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Rooster Fighter",
+        "heure_sortie": "12h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Rooster Fighter",
+        "heure_sortie": "12h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "12h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,25 +30,16 @@
         "imdb_id": null
       },
       {
-        "titre": "ROOSTER FIGHTER",
+        "titre": "Ace of Diamond",
         "heure_sortie": "12h00",
-        "saison": "Saison 1",
+        "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 59393,
+        "mal_id": 18689,
         "imdb_id": null
       },
       {
-        "titre": "ROOSTER FIGHTER",
-        "heure_sortie": "12h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 59393,
-        "imdb_id": null
-      },
-      {
-        "titre": "NIPPON SANGOKU",
+        "titre": "Nippon Sangoku",
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +48,16 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL'S PARADISE",
+        "titre": "Nippon Sangoku",
+        "heure_sortie": "15h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 63375,
+        "imdb_id": null
+      },
+      {
+        "titre": "Hell's Paradise",
         "heure_sortie": "18h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -48,7 +66,16 @@
         "imdb_id": null
       },
       {
-        "titre": "MAID-SAN WA TABERU DAKE",
+        "titre": "Ghost Concert",
+        "heure_sortie": "18h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt40547056"
+      },
+      {
+        "titre": "Maid-san wa Taberu Dake",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,44 +84,8 @@
         "imdb_id": null
       },
       {
-        "titre": "SEIHANTAI NA KIMI TO BOKU",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 60371,
-        "imdb_id": null
-      },
-      {
-        "titre": "GHOST CONCERT",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62852,
-        "imdb_id": null
-      },
-      {
-        "titre": "MARIKA'S LOVE METER MALFUNCTION",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41395364"
-      },
-      {
-        "titre": "MAHOU NO SHIMAI LULUTTO LILLY",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63667,
-        "imdb_id": null
-      },
-      {
-        "titre": "ONE PIECE",
-        "heure_sortie": "?",
+        "titre": "One Piece",
+        "heure_sortie": "20h30",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -102,30 +93,39 @@
         "imdb_id": null
       },
       {
-        "titre": "ACE OF DIAMOND",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 18689,
-        "imdb_id": null
-      },
-      {
-        "titre": "URUWASHI NO YOI NO TSUKI",
+        "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 61663,
         "imdb_id": null
+      },
+      {
+        "titre": "Seihantai na Kimi to Boku",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 60371,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Lundi - 30/03",
+    "jour": "SORTIES DU LUNDI - 06/04",
     "animes": [
       {
-        "titre": "My Hero Academia Vigilantes",
+        "titre": "FARMING LIFE IN ANOTHER WORLD",
+        "heure_sortie": "16h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 51462,
+        "imdb_id": null
+      },
+      {
+        "titre": "MY HERO ACADEMIA VIGILANTES",
         "heure_sortie": "16h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -134,18 +134,45 @@
         "imdb_id": "tt35636246"
       },
       {
-        "titre": "Release That Witch",
+        "titre": "RELEASE THAT WITCH",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "Inconnue",
         "mal_id": 62927,
         "imdb_id": null
+      },
+      {
+        "titre": "L'ATELIER DES SORCIERS",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 33489,
+        "imdb_id": null
+      },
+      {
+        "titre": "LIAR GAME",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62331,
+        "imdb_id": null
+      },
+      {
+        "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt39443960"
       }
     ]
   },
   {
-    "jour": "Sorties du Mardi - 31/03",
+    "jour": "Sorties du Mardi - 07/04",
     "animes": [
       {
         "titre": "Biidama no Tsuki",
@@ -186,7 +213,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 01/04",
+    "jour": "Sorties du Mercredi - 08/04",
     "animes": [
       {
         "titre": "Classroom of the Elite",
@@ -194,8 +221,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 35507,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt7263328"
       },
       {
         "titre": "Reborn as a Vending Machine",
@@ -272,7 +299,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 02/04",
+    "jour": "Sorties du Jeudi - 09/04",
     "animes": [
       {
         "titre": "Sentenced to Be a Hero",
@@ -280,8 +307,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 63820,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32536168"
       },
       {
         "titre": "Dr. Stone",
@@ -349,7 +376,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 03/04",
+    "jour": "Sorties du Vendredi - 10/04",
     "animes": [
       {
         "titre": "Hitori no Shita, The Outcast",
@@ -375,8 +402,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 50739,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt19064770"
       },
       {
         "titre": "Tensei Shitara Slime Datta Ken",
@@ -384,8 +411,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38650409"
+        "mal_id": 37430,
+        "imdb_id": null
       },
       {
         "titre": "Snowball Earth",
@@ -402,8 +429,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 63816,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       },
       {
         "titre": "Fire Force",
@@ -426,7 +453,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 04/04",
+    "jour": "Sorties du Samedi - 11/04",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
@@ -506,8 +533,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37729351"
+        "mal_id": 61501,
+        "imdb_id": null
       },
       {
         "titre": "Kusunoki's Garden of Gods",
@@ -560,8 +587,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37532356"
+        "mal_id": 62001,
+        "imdb_id": null
       }
     ]
   }
