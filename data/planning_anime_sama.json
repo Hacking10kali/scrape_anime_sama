@@ -62,8 +62,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 46569,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt13911284"
       },
       {
         "titre": "Ghost Concert",
@@ -71,8 +71,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt40547056"
+        "mal_id": 62852,
+        "imdb_id": null
       },
       {
         "titre": "Maid-san wa Taberu Dake",
@@ -98,8 +98,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 53865,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt31131310"
       },
       {
         "titre": "Tsue to Tsurugi no Wistoria",
@@ -116,8 +116,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt36034547"
+        "mal_id": 60371,
+        "imdb_id": null
       },
       {
         "titre": "Kuroneko to Majo no Kyoushitsu",
@@ -148,8 +148,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 51462,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt19223420"
       },
       {
         "titre": "L'Atelier des Sorciers",
@@ -166,8 +166,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39443960"
+        "mal_id": 61425,
+        "imdb_id": null
       },
       {
         "titre": "Liar Game",
@@ -184,8 +184,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": 62927,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt40370555"
       },
       {
         "titre": "L'Atelier des Sorciers",
@@ -202,62 +202,44 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt35636246"
+        "mal_id": 60593,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 07/04",
+    "jour": "Sorties du Mardi - 07/04",
     "animes": [
       {
-        "titre": "MEGAMI \"ISEKAI TENSEI NANI NI NARITAI DESU KA\" ORE \"YUUSHA NO ROKKOTSU DE\"",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63376,
-        "imdb_id": null
-      },
-      {
-        "titre": "TADAIMA OJAMASAREMASU",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63014,
-        "imdb_id": null
-      },
-      {
-        "titre": "HIDARIKIKI NO EREN",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 53732,
-        "imdb_id": null
-      },
-      {
-        "titre": "REPLICA DATTE KOI WO SURU",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61013,
-        "imdb_id": null
-      },
-      {
-        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
-        "heure_sortie": "?",
+        "titre": "The Most Heretical Last Boss Queen",
+        "heure_sortie": "17h00",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt23132598"
+        "mal_id": 61931,
+        "imdb_id": null
       },
       {
-        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
-        "heure_sortie": "?",
+        "titre": "Marriage Toxin",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62601,
+        "imdb_id": null
+      },
+      {
+        "titre": "Replica Datte Koi wo Suru",
+        "heure_sortie": "17h10",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt22297712"
+      },
+      {
+        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
+        "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -265,22 +247,40 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
-        "heure_sortie": "?",
+        "titre": "Hidarikiki no Eren",
+        "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62601,
+        "mal_id": 53732,
         "imdb_id": null
+      },
+      {
+        "titre": "My Ribdiculous Reincarnation",
+        "heure_sortie": "20h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 14653,
+        "imdb_id": null
+      },
+      {
+        "titre": "Tadaima Ojamasaremasu",
+        "heure_sortie": "21h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt40548626"
       }
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 08/04",
+    "jour": "SORTIES DU MERCREDI - 08/04",
     "animes": [
       {
-        "titre": "Classroom of the Elite",
-        "heure_sortie": "14h00",
+        "titre": "CLASSROOM OF THE ELITE",
+        "heure_sortie": "15h00",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -288,16 +288,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Reborn as a Vending Machine",
+        "titre": "REBORN AS A VENDING MACHINE",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28100731"
+        "mal_id": 62512,
+        "imdb_id": null
       },
       {
-        "titre": "Dorohedoro",
+        "titre": "DOROHEDORO",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -306,7 +306,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Always a Catch",
+        "titre": "ALWAYS A CATCH",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -315,16 +315,16 @@
         "imdb_id": null
       },
       {
-        "titre": "The Beginning After the End",
+        "titre": "THE BEGINNING AFTER THE END",
         "heure_sortie": "18h45",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61831,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt34119820"
       },
       {
-        "titre": "Ganbare! Nakamura-kun!!",
+        "titre": "GANBARE! NAKAMURA-KUN!!",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -333,16 +333,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": null,
-        "imdb_id": "tt6741278"
+        "mal_id": 54913,
+        "imdb_id": null
       },
       {
-        "titre": "Invincible",
+        "titre": "INVINCIBLE",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -351,7 +351,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ganbare! Nakamura-kun!!",
+        "titre": "GANBARE! NAKAMURA-KUN!!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -360,7 +360,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Re Zero",
+        "titre": "RE ZERO",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -369,7 +369,7 @@
         "imdb_id": "tt5607616"
       },
       {
-        "titre": "Otaku ni Yasashii Gal wa Inai",
+        "titre": "OTAKU NI YASASHII GAL WA INAI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -406,17 +406,17 @@
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 38691,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt9679542"
       },
       {
-        "titre": "Koori no Jouheki",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39123061"
+        "mal_id": 60852,
+        "imdb_id": null
       },
       {
         "titre": "Haibara's Teenage New Game+",
@@ -442,11 +442,11 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt12343534"
+        "mal_id": 40748,
+        "imdb_id": null
       },
       {
-        "titre": "Koori no Jouheki",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -564,8 +564,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61186,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38273912"
       },
       {
         "titre": "Ken le Survivant",
@@ -587,8 +587,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt10885406"
+        "mal_id": 39468,
+        "imdb_id": null
       },
       {
         "titre": "Detective Conan",
@@ -632,8 +632,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62001,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37532356"
       },
       {
         "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
@@ -695,8 +695,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37533007"
+        "mal_id": 61196,
+        "imdb_id": null
       },
       {
         "titre": "Trigun Stampede",
@@ -713,8 +713,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 62001,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37532356"
       },
       {
         "titre": "Kill Ao",
