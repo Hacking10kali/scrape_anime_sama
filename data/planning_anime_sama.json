@@ -1,10 +1,19 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 12/04",
+    "jour": "Sorties du Dimanche - 19/04",
     "animes": [
       {
-        "titre": "ACE OF DIAMOND",
-        "heure_sortie": "11h30",
+        "titre": "Tsue to Tsurugi no Wistoria",
+        "heure_sortie": "11h10",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 58059,
+        "imdb_id": null
+      },
+      {
+        "titre": "Ace of Diamond",
+        "heure_sortie": "11h20",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -12,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ROOSTER FIGHTER",
+        "titre": "Rooster Fighter",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -21,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ROOSTER FIGHTER",
+        "titre": "Rooster Fighter",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "12h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "NIPPON SANGOKU",
+        "titre": "Nippon Sangoku",
         "heure_sortie": "14h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "NIPPON SANGOKU",
+        "titre": "Nippon Sangoku",
         "heure_sortie": "14h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,25 +66,34 @@
         "imdb_id": null
       },
       {
-        "titre": "MAID-SAN WA TABERU DAKE",
+        "titre": "Maid-san wa Taberu Dake",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62342,
+        "mal_id": null,
+        "imdb_id": "tt38040630"
+      },
+      {
+        "titre": "Kuroneko to Majo no Kyoushitsu",
+        "heure_sortie": "17h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62171,
         "imdb_id": null
       },
       {
-        "titre": "GHOST CONCERT",
+        "titre": "Ghost Concert",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt40547056"
+        "mal_id": 62852,
+        "imdb_id": null
       },
       {
-        "titre": "ONE PIECE",
+        "titre": "One Piece",
         "heure_sortie": "20h20",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
@@ -84,25 +102,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MISSION YOZAKURA FAMILY",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 53865,
-        "imdb_id": null
-      },
-      {
-        "titre": "TSUE TO TSURUGI NO WISTORIA",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 58059,
-        "imdb_id": null
-      },
-      {
-        "titre": "SEIHANTAI NA KIMI TO BOKU",
+        "titre": "Seihantai na Kimi to Boku",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -111,16 +111,7 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL'S PARADISE",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 46569,
-        "imdb_id": null
-      },
-      {
-        "titre": "URUWASHI NO YOI NO TSUKI",
+        "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -129,22 +120,22 @@
         "imdb_id": null
       },
       {
-        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
+        "titre": "Hell's Paradise",
         "heure_sortie": "?",
-        "saison": "Saison 1",
+        "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VOSTFR",
+        "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt39123043"
+        "imdb_id": "tt13911284"
       }
     ]
   },
   {
-    "jour": "Sorties du Lundi - 06/04",
+    "jour": "SORTIES DU LUNDI - 13/04",
     "animes": [
       {
-        "titre": "Farming Life in Another World",
-        "heure_sortie": "16h30",
+        "titre": "FARMING LIFE IN ANOTHER WORLD",
+        "heure_sortie": "16h20",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -152,8 +143,8 @@
         "imdb_id": null
       },
       {
-        "titre": "L'Atelier des Sorciers",
-        "heure_sortie": "16h30",
+        "titre": "L'ATELIER DES SORCIERS",
+        "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -161,8 +152,8 @@
         "imdb_id": null
       },
       {
-        "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
-        "heure_sortie": "17h30",
+        "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
+        "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -170,8 +161,8 @@
         "imdb_id": null
       },
       {
-        "titre": "Liar Game",
-        "heure_sortie": "18h30",
+        "titre": "LIAR GAME",
+        "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -179,25 +170,25 @@
         "imdb_id": null
       },
       {
-        "titre": "Release That Witch",
-        "heure_sortie": "19h30",
+        "titre": "RELEASE THAT WITCH",
+        "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": null,
-        "imdb_id": "tt40370555"
+        "mal_id": 62927,
+        "imdb_id": null
       },
       {
-        "titre": "L'Atelier des Sorciers",
+        "titre": "L'ATELIER DES SORCIERS",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 33489,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32550889"
       },
       {
-        "titre": "My Hero Academia Vigilantes",
+        "titre": "MY HERO ACADEMIA VIGILANTES",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -208,7 +199,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 07/04",
+    "jour": "Sorties du Mardi - 14/04",
     "animes": [
       {
         "titre": "The Most Heretical Last Boss Queen",
@@ -276,7 +267,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 08/04",
+    "jour": "Sorties du Mercredi - 15/04",
     "animes": [
       {
         "titre": "Invincible",
@@ -293,8 +284,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 54913,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt6741278"
       },
       {
         "titre": "Classroom of the Elite",
@@ -302,8 +293,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt7263328"
+        "mal_id": 35507,
+        "imdb_id": null
       },
       {
         "titre": "Rent a Girlfriend",
@@ -320,8 +311,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 42364,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt5607616"
       },
       {
         "titre": "Dorohedoro",
@@ -338,8 +329,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28100731"
+        "mal_id": 62512,
+        "imdb_id": null
       },
       {
         "titre": "Otaku ni Yasashii Gal wa Inai",
@@ -407,7 +398,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 09/04",
+    "jour": "Sorties du Jeudi - 16/04",
     "animes": [
       {
         "titre": "The Barbarian's Bride",
@@ -442,8 +433,8 @@
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt9679542"
+        "mal_id": 38691,
+        "imdb_id": null
       },
       {
         "titre": "The Ramparts of Ice",
@@ -496,8 +487,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt12343534"
+        "mal_id": 40748,
+        "imdb_id": null
       },
       {
         "titre": "Sentenced to Be a Hero",
@@ -511,7 +502,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 10/04",
+    "jour": "Sorties du Vendredi - 17/04",
     "animes": [
       {
         "titre": "Hitori no Shita, The Outcast",
@@ -537,8 +528,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt19064770"
+        "mal_id": 50739,
+        "imdb_id": null
       },
       {
         "titre": "Tensei Shitara Slime Datta Ken",
@@ -582,8 +573,8 @@
         "saison": "Fist of the North Star",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0091211"
+        "mal_id": 1358,
+        "imdb_id": null
       },
       {
         "titre": "Ken le Survivant",
@@ -600,13 +591,13 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 63816,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt22248376"
       }
     ]
   },
   {
-    "jour": "Sorties du Samedi - 11/04",
+    "jour": "Sorties du Samedi - 18/04",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
@@ -641,8 +632,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38895862"
+        "mal_id": 60444,
+        "imdb_id": null
       },
       {
         "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
@@ -686,8 +677,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37729351"
+        "mal_id": 61501,
+        "imdb_id": null
       },
       {
         "titre": "Akane-banashi",
@@ -722,8 +713,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61443,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39267868"
       },
       {
         "titre": "Needy Girl Overdose",
@@ -731,8 +722,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39403976"
+        "mal_id": 62913,
+        "imdb_id": null
       },
       {
         "titre": "Yuusha no Kuzu",
@@ -776,8 +767,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37532356"
+        "mal_id": 62001,
+        "imdb_id": null
       }
     ]
   }
