@@ -356,8 +356,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39443176"
+        "mal_id": 62604,
+        "imdb_id": null
       },
       {
         "titre": "Always a Catch",
@@ -398,10 +398,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 16/04",
+    "jour": "Sorties du Jeudi - 16/04",
     "animes": [
       {
-        "titre": "THE BARBARIAN'S BRIDE",
+        "titre": "The Barbarian's Bride",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -410,7 +410,25 @@
         "imdb_id": "tt36593277"
       },
       {
-        "titre": "KUJIMA UTAEBA IE HORORO",
+        "titre": "Dandelion",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63572,
+        "imdb_id": null
+      },
+      {
+        "titre": "Dandelion",
+        "heure_sortie": "15h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 63572,
+        "imdb_id": null
+      },
+      {
+        "titre": "Kujima Utaeba Ie Hororo",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -419,7 +437,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DR. STONE",
+        "titre": "Dr. Stone",
         "heure_sortie": "16h20",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -428,8 +446,8 @@
         "imdb_id": null
       },
       {
-        "titre": "DR STONE",
-        "heure_sortie": "17h00",
+        "titre": "Dr Stone",
+        "heure_sortie": "16h45",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
         "langue": "VF",
@@ -437,16 +455,16 @@
         "imdb_id": null
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -455,7 +473,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AWAJIMA HYAKKEI",
+        "titre": "Awajima Hyakkei",
         "heure_sortie": "19h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -464,8 +482,8 @@
         "imdb_id": null
       },
       {
-        "titre": "HAIBARA'S TEENAGE NEW GAME+",
-        "heure_sortie": "20h50",
+        "titre": "Haibara's Teenage New Game+",
+        "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -473,8 +491,8 @@
         "imdb_id": null
       },
       {
-        "titre": "KILLED AGAIN MR. DETECTIVE",
-        "heure_sortie": "21h20",
+        "titre": "Killed Again Mr. Detective",
+        "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -482,7 +500,7 @@
         "imdb_id": null
       },
       {
-        "titre": "JUJUTSU KAISEN",
+        "titre": "Jujutsu Kaisen",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -491,25 +509,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DANDELION",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63572,
-        "imdb_id": null
-      },
-      {
-        "titre": "DANDELION",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 63572,
-        "imdb_id": null
-      },
-      {
-        "titre": "SENTENCED TO BE A HERO",
+        "titre": "Sentenced to Be a Hero",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -520,10 +520,10 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 17/04",
+    "jour": "SORTIES DU VENDREDI - 17/04",
     "animes": [
       {
-        "titre": "Hitori no Shita, The Outcast",
+        "titre": "HITORI NO SHITA, THE OUTCAST",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -532,7 +532,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Observation Records of My Fiancée",
+        "titre": "OBSERVATION RECORDS OF MY FIANCÉE",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -541,7 +541,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Angel Next Door Spoils Me Rotten",
+        "titre": "THE ANGEL NEXT DOOR SPOILS ME ROTTEN",
         "heure_sortie": "16h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -550,7 +550,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h40",
         "saison": "Saison 4",
         "format": "Anime",
@@ -559,7 +559,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Snowball Earth",
+        "titre": "SNOWBALL EARTH",
         "heure_sortie": "18h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -568,7 +568,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "18h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -577,7 +577,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Botan Kamiina Fully Blossoms When Drunk",
+        "titre": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK",
         "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -586,7 +586,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "19h00",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -595,16 +595,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "19h00",
         "saison": "Fist of the North Star",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt0091211"
+        "mal_id": 1358,
+        "imdb_id": null
       },
       {
-        "titre": "Frieren",
+        "titre": "FRIEREN",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -623,8 +623,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39468,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt10885406"
       },
       {
         "titre": "Detective Conan",
@@ -731,8 +731,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61443,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39267868"
       },
       {
         "titre": "Needy Girl Overdose",
@@ -740,8 +740,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39403976"
+        "mal_id": 62913,
+        "imdb_id": null
       },
       {
         "titre": "Yuusha no Kuzu",
