@@ -71,8 +71,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62342,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38040630"
       },
       {
         "titre": "Kuroneko to Majo no Kyoushitsu",
@@ -98,8 +98,8 @@
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 459,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11737520"
       },
       {
         "titre": "Seihantai na Kimi to Boku",
@@ -148,8 +148,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 33489,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32550889"
       },
       {
         "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
@@ -338,8 +338,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 38668,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11147852"
       },
       {
         "titre": "Re Zero",
@@ -392,8 +392,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 59551,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37182080"
       }
     ]
   },
@@ -406,8 +406,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36593277"
+        "mal_id": 60028,
+        "imdb_id": null
       },
       {
         "titre": "Dandelion",
@@ -460,8 +460,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39123061"
+        "mal_id": 60852,
+        "imdb_id": null
       },
       {
         "titre": "The Ramparts of Ice",
@@ -520,10 +520,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU VENDREDI - 17/04",
+    "jour": "Sorties du Vendredi - 17/04",
     "animes": [
       {
-        "titre": "HITORI NO SHITA, THE OUTCAST",
+        "titre": "Hitori no Shita, The Outcast",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -532,7 +532,7 @@
         "imdb_id": null
       },
       {
-        "titre": "OBSERVATION RECORDS OF MY FIANCÉE",
+        "titre": "Observation Records of My Fiancée",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -541,7 +541,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE ANGEL NEXT DOOR SPOILS ME ROTTEN",
+        "titre": "The Angel Next Door Spoils Me Rotten",
         "heure_sortie": "16h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -550,8 +550,8 @@
         "imdb_id": null
       },
       {
-        "titre": "TENSEI SHITARA SLIME DATTA KEN",
-        "heure_sortie": "17h40",
+        "titre": "Tensei Shitara Slime Datta Ken",
+        "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -559,8 +559,8 @@
         "imdb_id": null
       },
       {
-        "titre": "SNOWBALL EARTH",
-        "heure_sortie": "18h10",
+        "titre": "Snowball Earth",
+        "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -568,8 +568,8 @@
         "imdb_id": null
       },
       {
-        "titre": "KAMI NO SHIZUKU",
-        "heure_sortie": "18h10",
+        "titre": "Kami no Shizuku",
+        "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -577,16 +577,16 @@
         "imdb_id": null
       },
       {
-        "titre": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK",
-        "heure_sortie": "19h00",
+        "titre": "Botan Kamiina Fully Blossoms When Drunk",
+        "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61186,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38273912"
       },
       {
-        "titre": "KEN LE SURVIVANT",
+        "titre": "Ken le Survivant",
         "heure_sortie": "19h00",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -595,7 +595,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KEN LE SURVIVANT",
+        "titre": "Ken le Survivant",
         "heure_sortie": "19h00",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -604,7 +604,7 @@
         "imdb_id": null
       },
       {
-        "titre": "FRIEREN",
+        "titre": "Frieren",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -615,29 +615,20 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 18/04",
+    "jour": "SORTIES DU SAMEDI - 18/04",
     "animes": [
       {
-        "titre": "Ascendance of a Bookworm",
-        "heure_sortie": "12h00",
+        "titre": "ASCENDANCE OF A BOOKWORM",
+        "heure_sortie": "11h50",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt10885406"
-      },
-      {
-        "titre": "Detective Conan",
-        "heure_sortie": "13h00",
-        "saison": "Saison 31",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 235,
+        "mal_id": 39468,
         "imdb_id": null
       },
       {
-        "titre": "Welcome to Demon School Iruma-kun",
-        "heure_sortie": "13h30",
+        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
+        "heure_sortie": "12h45",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -645,8 +636,17 @@
         "imdb_id": null
       },
       {
-        "titre": "Yowayowa Sensei",
-        "heure_sortie": "15h30",
+        "titre": "DETECTIVE CONAN",
+        "heure_sortie": "13h00",
+        "saison": "Saison 31",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt0131179"
+      },
+      {
+        "titre": "YOWAYOWA SENSEI",
+        "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -654,7 +654,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
+        "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE BUT AN APPRAISER",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -663,8 +663,8 @@
         "imdb_id": null
       },
       {
-        "titre": "Kill Ao",
-        "heure_sortie": "17h00",
+        "titre": "KILL AO",
+        "heure_sortie": "16h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -672,7 +672,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
+        "titre": "JINGAI KYOUSHITSU NO NINGEN-GIRAI KYOUSHI",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -682,7 +682,7 @@
       },
       {
         "titre": "MAO",
-        "heure_sortie": "18h15",
+        "heure_sortie": "18h10",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -690,7 +690,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kanan-sama wa Akumade Choroi",
+        "titre": "KANAN-SAMA WA AKUMADE CHOROI",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -699,7 +699,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Akane-banashi",
+        "titre": "AKANE-BANASHI",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -708,7 +708,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Yomi no Tsugai",
+        "titre": "YOMI NO TSUGAI",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -717,8 +717,17 @@
         "imdb_id": null
       },
       {
-        "titre": "Kusunoki's Garden of Gods",
+        "titre": "SHUNKASHUUTOU DAIKOUSHA",
         "heure_sortie": "18h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61443,
+        "imdb_id": null
+      },
+      {
+        "titre": "KUSUNOKI'S GARDEN OF GODS",
+        "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -726,16 +735,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Shunkashuutou Daikousha",
-        "heure_sortie": "18h50",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39267868"
-      },
-      {
-        "titre": "Needy Girl Overdose",
+        "titre": "NEEDY GIRL OVERDOSE",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -744,17 +744,17 @@
         "imdb_id": null
       },
       {
-        "titre": "Yuusha no Kuzu",
+        "titre": "YUUSHA NO KUZU",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61217,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36290183"
       },
       {
-        "titre": "Ichijouma Mankitsu Gurashi",
-        "heure_sortie": "19h30",
+        "titre": "ICHIJOUMA MANKITSU GURASHI",
+        "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -762,7 +762,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dead Account",
+        "titre": "DEAD ACCOUNT",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -771,7 +771,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Trigun Stampede",
+        "titre": "TRIGUN STAMPEDE",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -780,7 +780,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Yomi no Tsugai",
+        "titre": "YOMI NO TSUGAI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
