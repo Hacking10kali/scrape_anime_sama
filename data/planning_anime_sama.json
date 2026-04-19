@@ -1,9 +1,9 @@
 [
   {
-    "jour": "Sorties du Dimanche - 19/04",
+    "jour": "SORTIES DU DIMANCHE - 19/04",
     "animes": [
       {
-        "titre": "Tsue to Tsurugi no Wistoria",
+        "titre": "TSUE TO TSURUGI NO WISTORIA",
         "heure_sortie": "11h10",
         "saison": "Saison 2",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ace of Diamond",
+        "titre": "ACE OF DIAMOND",
         "heure_sortie": "11h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Rooster Fighter",
+        "titre": "ROOSTER FIGHTER",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Rooster Fighter",
+        "titre": "ROOSTER FIGHTER",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Digimon Beatbreak",
+        "titre": "DIGIMON BEATBREAK",
         "heure_sortie": "12h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Nippon Sangoku",
+        "titre": "NIPPON SANGOKU",
         "heure_sortie": "14h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Nippon Sangoku",
+        "titre": "NIPPON SANGOKU",
         "heure_sortie": "14h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -66,16 +66,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Maid-san wa Taberu Dake",
+        "titre": "MAID-SAN WA TABERU DAKE",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38040630"
+        "mal_id": 62342,
+        "imdb_id": null
       },
       {
-        "titre": "Kuroneko to Majo no Kyoushitsu",
+        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -84,7 +84,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ghost Concert",
+        "titre": "GHOST CONCERT",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,16 +93,16 @@
         "imdb_id": null
       },
       {
-        "titre": "One Piece",
+        "titre": "ONE PIECE",
         "heure_sortie": "20h20",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt11737520"
+        "mal_id": 459,
+        "imdb_id": null
       },
       {
-        "titre": "Seihantai na Kimi to Boku",
+        "titre": "SEIHANTAI NA KIMI TO BOKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -111,7 +111,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Uruwashi no Yoi no Tsuki",
+        "titre": "URUWASHI NO YOI NO TSUKI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -120,7 +120,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell's Paradise",
+        "titre": "HELL'S PARADISE",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -148,8 +148,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32550889"
+        "mal_id": 33489,
+        "imdb_id": null
       },
       {
         "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
@@ -338,8 +338,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt11147852"
+        "mal_id": 38668,
+        "imdb_id": null
       },
       {
         "titre": "Re Zero",
@@ -392,8 +392,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt37182080"
+        "mal_id": 59551,
+        "imdb_id": null
       }
     ]
   },
@@ -582,8 +582,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38273912"
+        "mal_id": 61186,
+        "imdb_id": null
       },
       {
         "titre": "Ken le Survivant",
@@ -615,10 +615,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU SAMEDI - 18/04",
+    "jour": "Sorties du Samedi - 18/04",
     "animes": [
       {
-        "titre": "ASCENDANCE OF A BOOKWORM",
+        "titre": "Ascendance of a Bookworm",
         "heure_sortie": "11h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -627,7 +627,7 @@
         "imdb_id": null
       },
       {
-        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
+        "titre": "Welcome to Demon School Iruma-kun",
         "heure_sortie": "12h45",
         "saison": "Saison 4",
         "format": "Anime",
@@ -636,16 +636,16 @@
         "imdb_id": null
       },
       {
-        "titre": "DETECTIVE CONAN",
+        "titre": "Detective Conan",
         "heure_sortie": "13h00",
         "saison": "Saison 31",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0131179"
+        "mal_id": 235,
+        "imdb_id": null
       },
       {
-        "titre": "YOWAYOWA SENSEI",
+        "titre": "Yowayowa Sensei",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -654,7 +654,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE BUT AN APPRAISER",
+        "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -663,7 +663,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KILL AO",
+        "titre": "Kill Ao",
         "heure_sortie": "16h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -672,7 +672,16 @@
         "imdb_id": null
       },
       {
-        "titre": "JINGAI KYOUSHITSU NO NINGEN-GIRAI KYOUSHI",
+        "titre": "Akane-banashi",
+        "heure_sortie": "17h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62164,
+        "imdb_id": null
+      },
+      {
+        "titre": "Jingai Kyoushitsu no Ningen-girai Kyoushi",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -686,11 +695,11 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62048,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37577523"
       },
       {
-        "titre": "KANAN-SAMA WA AKUMADE CHOROI",
+        "titre": "Kanan-sama wa Akumade Choroi",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -699,16 +708,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AKANE-BANASHI",
-        "heure_sortie": "18h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62164,
-        "imdb_id": null
-      },
-      {
-        "titre": "YOMI NO TSUGAI",
+        "titre": "Yomi no Tsugai",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -717,7 +717,16 @@
         "imdb_id": null
       },
       {
-        "titre": "SHUNKASHUUTOU DAIKOUSHA",
+        "titre": "Yomi no Tsugai",
+        "heure_sortie": "18h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 62001,
+        "imdb_id": null
+      },
+      {
+        "titre": "Shunkashuutou Daikousha",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -726,16 +735,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KUSUNOKI'S GARDEN OF GODS",
-        "heure_sortie": "19h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62050,
-        "imdb_id": null
-      },
-      {
-        "titre": "NEEDY GIRL OVERDOSE",
+        "titre": "Needy Girl Overdose",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -744,16 +744,25 @@
         "imdb_id": null
       },
       {
-        "titre": "YUUSHA NO KUZU",
+        "titre": "Kusunoki's Garden of Gods",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt36290183"
+        "imdb_id": "tt39122739"
       },
       {
-        "titre": "ICHIJOUMA MANKITSU GURASHI",
+        "titre": "Yuusha no Kuzu",
+        "heure_sortie": "19h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61217,
+        "imdb_id": null
+      },
+      {
+        "titre": "Ichijouma Mankitsu Gurashi",
         "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -762,7 +771,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DEAD ACCOUNT",
+        "titre": "Dead Account",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -771,21 +780,12 @@
         "imdb_id": null
       },
       {
-        "titre": "TRIGUN STAMPEDE",
+        "titre": "Trigun Stampede",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 52093,
-        "imdb_id": null
-      },
-      {
-        "titre": "YOMI NO TSUGAI",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 62001,
         "imdb_id": null
       }
     ]
