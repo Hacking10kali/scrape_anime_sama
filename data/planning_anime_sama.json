@@ -1,10 +1,19 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 19/04",
+    "jour": "Sorties du Dimanche - 26/04",
     "animes": [
       {
-        "titre": "TSUE TO TSURUGI NO WISTORIA",
-        "heure_sortie": "11h10",
+        "titre": "Digimon Beatbreak",
+        "heure_sortie": "10h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61269,
+        "imdb_id": null
+      },
+      {
+        "titre": "Tsue to Tsurugi no Wistoria",
+        "heure_sortie": "10h50",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -12,7 +21,25 @@
         "imdb_id": null
       },
       {
-        "titre": "ACE OF DIAMOND",
+        "titre": "Rooster Fighter",
+        "heure_sortie": "11h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Rooster Fighter",
+        "heure_sortie": "11h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 59393,
+        "imdb_id": null
+      },
+      {
+        "titre": "Ace of Diamond",
         "heure_sortie": "11h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -21,35 +48,8 @@
         "imdb_id": null
       },
       {
-        "titre": "ROOSTER FIGHTER",
-        "heure_sortie": "11h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 59393,
-        "imdb_id": null
-      },
-      {
-        "titre": "ROOSTER FIGHTER",
-        "heure_sortie": "11h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 59393,
-        "imdb_id": null
-      },
-      {
-        "titre": "DIGIMON BEATBREAK",
-        "heure_sortie": "12h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61269,
-        "imdb_id": null
-      },
-      {
-        "titre": "NIPPON SANGOKU",
-        "heure_sortie": "14h45",
+        "titre": "Nippon Sangoku",
+        "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
@@ -57,8 +57,8 @@
         "imdb_id": null
       },
       {
-        "titre": "NIPPON SANGOKU",
-        "heure_sortie": "14h45",
+        "titre": "Nippon Sangoku",
+        "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -66,7 +66,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MAID-SAN WA TABERU DAKE",
+        "titre": "Maid-san wa Taberu Dake",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -75,7 +75,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
+        "titre": "Kuroneko to Majo no Kyoushitsu",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -84,7 +84,7 @@
         "imdb_id": null
       },
       {
-        "titre": "GHOST CONCERT",
+        "titre": "Ghost Concert",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,16 +93,16 @@
         "imdb_id": null
       },
       {
-        "titre": "ONE PIECE",
+        "titre": "One Piece",
         "heure_sortie": "20h20",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 459,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11737520"
       },
       {
-        "titre": "SEIHANTAI NA KIMI TO BOKU",
+        "titre": "Seihantai na Kimi to Boku",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -111,7 +111,7 @@
         "imdb_id": null
       },
       {
-        "titre": "URUWASHI NO YOI NO TSUKI",
+        "titre": "Uruwashi no Yoi no Tsuki",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -120,7 +120,7 @@
         "imdb_id": null
       },
       {
-        "titre": "HELL'S PARADISE",
+        "titre": "Hell's Paradise",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -131,10 +131,10 @@
     ]
   },
   {
-    "jour": "Sorties du Lundi - 13/04",
+    "jour": "SORTIES DU LUNDI - 20/04",
     "animes": [
       {
-        "titre": "Farming Life in Another World",
+        "titre": "FARMING LIFE IN ANOTHER WORLD",
         "heure_sortie": "16h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -143,7 +143,7 @@
         "imdb_id": null
       },
       {
-        "titre": "L'Atelier des Sorciers",
+        "titre": "L'ATELIER DES SORCIERS",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -152,16 +152,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
+        "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61425,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39443960"
       },
       {
-        "titre": "Liar Game",
+        "titre": "LIAR GAME",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -170,7 +170,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Release That Witch",
+        "titre": "RELEASE THAT WITCH",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -179,7 +179,7 @@
         "imdb_id": null
       },
       {
-        "titre": "L'Atelier des Sorciers",
+        "titre": "L'ATELIER DES SORCIERS",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 14/04",
+    "jour": "Sorties du Mardi - 21/04",
     "animes": [
       {
         "titre": "The Most Heretical Last Boss Queen",
@@ -216,8 +216,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62601,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122769"
       },
       {
         "titre": "Aishiteru Game wo Owarasetai",
@@ -267,7 +267,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 15/04",
+    "jour": "Sorties du Mercredi - 22/04",
     "animes": [
       {
         "titre": "Invincible",
@@ -320,8 +320,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62512,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28100731"
       },
       {
         "titre": "Re Zero",
@@ -365,8 +365,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62893,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122552"
       },
       {
         "titre": "The Beginning After the End",
@@ -398,7 +398,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 16/04",
+    "jour": "Sorties du Jeudi - 23/04",
     "animes": [
       {
         "titre": "The Barbarian's Bride",
@@ -520,7 +520,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 17/04",
+    "jour": "Sorties du Vendredi - 24/04",
     "animes": [
       {
         "titre": "Hitori no Shita, The Outcast",
@@ -573,8 +573,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62981,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39026840"
       },
       {
         "titre": "Botan Kamiina Fully Blossoms When Drunk",
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 18/04",
+    "jour": "Sorties du Samedi - 25/04",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
@@ -641,8 +641,8 @@
         "saison": "Saison 31",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 235,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt0131179"
       },
       {
         "titre": "Yowayowa Sensei",
@@ -695,8 +695,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37577523"
+        "mal_id": 62048,
+        "imdb_id": null
       },
       {
         "titre": "Kanan-sama wa Akumade Choroi",
