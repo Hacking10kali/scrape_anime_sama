@@ -104,10 +104,19 @@
     ]
   },
   {
-    "jour": "SORTIES DU LUNDI - 27/04",
+    "jour": "Sorties du Lundi - 27/04",
     "animes": [
       {
-        "titre": "FARMING LIFE IN ANOTHER WORLD",
+        "titre": "L'Atelier des Sorciers",
+        "heure_sortie": "16h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32550889"
+      },
+      {
+        "titre": "Farming Life in Another World",
         "heure_sortie": "16h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -116,16 +125,7 @@
         "imdb_id": null
       },
       {
-        "titre": "L'ATELIER DES SORCIERS",
-        "heure_sortie": "16h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 33489,
-        "imdb_id": null
-      },
-      {
-        "titre": "L'ATELIER DES SORCIERS",
+        "titre": "L'Atelier des Sorciers",
         "heure_sortie": "17h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -134,39 +134,30 @@
         "imdb_id": null
       },
       {
-        "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
+        "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39443960"
+        "mal_id": 61425,
+        "imdb_id": null
       },
       {
-        "titre": "LIAR GAME",
+        "titre": "Liar Game",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 62331,
         "imdb_id": null
-      },
-      {
-        "titre": "RELEASE THAT WITCH",
-        "heure_sortie": "19h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "Inconnue",
-        "mal_id": 62927,
-        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Mardi - 28/04",
+    "jour": "SORTIES DU MARDI - 28/04",
     "animes": [
       {
-        "titre": "The Most Heretical Last Boss Queen",
+        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
         "heure_sortie": "15h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -175,7 +166,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Replica Datte Koi wo Suru",
+        "titre": "REPLICA DATTE KOI WO SURU",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -184,7 +175,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Marriage Toxin",
+        "titre": "MARRIAGE TOXIN",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -193,7 +184,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Aishiteru Game wo Owarasetai",
+        "titre": "AISHITERU GAME WO OWARASETAI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -202,7 +193,7 @@
         "imdb_id": null
       },
       {
-        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
+        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -211,7 +202,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hidarikiki no Eren",
+        "titre": "HIDARIKIKI NO EREN",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -220,7 +211,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tadaima Ojamasaremasu",
+        "titre": "TADAIMA OJAMASAREMASU",
         "heure_sortie": "19h55",
         "saison": "Saison 1",
         "format": "Anime",
@@ -229,7 +220,7 @@
         "imdb_id": null
       },
       {
-        "titre": "My Ribdiculous Reincarnation",
+        "titre": "MY RIBDICULOUS REINCARNATION",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -293,8 +284,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62512,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28100731"
       },
       {
         "titre": "Re Zero",
@@ -302,8 +293,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt5607616"
+        "mal_id": 42364,
+        "imdb_id": null
       },
       {
         "titre": "Dorohedoro",
@@ -347,8 +338,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61831,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt34119820"
       },
       {
         "titre": "Ganbare! Nakamura-kun!!",
@@ -374,8 +365,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt34119820"
+        "mal_id": 61831,
+        "imdb_id": null
       },
       {
         "titre": "Ganbare! Nakamura-kun!!",
@@ -564,8 +555,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 37430,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38650409"
       },
       {
         "titre": "Snowball Earth",
@@ -587,8 +578,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt10885406"
+        "mal_id": 39468,
+        "imdb_id": null
       },
       {
         "titre": "Welcome to Demon School Iruma-kun",
@@ -623,8 +614,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62825,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38840807"
       },
       {
         "titre": "Kill Ao",
@@ -663,21 +654,21 @@
         "imdb_id": null
       },
       {
-        "titre": "Kanan-sama wa Akumade Choroi",
-        "heure_sortie": "18h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61501,
-        "imdb_id": null
-      },
-      {
         "titre": "Yomi no Tsugai",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 62001,
+        "imdb_id": null
+      },
+      {
+        "titre": "Kanan-sama wa Akumade Choroi",
+        "heure_sortie": "18h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61501,
         "imdb_id": null
       },
       {
@@ -695,16 +686,7 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39267868"
-      },
-      {
-        "titre": "Needy Girl Overdose",
-        "heure_sortie": "19h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62913,
+        "mal_id": 61443,
         "imdb_id": null
       },
       {
@@ -726,12 +708,30 @@
         "imdb_id": null
       },
       {
+        "titre": "Needy Girl Overdose",
+        "heure_sortie": "19h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62913,
+        "imdb_id": null
+      },
+      {
         "titre": "Ichijouma Mankitsu Gurashi",
         "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 39250,
+        "imdb_id": null
+      },
+      {
+        "titre": "My Hero Academia",
+        "heure_sortie": "?",
+        "saison": "Episode spécial \"More\"",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 31964,
         "imdb_id": null
       }
     ]
