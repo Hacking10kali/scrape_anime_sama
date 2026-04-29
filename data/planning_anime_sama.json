@@ -112,8 +112,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32550889"
+        "mal_id": 33489,
+        "imdb_id": null
       },
       {
         "titre": "Farming Life in Another World",
@@ -121,8 +121,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 51462,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt19223420"
       },
       {
         "titre": "L'Atelier des Sorciers",
@@ -154,10 +154,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 28/04",
+    "jour": "Sorties du Mardi - 28/04",
     "animes": [
       {
-        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
+        "titre": "The Most Heretical Last Boss Queen",
         "heure_sortie": "15h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -166,7 +166,7 @@
         "imdb_id": null
       },
       {
-        "titre": "REPLICA DATTE KOI WO SURU",
+        "titre": "Replica Datte Koi wo Suru",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -175,7 +175,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -184,7 +184,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AISHITERU GAME WO OWARASETAI",
+        "titre": "Aishiteru Game wo Owarasetai",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -193,7 +193,7 @@
         "imdb_id": null
       },
       {
-        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
+        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -202,7 +202,16 @@
         "imdb_id": null
       },
       {
-        "titre": "HIDARIKIKI NO EREN",
+        "titre": "Marriage Toxin",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 62601,
+        "imdb_id": null
+      },
+      {
+        "titre": "Hidarikiki no Eren",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -211,7 +220,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TADAIMA OJAMASAREMASU",
+        "titre": "Tadaima Ojamasaremasu",
         "heure_sortie": "19h55",
         "saison": "Saison 1",
         "format": "Anime",
@@ -220,7 +229,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MY RIBDICULOUS REINCARNATION",
+        "titre": "My Ribdiculous Reincarnation",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -231,28 +240,10 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 29/04",
+    "jour": "SORTIES DU MERCREDI - 29/04",
     "animes": [
       {
-        "titre": "Invincible",
-        "heure_sortie": "12h00",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "Inconnue",
-        "mal_id": 54913,
-        "imdb_id": null
-      },
-      {
-        "titre": "Invincible",
-        "heure_sortie": "12h00",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 54913,
-        "imdb_id": null
-      },
-      {
-        "titre": "Classroom of the Elite",
+        "titre": "CLASSROOM OF THE ELITE",
         "heure_sortie": "14h50",
         "saison": "Saison 4",
         "format": "Anime",
@@ -261,7 +252,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Rent a Girlfriend",
+        "titre": "RENT A GIRLFRIEND",
         "heure_sortie": "15h20",
         "saison": "Saison 5",
         "format": "Anime",
@@ -270,25 +261,25 @@
         "imdb_id": null
       },
       {
-        "titre": "Dorohedoro",
+        "titre": "DOROHEDORO",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 38668,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11147852"
       },
       {
-        "titre": "Reborn as a Vending Machine",
+        "titre": "REBORN AS A VENDING MACHINE",
         "heure_sortie": "16h30",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28100731"
+        "mal_id": 62512,
+        "imdb_id": null
       },
       {
-        "titre": "Re Zero",
+        "titre": "RE ZERO",
         "heure_sortie": "16h30",
         "saison": "Saison 4",
         "format": "Anime",
@@ -297,7 +288,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dorohedoro",
+        "titre": "DOROHEDORO",
         "heure_sortie": "16h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -306,7 +297,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Re Zero",
+        "titre": "RE ZERO",
         "heure_sortie": "17h00",
         "saison": "Saison 4",
         "format": "Anime",
@@ -315,16 +306,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Otaku ni Yasashii Gal wa Inai",
+        "titre": "OTAKU NI YASASHII GAL WA INAI",
         "heure_sortie": "18h10",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62604,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39443176"
       },
       {
-        "titre": "Always a Catch",
+        "titre": "ALWAYS A CATCH",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -333,16 +324,16 @@
         "imdb_id": null
       },
       {
-        "titre": "The Beginning After the End",
+        "titre": "THE BEGINNING AFTER THE END",
         "heure_sortie": "18h35",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt34119820"
+        "mal_id": 61831,
+        "imdb_id": null
       },
       {
-        "titre": "Ganbare! Nakamura-kun!!",
+        "titre": "GANBARE! NAKAMURA-KUN!!",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -351,7 +342,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Reborn as a Vending Machine",
+        "titre": "REBORN AS A VENDING MACHINE",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -360,7 +351,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Beginning After the End",
+        "titre": "THE BEGINNING AFTER THE END",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -369,13 +360,13 @@
         "imdb_id": null
       },
       {
-        "titre": "Ganbare! Nakamura-kun!!",
+        "titre": "GANBARE! NAKAMURA-KUN!!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 59551,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37182080"
       }
     ]
   },
@@ -546,8 +537,8 @@
         "saison": "Fist of the North Star",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 1358,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt0091211"
       },
       {
         "titre": "Tensei Shitara Slime Datta Ken",
@@ -555,8 +546,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt38650409"
+        "mal_id": 37430,
+        "imdb_id": null
       },
       {
         "titre": "Snowball Earth",
@@ -614,8 +605,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38840807"
+        "mal_id": 62825,
+        "imdb_id": null
       },
       {
         "titre": "Kill Ao",
@@ -668,8 +659,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61501,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37729351"
       },
       {
         "titre": "Yomi no Tsugai",
@@ -722,8 +713,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39250,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41398126"
       },
       {
         "titre": "My Hero Academia",
