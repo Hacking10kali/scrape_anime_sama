@@ -71,8 +71,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63375,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt40548519"
       },
       {
         "titre": "Maid-san wa Taberu Dake",
@@ -130,8 +130,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 51462,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt19223420"
       },
       {
         "titre": "L'Atelier des Sorciers",
@@ -157,16 +157,16 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62331,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39229633"
       }
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 05/05",
+    "jour": "Sorties du Mardi - 05/05",
     "animes": [
       {
-        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
+        "titre": "The Most Heretical Last Boss Queen",
         "heure_sortie": "15h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -175,7 +175,7 @@
         "imdb_id": null
       },
       {
-        "titre": "REPLICA DATTE KOI WO SURU",
+        "titre": "Replica Datte Koi wo Suru",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -184,7 +184,16 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt37532971"
+      },
+      {
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -193,7 +202,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AISHITERU GAME WO OWARASETAI",
+        "titre": "Aishiteru Game wo Owarasetai",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -202,25 +211,16 @@
         "imdb_id": null
       },
       {
-        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
-        "heure_sortie": "17h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 58732,
-        "imdb_id": null
-      },
-      {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 62601,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122769"
       },
       {
-        "titre": "HIDARIKIKI NO EREN",
+        "titre": "Hidarikiki no Eren",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -229,7 +229,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TADAIMA OJAMASAREMASU",
+        "titre": "Tadaima Ojamasaremasu",
         "heure_sortie": "19h55",
         "saison": "Saison 1",
         "format": "Anime",
@@ -238,7 +238,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MY RIBDICULOUS REINCARNATION",
+        "titre": "My Ribdiculous Reincarnation",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -257,8 +257,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 35507,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt7263328"
       },
       {
         "titre": "Rent a Girlfriend",
@@ -270,22 +270,13 @@
         "imdb_id": null
       },
       {
-        "titre": "Rent a Girlfriend",
-        "heure_sortie": "16h00",
-        "saison": "Saison 5",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 40839,
-        "imdb_id": null
-      },
-      {
         "titre": "Dorohedoro",
         "heure_sortie": "16h30",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt11147852"
+        "mal_id": 38668,
+        "imdb_id": null
       },
       {
         "titre": "Reborn as a Vending Machine",
@@ -293,8 +284,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62512,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28100731"
       },
       {
         "titre": "Re Zero",
@@ -306,12 +297,12 @@
         "imdb_id": null
       },
       {
-        "titre": "Dorohedoro",
-        "heure_sortie": "16h45",
-        "saison": "Saison 2",
+        "titre": "Reborn as a Vending Machine",
+        "heure_sortie": "17h00",
+        "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 38668,
+        "mal_id": 62512,
         "imdb_id": null
       },
       {
@@ -320,16 +311,16 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 42364,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt5607616"
       },
       {
-        "titre": "Reborn as a Vending Machine",
-        "heure_sortie": "18h00",
-        "saison": "Saison 3",
+        "titre": "Dorohedoro",
+        "heure_sortie": "17h00",
+        "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 62512,
+        "mal_id": 38668,
         "imdb_id": null
       },
       {
@@ -338,8 +329,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39443176"
+        "mal_id": 62604,
+        "imdb_id": null
       },
       {
         "titre": "Always a Catch",
@@ -347,8 +338,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62893,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122552"
       },
       {
         "titre": "The Beginning After the End",
@@ -369,6 +360,15 @@
         "imdb_id": null
       },
       {
+        "titre": "Rent a Girlfriend",
+        "heure_sortie": "?",
+        "saison": "Saison 5",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt11448214"
+      },
+      {
         "titre": "The Beginning After the End",
         "heure_sortie": "?",
         "saison": "Saison 2",
@@ -385,23 +385,32 @@
         "langue": "VF",
         "mal_id": 59551,
         "imdb_id": null
+      },
+      {
+        "titre": "Classroom of the Elite",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt7263328"
       }
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 07/05",
+    "jour": "SORTIES DU JEUDI - 07/05",
     "animes": [
       {
-        "titre": "The Barbarian's Bride",
+        "titre": "THE BARBARIAN'S BRIDE",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36593277"
+        "mal_id": 60028,
+        "imdb_id": null
       },
       {
-        "titre": "The Barbarian's Bride",
+        "titre": "THE BARBARIAN'S BRIDE",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -410,7 +419,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dr. Stone",
+        "titre": "DR. STONE",
         "heure_sortie": "16h20",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -419,7 +428,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kujima Utaeba Ie Hororo",
+        "titre": "KUJIMA UTAEBA IE HORORO",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -428,7 +437,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Dr Stone",
+        "titre": "DR STONE",
         "heure_sortie": "16h45",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -437,7 +446,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Ramparts of Ice",
+        "titre": "THE RAMPARTS OF ICE",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -446,7 +455,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Ramparts of Ice",
+        "titre": "THE RAMPARTS OF ICE",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -455,7 +464,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Awajima Hyakkei",
+        "titre": "AWAJIMA HYAKKEI",
         "heure_sortie": "19h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -464,7 +473,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Haibara's Teenage New Game+",
+        "titre": "HAIBARA'S TEENAGE NEW GAME+",
         "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -473,7 +482,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Killed Again Mr. Detective",
+        "titre": "KILLED AGAIN MR. DETECTIVE",
         "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -573,8 +582,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 37430,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38650409"
       },
       {
         "titre": "Kami no Shizuku",
@@ -582,8 +591,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt39026840"
+        "mal_id": 62981,
+        "imdb_id": null
       }
     ]
   },
@@ -632,8 +641,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60444,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38895862"
       },
       {
         "titre": "The Strongest Job is Apparently Not a Hero or a Sage but an Appraiser",
@@ -704,8 +713,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39267868"
+        "mal_id": 61443,
+        "imdb_id": null
       },
       {
         "titre": "Kusunoki's Garden of Gods",
