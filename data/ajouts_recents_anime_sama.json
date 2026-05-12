@@ -1,5 +1,159 @@
 [
   {
+    "titre": "REGULAR SHOW - LES CASSETTES OUBLIÉES",
+    "episode_info": "Episode 1 à 4",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/regular-show/saison1hs/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-1lzw529xnw3a.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6190168"
+      }
+    ],
+    "mal_id": 2808,
+    "imdb_id": null
+  },
+  {
+    "titre": "LIAR GAME",
+    "episode_info": "Saison 1 Episode 6",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-1l1d2he4c3wj.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#1to86"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6165400"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/5k5inl6e1hht"
+      }
+    ],
+    "mal_id": 62331,
+    "imdb_id": null
+  },
+  {
+    "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
+    "episode_info": "Saison 1 Episode 6",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/ponkotsu-fuukiin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-xcdrw73dpttb.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#nkukb"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6165360"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/uzxhxbwf5i7n"
+      }
+    ],
+    "mal_id": 61425,
+    "imdb_id": null
+  },
+  {
+    "titre": "L'ATELIER DES SORCIERS",
+    "episode_info": "Saison 1 Episode 7",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/l-atelier-des-sorciers/saison1/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-it55a5qarx0c.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#as5je"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6165315"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/fa0d46c2nqip"
+      }
+    ],
+    "mal_id": 33489,
+    "imdb_id": null
+  },
+  {
+    "titre": "L'ATELIER DES SORCIERS",
+    "episode_info": "Saison 1 Episode 7",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/l-atelier-des-sorciers/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-73y0atevw5sw.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#6xm63"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6167593"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/f49f4jkp2961"
+      }
+    ],
+    "mal_id": 33489,
+    "imdb_id": null
+  },
+  {
+    "titre": "FARMING LIFE IN ANOTHER WORLD",
+    "episode_info": "Saison 2 Episode 6",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/farming-life-in-another-world/saison2/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-aq1afqc07qdu.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#3asob"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6165296"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/eyibsk6npfsq"
+      }
+    ],
+    "mal_id": 51462,
+    "imdb_id": null
+  },
+  {
     "titre": "ONE PIECE",
     "episode_info": "Episode 1161",
     "format": "Anime",
@@ -39,7 +193,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-z3x531ffzwco.html"
+        "url": "https://lpayer.embed4me.com/#hfefc"
       },
       {
         "nom": "Lecteur 3",
@@ -66,7 +220,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-3q2g98dahgxz.html"
+        "url": "https://lpayer.embed4me.com/#ebsnp"
       },
       {
         "nom": "Lecteur 3",
@@ -93,7 +247,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-nshfp1c7w9jm.html"
+        "url": "https://lpayer.embed4me.com/#8a9hh"
       },
       {
         "nom": "Lecteur 3",
@@ -120,7 +274,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-c6mzme6e1fod.html"
+        "url": "https://lpayer.embed4me.com/#rlht3"
       },
       {
         "nom": "Lecteur 3",
@@ -174,7 +328,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-tcekmfbzrm73.html"
+        "url": "https://lpayer.embed4me.com/#8egfe"
       },
       {
         "nom": "Lecteur 3",
@@ -201,7 +355,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-dhmyngj7z6gj.html"
+        "url": "https://lpayer.embed4me.com/#3grvg"
       },
       {
         "nom": "Lecteur 3",
@@ -224,7 +378,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-kyi6fdrdeajt.html"
+        "url": "https://lpayer.embed4me.com/#xbtn5"
       },
       {
         "nom": "Lecteur 3",
@@ -251,7 +405,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-xqmv0wgk3539.html"
+        "url": "https://lpayer.embed4me.com/#8rb3r"
       },
       {
         "nom": "Lecteur 3",
@@ -278,7 +432,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-3vm36xdeqdcd.html"
+        "url": "https://lpayer.embed4me.com/#yzxsz"
       },
       {
         "nom": "Lecteur 3",
@@ -301,7 +455,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-02v9yop93cly.html"
+        "url": "https://lpayer.embed4me.com/#dw5hy"
       },
       {
         "nom": "Lecteur 3",
@@ -355,7 +509,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-au9a51wztpky.html"
+        "url": "https://video.sibnet.ru/shell.php?videoid=6068282"
       }
     ],
     "mal_id": 61269,
@@ -455,7 +609,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-rfbui4uzbunk.html"
+        "url": "https://lpayer.embed4me.com/#hfzst"
       },
       {
         "nom": "Lecteur 3",
@@ -482,7 +636,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-7rcjsk033065.html"
+        "url": "https://lpayer.embed4me.com/#9gosh"
       },
       {
         "nom": "Lecteur 3",
@@ -509,7 +663,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-l4ftsdu4342t.html"
+        "url": "https://lpayer.embed4me.com/#53deu"
       },
       {
         "nom": "Lecteur 3",
@@ -540,7 +694,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-kdt3jloritq2.html"
+        "url": "https://lpayer.embed4me.com/#dsia9"
       },
       {
         "nom": "Lecteur 3",
@@ -567,7 +721,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-37o533psl5aw.html"
+        "url": "https://lpayer.embed4me.com/#3aemj"
       },
       {
         "nom": "Lecteur 3",
@@ -594,7 +748,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-8osuwmgnk8yb.html"
+        "url": "https://lpayer.embed4me.com/#s5qo3"
       },
       {
         "nom": "Lecteur 3",
@@ -621,7 +775,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-eobi8wbmlqxx.html"
+        "url": "https://lpayer.embed4me.com/#9zarq"
       },
       {
         "nom": "Lecteur 3",
@@ -633,156 +787,6 @@
       }
     ],
     "mal_id": 62001,
-    "imdb_id": null
-  },
-  {
-    "titre": "MAO",
-    "episode_info": "Saison 1 Episode 6",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/mao/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-ichx6apdl33b.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-ichx6apdl33b.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163589"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/oq9zlp9tx4b9"
-      }
-    ],
-    "mal_id": 62048,
-    "imdb_id": null
-  },
-  {
-    "titre": "AKANE-BANASHI",
-    "episode_info": "Saison 1 Episode 6",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/akane-banashi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-knwzywtwarkw.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-knwzywtwarkw.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163646"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9vhstzgpeia8"
-      }
-    ],
-    "mal_id": 62164,
-    "imdb_id": null
-  },
-  {
-    "titre": "KILL AO",
-    "episode_info": "Saison 1 Episode 5",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kill-ao/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-mjyn5v2jkg6e.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#xl1lb"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6168929"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/j2ng1yonpz2q"
-      }
-    ],
-    "mal_id": 62391,
-    "imdb_id": null
-  },
-  {
-    "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE, BUT AN APPRAISER",
-    "episode_info": "Saison 1 Episode 7",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-qrzkceet94r9.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-qrzkceet94r9.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6160544"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/b8x2r8078rx3"
-      }
-    ],
-    "mal_id": 62825,
-    "imdb_id": null
-  },
-  {
-    "titre": "YOWAYOWA SENSEI",
-    "episode_info": "Saison 1 Episode 5",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/yowayowa-sensei/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-cnt1fftwyt0l.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-cnt1fftwyt0l.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6168896"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9o5m9alkwx3i"
-      }
-    ],
-    "mal_id": 60444,
-    "imdb_id": null
-  },
-  {
-    "titre": "DETECTIVE CONAN",
-    "episode_info": "Episode 1201",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/detective-conan/saison31/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-sb5sqtpsd8r3.html"
-      }
-    ],
-    "mal_id": 235,
     "imdb_id": null
   }
 ]
