@@ -190,10 +190,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 26/05",
+    "jour": "Sorties du Mardi - 26/05",
     "animes": [
       {
-        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
+        "titre": "The Most Heretical Last Boss Queen",
         "heure_sortie": "15h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -202,7 +202,7 @@
         "imdb_id": null
       },
       {
-        "titre": "REPLICA DATTE KOI WO SURU",
+        "titre": "Replica Datte Koi wo Suru",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -211,7 +211,7 @@
         "imdb_id": null
       },
       {
-        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
+        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -220,7 +220,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -229,7 +229,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AISHITERU GAME WO OWARASETAI",
+        "titre": "Aishiteru Game wo Owarasetai",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -238,7 +238,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -247,7 +247,7 @@
         "imdb_id": null
       },
       {
-        "titre": "HIDARIKIKI NO EREN",
+        "titre": "Hidarikiki no Eren",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -256,7 +256,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TADAIMA OJAMASAREMASU",
+        "titre": "Tadaima Ojamasaremasu",
         "heure_sortie": "19h55",
         "saison": "Saison 1",
         "format": "Anime",
@@ -265,7 +265,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MY RIBDICULOUS REINCARNATION",
+        "titre": "My Ribdiculous Reincarnation",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -311,8 +311,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28100731"
+        "mal_id": 52619,
+        "imdb_id": null
       },
       {
         "titre": "Re Zero",
@@ -401,8 +401,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt34119820"
+        "mal_id": 60146,
+        "imdb_id": null
       },
       {
         "titre": "Ganbare! Nakamura-kun!!",
@@ -520,10 +520,10 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 29/05",
+    "jour": "SORTIES DU VENDREDI - 29/05",
     "animes": [
       {
-        "titre": "Hitori no Shita, The Outcast",
+        "titre": "HITORI NO SHITA, THE OUTCAST",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -532,7 +532,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Observation Records of My Fiancée",
+        "titre": "OBSERVATION RECORDS OF MY FIANCÉE",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -541,7 +541,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Angel Next Door Spoils Me Rotten",
+        "titre": "THE ANGEL NEXT DOOR SPOILS ME ROTTEN",
         "heure_sortie": "16h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -550,7 +550,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -559,7 +559,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Snowball Earth",
+        "titre": "SNOWBALL EARTH",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -568,7 +568,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -577,7 +577,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "18h45",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -586,7 +586,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "18h45",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -595,7 +595,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Botan Kamiina Fully Blossoms When Drunk",
+        "titre": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -604,7 +604,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -613,7 +613,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -731,8 +731,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39267868"
+        "mal_id": 61443,
+        "imdb_id": null
       },
       {
         "titre": "Kusunoki's Garden of Gods",
@@ -749,8 +749,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61217,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36290183"
       },
       {
         "titre": "Needy Girl Overdose",
