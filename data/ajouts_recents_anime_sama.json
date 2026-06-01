@@ -1,5 +1,359 @@
 [
   {
+    "titre": "RICK ET MORTY",
+    "episode_info": "Saison 9 Episode 2",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/rick-et-morty/saison9/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-e49ljk0ly8dr.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-e49ljk0ly8dr.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6200944"
+      }
+    ],
+    "mal_id": 41061,
+    "imdb_id": null
+  },
+  {
+    "titre": "RICK ET MORTY",
+    "episode_info": "Saison 9 Episode 2",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/rick-et-morty/saison9/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-8jschuflket4.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-8jschuflket4.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6200945"
+      }
+    ],
+    "mal_id": 41061,
+    "imdb_id": null
+  },
+  {
+    "titre": "VERSATILE MAGE",
+    "episode_info": "Saison 7 Episode 1 et 2",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/versatile-mage/saison7/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-hegu1g4otarx.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-hegu1g4otarx.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6207835"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/rz4gxpb377c3"
+      }
+    ],
+    "mal_id": 34300,
+    "imdb_id": null
+  },
+  {
+    "titre": "ONE PIECE",
+    "episode_info": "Episode 1164",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/one-piece/saison12/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-uitxfsx7oso2.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-uitxfsx7oso2.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6164289"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/f8y0txswvalp"
+      }
+    ],
+    "mal_id": 459,
+    "imdb_id": null
+  },
+  {
+    "titre": "GHOST CONCERT",
+    "episode_info": "Saison 1 Episode 9",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/ghost-concert/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-z3x531ffzwco.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#hfefc"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6164299"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/af3uuw4p7rwv"
+      }
+    ],
+    "mal_id": 62852,
+    "imdb_id": null
+  },
+  {
+    "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
+    "episode_info": "Saison 1 Episode 8",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/kuroneko-to-majo-no-kyoushitsu/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-3q2g98dahgxz.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#ebsnp"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6170164"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/gmn1jag23dnu"
+      }
+    ],
+    "mal_id": 62171,
+    "imdb_id": null
+  },
+  {
+    "titre": "MAID-SAN WA TABERU DAKE",
+    "episode_info": "Saison 1 Episode 10",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/maid-san-wa-taberu-dake/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-nshfp1c7w9jm.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-nshfp1c7w9jm.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6160543"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/obw5lyun5yzi"
+      }
+    ],
+    "mal_id": 62342,
+    "imdb_id": null
+  },
+  {
+    "titre": "PERSONA 4",
+    "episode_info": "Saison 4 Episode 1 [v2]",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/persona/saison2/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-w47uoruo7x47.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-w47uoruo7x47.html"
+      }
+    ],
+    "mal_id": 24075,
+    "imdb_id": null
+  },
+  {
+    "titre": "NIPPON SANGOKU",
+    "episode_info": "Saison 1 Episode 9",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/nippon-sangoku/saison1/va/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-ll1cfu0ykkzo.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#v5h9y"
+      }
+    ],
+    "mal_id": 63375,
+    "imdb_id": null
+  },
+  {
+    "titre": "NIPPON SANGOKU",
+    "episode_info": "Saison 1 Episode 9",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/nippon-sangoku/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-8zxdmgojbi3l.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#empb3"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6164308"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/bukmmk106wf0"
+      }
+    ],
+    "mal_id": 63375,
+    "imdb_id": null
+  },
+  {
+    "titre": "NIPPON SANGOKU",
+    "episode_info": "Saison 1 Episode 9",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/nippon-sangoku/saison1/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-c6mzme6e1fod.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-c6mzme6e1fod.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6164344"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/42nts9knzu9j"
+      }
+    ],
+    "mal_id": 63375,
+    "imdb_id": null
+  },
+  {
+    "titre": "ACE OF DIAMOND",
+    "episode_info": "Saison 4 Episode 9",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/ace-of-diamond/saison4/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-kyi6fdrdeajt.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-kyi6fdrdeajt.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6163999"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/3j69065wqx9j"
+      }
+    ],
+    "mal_id": 18689,
+    "imdb_id": null
+  },
+  {
+    "titre": "TSUE TO TSURUGI NO WISTORIA",
+    "episode_info": "Saison 2 Episode 8",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/tsue-to-tsurugi-no-wistoria/saison2/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-tcekmfbzrm73.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#8egfe"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6169737"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/5zm72za6kdbo"
+      }
+    ],
+    "mal_id": 58059,
+    "imdb_id": null
+  },
+  {
+    "titre": "TSUE TO TSURUGI NO WISTORIA",
+    "episode_info": "Saison 2 Episode 5",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/tsue-to-tsurugi-no-wistoria/saison2/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-xqmv0wgk3539.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#8rb3r"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6184169"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/5ki768p0v5da"
+      }
+    ],
+    "mal_id": 58059,
+    "imdb_id": null
+  },
+  {
     "titre": "TSUE TO TSURUGI NO WISTORIA",
     "episode_info": "Saison 2 Episode 6",
     "format": "Anime",
@@ -39,7 +393,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#1teao"
+        "url": "https://vidmoly.biz/embed-adrqrt84m4ek.html"
       }
     ],
     "mal_id": 59393,
@@ -58,7 +412,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#yzxsz"
+        "url": "https://vidmoly.biz/embed-3vm36xdeqdcd.html"
       },
       {
         "nom": "Lecteur 3",
@@ -81,7 +435,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#3grvg"
+        "url": "https://vidmoly.biz/embed-dhmyngj7z6gj.html"
       },
       {
         "nom": "Lecteur 3",
@@ -104,7 +458,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#dw5hy"
+        "url": "https://vidmoly.biz/embed-02v9yop93cly.html"
       },
       {
         "nom": "Lecteur 3",
@@ -131,7 +485,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6068282"
+        "url": "https://vidmoly.biz/embed-au9a51wztpky.html"
       }
     ],
     "mal_id": 61269,
@@ -150,7 +504,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#yj8kt"
+        "url": "https://vidmoly.biz/embed-a174o3hwvz87.html"
       },
       {
         "nom": "Lecteur 3",
@@ -177,7 +531,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#fjx3b"
+        "url": "https://vidmoly.biz/embed-78pkffw9hrxy.html"
       },
       {
         "nom": "Lecteur 3",
@@ -258,7 +612,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#yxb8b"
+        "url": "https://vidmoly.biz/embed-dicmitmve43v.html"
       }
     ],
     "mal_id": 62913,
@@ -304,7 +658,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#53deu"
+        "url": "https://vidmoly.biz/embed-l4ftsdu4342t.html"
       },
       {
         "nom": "Lecteur 3",
@@ -331,7 +685,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9gosh"
+        "url": "https://vidmoly.biz/embed-7rcjsk033065.html"
       },
       {
         "nom": "Lecteur 3",
@@ -377,380 +731,10 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#acml5"
+        "url": "https://vidmoly.biz/embed-75frin79l0b6.html"
       }
     ],
     "mal_id": 62001,
-    "imdb_id": null
-  },
-  {
-    "titre": "KUSUNOKI'S GARDEN OF GODS",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kusunokis-garden-of-gods/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-37o533psl5aw.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#3aemj"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163632"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/6mfemqrkwh81"
-      }
-    ],
-    "mal_id": 62050,
-    "imdb_id": null
-  },
-  {
-    "titre": "SHUNKASHUUTOU DAIKOUSHA",
-    "episode_info": "Saison 1 Episode 10",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/shunkashuutou-daikousha/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-kdt3jloritq2.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#dsia9"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6159780"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/ycqwxmpjbs08"
-      }
-    ],
-    "mal_id": 61443,
-    "imdb_id": null
-  },
-  {
-    "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kanan-sama-wa-akumade-choroi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-8osuwmgnk8yb.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#s5qo3"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163598"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/76edy5rd1p33"
-      }
-    ],
-    "mal_id": 61501,
-    "imdb_id": null
-  },
-  {
-    "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kanan-sama-wa-akumade-choroi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-8osuwmgnk8yb.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#s5qo3"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163598"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/76edy5rd1p33"
-      }
-    ],
-    "mal_id": 61501,
-    "imdb_id": null
-  },
-  {
-    "titre": "YOMI NO TSUGAI",
-    "episode_info": "Saison 1 Episode 6",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/yomi-no-tsugai/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-f5v6la6dp704.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#icnpo"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6199910"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/ww07lvttvomv"
-      }
-    ],
-    "mal_id": 62001,
-    "imdb_id": null
-  },
-  {
-    "titre": "YOMI NO TSUGAI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/yomi-no-tsugai/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-eobi8wbmlqxx.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9zarq"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163594"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/wv6k974t5vvx"
-      }
-    ],
-    "mal_id": 62001,
-    "imdb_id": null
-  },
-  {
-    "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kanan-sama-wa-akumade-choroi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-8osuwmgnk8yb.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#s5qo3"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163598"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/76edy5rd1p33"
-      }
-    ],
-    "mal_id": 61501,
-    "imdb_id": null
-  },
-  {
-    "titre": "AKANE-BANASHI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/akane-banashi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-knwzywtwarkw.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#5ind9"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163646"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9vhstzgpeia8"
-      }
-    ],
-    "mal_id": 62164,
-    "imdb_id": null
-  },
-  {
-    "titre": "AKANE-BANASHI",
-    "episode_info": "Saison 1 Episode 4",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/akane-banashi/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-vj9lr7mafv9l.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#dubdm"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6194766"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/w4wim65lqf2k"
-      }
-    ],
-    "mal_id": 62164,
-    "imdb_id": null
-  },
-  {
-    "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-    "episode_info": "Saison 1 Episode 9",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kanan-sama-wa-akumade-choroi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-8osuwmgnk8yb.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#s5qo3"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163598"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/76edy5rd1p33"
-      }
-    ],
-    "mal_id": 61501,
-    "imdb_id": null
-  },
-  {
-    "titre": "KANAN-SAMA WA AKUMADE CHOROI",
-    "episode_info": "Saison 1 Episode 7",
-    "format": "Anime",
-    "langue": "Inconnue",
-    "lien": "https://anime-sama.to/catalogue/kanan-sama-wa-akumade-choroi/saison1/va/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-1va0lhhqjgsn.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#okwoo"
-      }
-    ],
-    "mal_id": 61501,
-    "imdb_id": null
-  },
-  {
-    "titre": "KILL AO",
-    "episode_info": "Saison 1 Episode 8",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kill-ao/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-mjyn5v2jkg6e.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#xl1lb"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6168929"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/j2ng1yonpz2q"
-      }
-    ],
-    "mal_id": 62391,
-    "imdb_id": null
-  },
-  {
-    "titre": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE, BUT AN APPRAISER",
-    "episode_info": "Saison 1 Episode 10",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-qrzkceet94r9.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#hitwl"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6160544"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/b8x2r8078rx3"
-      }
-    ],
-    "mal_id": 62825,
-    "imdb_id": null
-  },
-  {
-    "titre": "YOWAYOWA SENSEI",
-    "episode_info": "Saison 1 Episode 8",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/yowayowa-sensei/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-cnt1fftwyt0l.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#5fy8q"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6168896"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9o5m9alkwx3i"
-      }
-    ],
-    "mal_id": 60444,
     "imdb_id": null
   }
 ]
