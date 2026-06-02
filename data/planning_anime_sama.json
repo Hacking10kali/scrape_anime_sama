@@ -122,10 +122,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU LUNDI - 01/06",
+    "jour": "Sorties du Lundi - 01/06",
     "animes": [
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "13h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -134,7 +134,7 @@
         "imdb_id": null
       },
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "13h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -143,16 +143,16 @@
         "imdb_id": null
       },
       {
-        "titre": "L'ATELIER DES SORCIERS",
+        "titre": "L'Atelier des Sorciers",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 33489,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32550889"
       },
       {
-        "titre": "FARMING LIFE IN ANOTHER WORLD",
+        "titre": "Farming Life in Another World",
         "heure_sortie": "16h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -161,7 +161,7 @@
         "imdb_id": null
       },
       {
-        "titre": "L'ATELIER DES SORCIERS",
+        "titre": "L'Atelier des Sorciers",
         "heure_sortie": "17h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -170,7 +170,7 @@
         "imdb_id": null
       },
       {
-        "titre": "PONKOTSU FUUKIIN TO SKIRT TAKE GA FUTEKISETSU NA JK NO HANASHI",
+        "titre": "Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -179,7 +179,7 @@
         "imdb_id": null
       },
       {
-        "titre": "LIAR GAME",
+        "titre": "Liar Game",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -190,10 +190,10 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 02/06",
+    "jour": "SORTIES DU MARDI - 02/06",
     "animes": [
       {
-        "titre": "The Most Heretical Last Boss Queen",
+        "titre": "THE MOST HERETICAL LAST BOSS QUEEN",
         "heure_sortie": "15h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -202,7 +202,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Replica Datte Koi wo Suru",
+        "titre": "REPLICA DATTE KOI WO SURU",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -211,7 +211,7 @@
         "imdb_id": null
       },
       {
-        "titre": "I Made Friends with the Second Prettiest Girl in My Class",
+        "titre": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -220,7 +220,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Marriage Toxin",
+        "titre": "MARRIAGE TOXIN",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -229,7 +229,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Aishiteru Game wo Owarasetai",
+        "titre": "AISHITERU GAME WO OWARASETAI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -238,7 +238,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Marriage Toxin",
+        "titre": "MARRIAGE TOXIN",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -247,7 +247,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hidarikiki no Eren",
+        "titre": "HIDARIKIKI NO EREN",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -256,7 +256,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tadaima Ojamasaremasu",
+        "titre": "TADAIMA OJAMASAREMASU",
         "heure_sortie": "19h55",
         "saison": "Saison 1",
         "format": "Anime",
@@ -265,7 +265,7 @@
         "imdb_id": null
       },
       {
-        "titre": "My Ribdiculous Reincarnation",
+        "titre": "MY RIBDICULOUS REINCARNATION",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -401,8 +401,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60146,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt34119820"
       },
       {
         "titre": "Rent a Girlfriend",
@@ -641,8 +641,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39468,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt10885406"
       },
       {
         "titre": "Welcome to Demon School Iruma-kun",
@@ -767,8 +767,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62913,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39403976"
       },
       {
         "titre": "Ichijouma Mankitsu Gurashi",
