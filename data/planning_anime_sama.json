@@ -308,10 +308,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 25/06",
+    "jour": "Sorties du Jeudi - 25/06",
     "animes": [
       {
-        "titre": "THE BARBARIAN'S BRIDE",
+        "titre": "The Barbarian's Bride",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -320,7 +320,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DR. STONE",
+        "titre": "Dr. Stone",
         "heure_sortie": "16h20",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -329,7 +329,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KUJIMA UTAEBA IE HORORO",
+        "titre": "Kujima Utaeba Ie Hororo",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -338,7 +338,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DR. STONE",
+        "titre": "Dr. Stone",
         "heure_sortie": "16h45",
         "saison": "Saison 4 Partie 3",
         "format": "Anime",
@@ -347,25 +347,25 @@
         "imdb_id": null
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       },
       {
-        "titre": "AWAJIMA HYAKKEI",
+        "titre": "Awajima Hyakkei",
         "heure_sortie": "19h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -374,7 +374,7 @@
         "imdb_id": null
       },
       {
-        "titre": "FROM OVERSHADOWED TO OVERPOWERED",
+        "titre": "From Overshadowed to Overpowered",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -383,7 +383,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE BARBARIAN'S BRIDE",
+        "titre": "The Barbarian's Bride",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -394,10 +394,10 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 26/06",
+    "jour": "SORTIES DU VENDREDI - 26/06",
     "animes": [
       {
-        "titre": "Hitori no Shita, The Outcast",
+        "titre": "HITORI NO SHITA, THE OUTCAST",
         "heure_sortie": "12h00",
         "saison": "Saison 6",
         "format": "Anime",
@@ -406,7 +406,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -415,7 +415,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Snowball Earth",
+        "titre": "SNOWBALL EARTH",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -424,7 +424,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -433,7 +433,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "18h45",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -442,7 +442,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ken le Survivant",
+        "titre": "KEN LE SURVIVANT",
         "heure_sortie": "18h45",
         "saison": "Fist of the North Star",
         "format": "Anime",
@@ -451,7 +451,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Botan Kamiina Fully Blossoms When Drunk",
+        "titre": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -460,7 +460,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -469,7 +469,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
