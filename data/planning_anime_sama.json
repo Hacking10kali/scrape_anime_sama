@@ -1,18 +1,18 @@
 [
   {
-    "jour": "Sorties du Dimanche - 28/06",
+    "jour": "SORTIES DU DIMANCHE - 28/06",
     "animes": [
       {
-        "titre": "Digimon Beatbreak",
+        "titre": "DIGIMON BEATBREAK",
         "heure_sortie": "09h30",
-        "saison": "Saison 1",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 61269,
         "imdb_id": null
       },
       {
-        "titre": "Mission Yozakura Family",
+        "titre": "MISSION YOZAKURA FAMILY",
         "heure_sortie": "09h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tsue to Tsurugi no Wistoria",
+        "titre": "TSUE TO TSURUGI NO WISTORIA",
         "heure_sortie": "10h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tsue to Tsurugi no Wistoria",
+        "titre": "TSUE TO TSURUGI NO WISTORIA",
         "heure_sortie": "11h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Ace of Diamond",
+        "titre": "ACE OF DIAMOND",
         "heure_sortie": "11h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kuroneko to Majo no Kyoushitsu",
+        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "One Piece",
+        "titre": "ONE PIECE",
         "heure_sortie": "20h20",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
@@ -347,6 +347,15 @@
         "imdb_id": null
       },
       {
+        "titre": "From Overshadowed to Overpowered",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63508,
+        "imdb_id": null
+      },
+      {
         "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
@@ -371,15 +380,6 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 58820,
-        "imdb_id": null
-      },
-      {
-        "titre": "From Overshadowed to Overpowered",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63508,
         "imdb_id": null
       },
       {
@@ -480,10 +480,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU SAMEDI - 27/06",
+    "jour": "Sorties du Samedi - 27/06",
     "animes": [
       {
-        "titre": "ASCENDANCE OF A BOOKWORM",
+        "titre": "Ascendance of a Bookworm",
         "heure_sortie": "11h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -492,7 +492,7 @@
         "imdb_id": null
       },
       {
-        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
+        "titre": "Welcome to Demon School Iruma-kun",
         "heure_sortie": "12h45",
         "saison": "Saison 4",
         "format": "Anime",
@@ -501,7 +501,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DETECTIVE CONAN",
+        "titre": "Detective Conan",
         "heure_sortie": "12h50",
         "saison": "Saison 31",
         "format": "Anime",
@@ -510,7 +510,7 @@
         "imdb_id": null
       },
       {
-        "titre": "YOWAYOWA SENSEI",
+        "titre": "Yowayowa Sensei",
         "heure_sortie": "15h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -519,7 +519,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KILL AO",
+        "titre": "Kill Ao",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -528,9 +528,9 @@
         "imdb_id": null
       },
       {
-        "titre": "YOMI NO TSUGAI",
+        "titre": "Yomi no Tsugai",
         "heure_sortie": "18h20",
-        "saison": "Saison 1",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 62001,
@@ -546,7 +546,7 @@
         "imdb_id": null
       },
       {
-        "titre": "SHUNKASHUUTOU DAIKOUSHA",
+        "titre": "Shunkashuutou Daikousha",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -555,7 +555,7 @@
         "imdb_id": null
       },
       {
-        "titre": "NEEDY GIRL OVERDOSE",
+        "titre": "Needy Girl Overdose",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -564,7 +564,7 @@
         "imdb_id": null
       },
       {
-        "titre": "YUUSHA NO KUZU",
+        "titre": "Yuusha no Kuzu",
         "heure_sortie": "19h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -573,7 +573,7 @@
         "imdb_id": null
       },
       {
-        "titre": "YOMI NO TSUGAI",
+        "titre": "Yomi no Tsugai",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -582,12 +582,21 @@
         "imdb_id": null
       },
       {
-        "titre": "AKANE-BANASHI",
+        "titre": "Akane-banashi",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 62164,
+        "imdb_id": null
+      },
+      {
+        "titre": "Neko to Ryuu",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61048,
         "imdb_id": null
       }
     ]
