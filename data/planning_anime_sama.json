@@ -1,9 +1,9 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 28/06",
+    "jour": "Sorties du Dimanche - 05/07",
     "animes": [
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "09h30",
         "saison": "Reporté",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": null
       },
       {
-        "titre": "MISSION YOZAKURA FAMILY",
+        "titre": "Mission Yozakura Family",
         "heure_sortie": "09h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TSUE TO TSURUGI NO WISTORIA",
+        "titre": "Tsue to Tsurugi no Wistoria",
         "heure_sortie": "10h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "TSUE TO TSURUGI NO WISTORIA",
+        "titre": "Tsue to Tsurugi no Wistoria",
         "heure_sortie": "11h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ACE OF DIAMOND",
+        "titre": "Ace of Diamond",
         "heure_sortie": "11h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
+        "titre": "Kuroneko to Majo no Kyoushitsu",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "ONE PIECE",
+        "titre": "One Piece",
         "heure_sortie": "20h20",
         "saison": "Saga 12 (Elbaf)",
         "format": "Anime",
@@ -68,10 +68,10 @@
     ]
   },
   {
-    "jour": "Sorties du Lundi - 22/06",
+    "jour": "SORTIES DU LUNDI - 29/06",
     "animes": [
       {
-        "titre": "Rick et Morty",
+        "titre": "RICK ET MORTY",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -80,7 +80,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Rick et Morty",
+        "titre": "RICK ET MORTY",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -89,7 +89,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Liar Game",
+        "titre": "LIAR GAME",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 23/06",
+    "jour": "Sorties du Mardi - 30/06",
     "animes": [
       {
         "titre": "The Most Heretical Last Boss Queen",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 24/06",
+    "jour": "Sorties du Mercredi - 01/07",
     "animes": [
       {
         "titre": "Versatile Mage",
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 25/06",
+    "jour": "Sorties du Jeudi - 02/07",
     "animes": [
       {
         "titre": "The Barbarian's Bride",
@@ -394,7 +394,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 26/06",
+    "jour": "Sorties du Vendredi - 03/07",
     "animes": [
       {
         "titre": "Hitori no Shita, The Outcast",
@@ -480,7 +480,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 27/06",
+    "jour": "Sorties du Samedi - 04/07",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
