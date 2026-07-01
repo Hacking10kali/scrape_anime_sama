@@ -17,8 +17,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 58059,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt31889371"
       },
       {
         "titre": "Kuroneko to Majo no Kyoushitsu",
@@ -44,8 +44,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62435,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41293112"
       },
       {
         "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
@@ -53,8 +53,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 54714,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt28919914"
       },
       {
         "titre": "You and I Are Polar Opposites",
@@ -62,8 +62,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60371,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36034547"
       },
       {
         "titre": "Sparks of Tomorrow",
@@ -71,8 +71,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62856,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38939446"
       },
       {
         "titre": "Mushoku Tensei",
@@ -80,8 +80,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39535,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt13293588"
       },
       {
         "titre": "Tetsunabe no Jan!",
@@ -89,8 +89,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63100,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt42963873"
       },
       {
         "titre": "Let's Go Kaikigumi",
@@ -98,8 +98,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62683,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41278494"
       },
       {
         "titre": "One Piece Heroines",
@@ -107,7 +107,7 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62233,
+        "mal_id": null,
         "imdb_id": null
       },
       {
@@ -116,8 +116,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 40930,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt13084120"
       }
     ]
   },
@@ -130,8 +130,8 @@
         "saison": "Saison 9",
         "format": "Anime",
         "langue": "Inconnue",
-        "mal_id": 41061,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt2861424"
       },
       {
         "titre": "Rick et Morty",
@@ -139,8 +139,8 @@
         "saison": "Saison 9",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 41061,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt2861424"
       },
       {
         "titre": "The World is Dancing",
@@ -148,8 +148,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63347,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41279522"
       },
       {
         "titre": "Liar Game",
@@ -157,34 +157,43 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62331,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39229633"
       }
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 30/06",
+    "jour": "Sorties du Mardi - 30/06",
     "animes": [
       {
-        "titre": "REPLICA DATTE KOI WO SURU",
+        "titre": "The Oblivious Saint Can't Contain Her Power Glossary",
+        "heure_sortie": "16h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt41278636"
+      },
+      {
+        "titre": "Replica Datte Koi wo Suru",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61013,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt40546998"
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62601,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122769"
       },
       {
-        "titre": "AISHITERU GAME WO OWARASETAI",
+        "titre": "Aishiteru Game wo Owarasetai",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -193,135 +202,117 @@
         "imdb_id": null
       },
       {
-        "titre": "MARRIAGE TOXIN",
+        "titre": "Marriage Toxin",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 62601,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39122769"
       },
       {
-        "titre": "HIDARIKIKI NO EREN",
+        "titre": "Hidarikiki no Eren",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 53732,
         "imdb_id": null
+      }
+    ]
+  },
+  {
+    "jour": "SORTIES DU MERCREDI - 01/07",
+    "animes": [
+      {
+        "titre": "VERSATILE MAGE",
+        "heure_sortie": "05h00",
+        "saison": "Saison 7",
+        "format": "Anime",
+        "langue": "Inconnue",
+        "mal_id": null,
+        "imdb_id": "tt11317074"
       },
       {
-        "titre": "THE OBLIVIOUS SAINT CAN'T CONTAIN HER POWER GLOSSARY",
+        "titre": "RE ZERO",
+        "heure_sortie": "16h30",
+        "saison": "Reporté",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt5607616"
+      },
+      {
+        "titre": "REBORN AS A VENDING MACHINE",
+        "heure_sortie": "17h00",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt28100731"
+      },
+      {
+        "titre": "CLASSROOM OF THE ELITE",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt7263328"
+      },
+      {
+        "titre": "RE ZERO",
+        "heure_sortie": "?",
+        "saison": "Reporté",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt5607616"
+      },
+      {
+        "titre": "THE BEGINNING AFTER THE END",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt34119820"
+      },
+      {
+        "titre": "RENT A GIRLFRIEND",
+        "heure_sortie": "?",
+        "saison": "Saison 5",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt11448214"
+      },
+      {
+        "titre": "LV999 NO MURABITO",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt41278636"
-      }
-    ]
-  },
-  {
-    "jour": "Sorties du Mercredi - 01/07",
-    "animes": [
-      {
-        "titre": "Versatile Mage",
-        "heure_sortie": "05h00",
-        "saison": "Saison 7",
-        "format": "Anime",
-        "langue": "Inconnue",
-        "mal_id": 34300,
-        "imdb_id": null
+        "imdb_id": "tt38262097"
       },
       {
-        "titre": "Re Zero",
-        "heure_sortie": "16h30",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 42364,
-        "imdb_id": null
-      },
-      {
-        "titre": "Reborn as a Vending Machine",
-        "heure_sortie": "17h00",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 52619,
-        "imdb_id": null
-      },
-      {
-        "titre": "Classroom of the Elite",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 35507,
-        "imdb_id": null
-      },
-      {
-        "titre": "Re Zero",
-        "heure_sortie": "?",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 42364,
-        "imdb_id": null
-      },
-      {
-        "titre": "The Beginning After the End",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 60146,
-        "imdb_id": null
-      },
-      {
-        "titre": "Rent a Girlfriend",
-        "heure_sortie": "?",
-        "saison": "Saison 5",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 40839,
-        "imdb_id": null
-      },
-      {
-        "titre": "From Overshadowed to Overpowered",
+        "titre": "HEROINE? SAINT? NO, I'M AN ALL-WORKS MAID (AND PROUD OF IT)!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63508,
+        "mal_id": null,
         "imdb_id": null
       },
       {
-        "titre": "LV999 no Murabito",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62322,
-        "imdb_id": null
-      },
-      {
-        "titre": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61686,
-        "imdb_id": null
-      },
-      {
-        "titre": "Hana-Kimi",
+        "titre": "HANA-KIMI",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 58861,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38646611"
       }
     ]
   },
@@ -334,8 +325,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       },
       {
         "titre": "The Ramparts of Ice",
@@ -343,8 +334,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60852,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39123061"
       },
       {
         "titre": "Awajima Hyakkei",
@@ -352,8 +343,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 58820,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37388613"
       },
       {
         "titre": "The Barbarian's Bride",
@@ -361,8 +352,17 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 60028,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36593277"
+      },
+      {
+        "titre": "From Overshadowed to Overpowered",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt40550160"
       },
       {
         "titre": "The Exiled Heavy Knight Knows How to Game the System",
@@ -370,8 +370,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 59741,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt33334216"
       },
       {
         "titre": "Kaiju Girl Caramelise",
@@ -379,8 +379,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63150,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39246964"
       },
       {
         "titre": "Chainsmoker Cat",
@@ -388,8 +388,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63403,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39551330"
       },
       {
         "titre": "Reiwa no Dara-san",
@@ -406,8 +406,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 42250,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt13192574"
       }
     ]
   },
@@ -420,8 +420,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 37430,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38650409"
       },
       {
         "titre": "Kami no Shizuku",
@@ -438,8 +438,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62617,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39443204"
       },
       {
         "titre": "Tensei Shitara Slime Datta Ken",
@@ -447,8 +447,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 37430,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38650409"
       },
       {
         "titre": "Kami no Shizuku",
@@ -465,8 +465,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60460,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38646634"
       },
       {
         "titre": "Please Excuse My Younger Brothers",
@@ -474,8 +474,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63061,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41293320"
       },
       {
         "titre": "Kore Kaite Shine",
@@ -483,8 +483,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61280,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt36290385"
       },
       {
         "titre": "Ushiro no Shoumen Kamui-san",
@@ -492,8 +492,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63468,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt42969298"
       }
     ]
   },
@@ -506,8 +506,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39468,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt10885406"
       },
       {
         "titre": "Welcome to Demon School Iruma-kun",
@@ -515,8 +515,8 @@
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 39196,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt11034066"
       },
       {
         "titre": "Detective Conan",
@@ -542,8 +542,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62048,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt37577523"
       },
       {
         "titre": "The Ogre's Bride",
@@ -551,8 +551,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61814,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39112665"
       },
       {
         "titre": "Magilumiere",
@@ -560,8 +560,8 @@
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 57360,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt30476504"
       },
       {
         "titre": "Iwamoto Senpai",
@@ -569,8 +569,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63324,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41276849"
       },
       {
         "titre": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
@@ -578,8 +578,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56907,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41277587"
       },
       {
         "titre": "Rich Girl Caretaker",
@@ -587,8 +587,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62876,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41278600"
       },
       {
         "titre": "Neko to Ryuu",
@@ -614,8 +614,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 61483,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39281887"
       },
       {
         "titre": "Black Torch",
@@ -632,8 +632,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 62164,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt38797595"
       },
       {
         "titre": "Yomi no Tsugai",
@@ -650,8 +650,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60637,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt39311004"
       }
     ]
   }
