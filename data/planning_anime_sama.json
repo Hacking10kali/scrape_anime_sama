@@ -171,8 +171,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62080,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41278636"
       },
       {
         "titre": "Replica Datte Koi wo Suru",
@@ -317,10 +317,28 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 02/07",
+    "jour": "Sorties du Jeudi - 02/07",
     "animes": [
       {
-        "titre": "FROM OVERSHADOWED TO OVERPOWERED",
+        "titre": "Reiwa no Dara-san",
+        "heure_sortie": "14h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63082,
+        "imdb_id": null
+      },
+      {
+        "titre": "Bungo Stray Dogs WAN!",
+        "heure_sortie": "15h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 42250,
+        "imdb_id": null
+      },
+      {
+        "titre": "From Overshadowed to Overpowered",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -329,7 +347,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -338,7 +356,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
+        "titre": "The Ramparts of Ice",
         "heure_sortie": "18h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -347,7 +365,25 @@
         "imdb_id": null
       },
       {
-        "titre": "AWAJIMA HYAKKEI",
+        "titre": "The Exiled Heavy Knight Knows How to Game the System",
+        "heure_sortie": "18h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59741,
+        "imdb_id": null
+      },
+      {
+        "titre": "Chainsmoker Cat",
+        "heure_sortie": "18h40",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63403,
+        "imdb_id": null
+      },
+      {
+        "titre": "Awajima Hyakkei",
         "heure_sortie": "19h10",
         "saison": "Saison 1",
         "format": "Anime",
@@ -356,26 +392,8 @@
         "imdb_id": null
       },
       {
-        "titre": "THE BARBARIAN'S BRIDE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 60028,
-        "imdb_id": null
-      },
-      {
-        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 59741,
-        "imdb_id": null
-      },
-      {
-        "titre": "KAIJU GIRL CARAMELISE",
-        "heure_sortie": "?",
+        "titre": "Kaiju Girl Caramelise",
+        "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -383,39 +401,21 @@
         "imdb_id": null
       },
       {
-        "titre": "CHAINSMOKER CAT",
+        "titre": "The Barbarian's Bride",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63403,
-        "imdb_id": null
-      },
-      {
-        "titre": "REIWA NO DARA-SAN",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63082,
-        "imdb_id": null
-      },
-      {
-        "titre": "BUNGO STRAY DOGS WAN!",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 42250,
+        "langue": "VF",
+        "mal_id": 60028,
         "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 03/07",
+    "jour": "SORTIES DU VENDREDI - 03/07",
     "animes": [
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -424,7 +424,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -433,7 +433,7 @@
         "imdb_id": null
       },
       {
-        "titre": "I Became a Legend After My 10 Year-Long Last Stand",
+        "titre": "I BECAME A LEGEND AFTER MY 10 YEAR-LONG LAST STAND",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -442,7 +442,16 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "THE FRONTIER LORD BEGINS WITH ZERO SUBJECTS",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62078,
+        "imdb_id": null
+      },
+      {
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -451,7 +460,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -460,7 +469,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell Mode",
+        "titre": "HELL MODE",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -469,7 +478,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Please Excuse My Younger Brothers",
+        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -478,21 +487,12 @@
         "imdb_id": null
       },
       {
-        "titre": "Kore Kaite Shine",
+        "titre": "KORE KAITE SHINE",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 61280,
-        "imdb_id": null
-      },
-      {
-        "titre": "Ushiro no Shoumen Kamui-san",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63468,
         "imdb_id": null
       }
     ]
@@ -578,8 +578,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56907,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41277587"
       },
       {
         "titre": "Rich Girl Caretaker",
