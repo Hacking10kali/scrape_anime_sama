@@ -144,7 +144,7 @@
       },
       {
         "titre": "The World is Dancing",
-        "heure_sortie": "16h45",
+        "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -171,8 +171,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41278636"
+        "mal_id": 62080,
+        "imdb_id": null
       },
       {
         "titre": "Replica Datte Koi wo Suru",
@@ -412,10 +412,28 @@
     ]
   },
   {
-    "jour": "SORTIES DU VENDREDI - 03/07",
+    "jour": "Sorties du Vendredi - 03/07",
     "animes": [
       {
-        "titre": "TENSEI SHITARA SLIME DATTA KEN",
+        "titre": "The Frontier Lord Begins with Zero Subjects",
+        "heure_sortie": "15h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62078,
+        "imdb_id": null
+      },
+      {
+        "titre": "I Became a Legend After My 10 Year-Long Last Stand",
+        "heure_sortie": "16h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62617,
+        "imdb_id": null
+      },
+      {
+        "titre": "Tensei Shitara Slime Datta Ken",
         "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -424,7 +442,7 @@
         "imdb_id": null
       },
       {
-        "titre": "KAMI NO SHIZUKU",
+        "titre": "Kami no Shizuku",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -433,25 +451,34 @@
         "imdb_id": null
       },
       {
-        "titre": "I BECAME A LEGEND AFTER MY 10 YEAR-LONG LAST STAND",
-        "heure_sortie": "?",
+        "titre": "Kore Kaite Shine",
+        "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62617,
+        "mal_id": 61280,
         "imdb_id": null
       },
       {
-        "titre": "THE FRONTIER LORD BEGINS WITH ZERO SUBJECTS",
-        "heure_sortie": "?",
+        "titre": "Please Excuse My Younger Brothers",
+        "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62078,
+        "mal_id": 63061,
         "imdb_id": null
       },
       {
-        "titre": "TENSEI SHITARA SLIME DATTA KEN",
+        "titre": "Hell Mode",
+        "heure_sortie": "19h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 60460,
+        "imdb_id": null
+      },
+      {
+        "titre": "Tensei Shitara Slime Datta Ken",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -460,57 +487,30 @@
         "imdb_id": null
       },
       {
-        "titre": "KAMI NO SHIZUKU",
+        "titre": "Kami no Shizuku",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": 62981,
         "imdb_id": null
-      },
-      {
-        "titre": "HELL MODE",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 60460,
-        "imdb_id": null
-      },
-      {
-        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63061,
-        "imdb_id": null
-      },
-      {
-        "titre": "KORE KAITE SHINE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61280,
-        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Samedi - 04/07",
+    "jour": "SORTIES DU SAMEDI - 04/07",
     "animes": [
       {
-        "titre": "Ascendance of a Bookworm",
+        "titre": "ASCENDANCE OF A BOOKWORM",
         "heure_sortie": "11h50",
-        "saison": "Saison 2",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 39468,
         "imdb_id": null
       },
       {
-        "titre": "Welcome to Demon School Iruma-kun",
+        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
         "heure_sortie": "12h45",
         "saison": "Saison 4",
         "format": "Anime",
@@ -519,16 +519,25 @@
         "imdb_id": null
       },
       {
-        "titre": "Detective Conan",
+        "titre": "DETECTIVE CONAN",
         "heure_sortie": "12h50",
-        "saison": "Saison 31",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 235,
         "imdb_id": null
       },
       {
-        "titre": "Yomi no Tsugai",
+        "titre": "NEKO TO RYUU",
+        "heure_sortie": "15h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61048,
+        "imdb_id": null
+      },
+      {
+        "titre": "YOMI NO TSUGAI",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -546,7 +555,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Ogre's Bride",
+        "titre": "THE OGRE'S BRIDE",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -555,16 +564,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Magilumiere",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 57360,
-        "imdb_id": null
-      },
-      {
-        "titre": "Iwamoto Senpai",
+        "titre": "IWAMOTO SENPAI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -573,16 +573,16 @@
         "imdb_id": null
       },
       {
-        "titre": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
+        "titre": "THE DUKE'S SON CLAIMS HE WON'T LOVE ME YET SHOWERS ME WITH ADORATION",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41277587"
+        "mal_id": 56907,
+        "imdb_id": null
       },
       {
-        "titre": "Rich Girl Caretaker",
+        "titre": "RICH GIRL CARETAKER",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -591,16 +591,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Neko to Ryuu",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61048,
-        "imdb_id": null
-      },
-      {
-        "titre": "Black Torch",
+        "titre": "BLACK TORCH",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -609,7 +600,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tenmaku no Jaaduugar",
+        "titre": "TENMAKU NO JAADUUGAR",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -618,7 +609,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Black Torch",
+        "titre": "BLACK TORCH",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -627,7 +618,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Akane-banashi",
+        "titre": "AKANE-BANASHI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -636,7 +627,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Yomi no Tsugai",
+        "titre": "YOMI NO TSUGAI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -645,7 +636,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
+        "titre": "MAHOU SHOUJO LYRICAL NANOHA EXCEEDS",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",

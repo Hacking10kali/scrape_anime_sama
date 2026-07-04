@@ -1,5 +1,260 @@
 [
   {
+    "titre": "HELL MODE",
+    "episode_info": "Saison 2 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/hell-mode/saison2/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-bvcjfcn72cgy.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-bvcjfcn72cgy.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233869"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://uqload.is/embed-fqj7ae6g1wk1.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/dmccttae8n3j"
+      }
+    ],
+    "mal_id": 60460,
+    "imdb_id": null
+  },
+  {
+    "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/please-excuse-my-younger-brothers/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-rrjf3gowhe7m.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-rrjf3gowhe7m.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233861"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://uqload.is/embed-hkw9txijp27h.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/hc5xqsub5uqk"
+      }
+    ],
+    "mal_id": 63061,
+    "imdb_id": null
+  },
+  {
+    "titre": "KORE KAITE SHINE",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/kore-kaite-shine/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-tmtm4c4yrw0s.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://vidmoly.biz/embed-tmtm4c4yrw0s.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233839"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://uqload.is/embed-izzvyst24boe.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/j0b02x7oq4vr"
+      }
+    ],
+    "mal_id": 61280,
+    "imdb_id": null
+  },
+  {
+    "titre": "KAMI NO SHIZUKU",
+    "episode_info": "Saison 1 Episode 11",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/va/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-69da2epfhixh.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#61qsd"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://vidmoly.biz/embed-69da2epfhixh.html"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://vidmoly.biz/embed-69da2epfhixh.html"
+      }
+    ],
+    "mal_id": 62981,
+    "imdb_id": null
+  },
+  {
+    "titre": "KAMI NO SHIZUKU",
+    "episode_info": "Saison 1 Episode 13",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-5wzt3mqkv6sl.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#xbxlu"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6168302"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/nd2qb6g5rgtf"
+      }
+    ],
+    "mal_id": 62981,
+    "imdb_id": null
+  },
+  {
+    "titre": "TENSEI SHITARA SLIME DATTA KEN",
+    "episode_info": "Saison 4 Episode 13",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/tensei-shitara-slime-datta-ken/saison4/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-d12j7m1yz00d.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#vptge"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6162851"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/9bbm796idmv7"
+      }
+    ],
+    "mal_id": 37430,
+    "imdb_id": null
+  },
+  {
+    "titre": "I BECAME A LEGEND AFTER MY 10 YEAR-LONG LAST STAND",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/i-became-a-legend-after-my-10-year-long-last-stand/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-aquw77d416gh.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#5kyuy"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233735"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://uqload.is/embed-u99rcndo9wkq.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/pof333puncp6"
+      }
+    ],
+    "mal_id": 62617,
+    "imdb_id": null
+  },
+  {
+    "titre": "THE FRONTIER LORD BEGINS WITH ZERO SUBJECTS",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/the-frontier-lord-begins-with-zero-subjects/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-549etq9fqkbu.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#fta36"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233709"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://uqload.is/embed-1zuf9c24jo6k.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/nn478izi13z6"
+      }
+    ],
+    "mal_id": 62078,
+    "imdb_id": null
+  },
+  {
+    "titre": "THE BARBARIANS BRIDE",
+    "episode_info": "Saison 1 Episode 11",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/the-barbarians-bride/saison1/va/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://vidmoly.biz/embed-32nz3vs30q0x.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#yxbap"
+      }
+    ],
+    "mal_id": 60028,
+    "imdb_id": null
+  },
+  {
     "titre": "KAIJU GIRL CARAMELISE",
     "episode_info": "Saison 1 Episode 1",
     "format": "Anime",
@@ -16,7 +271,7 @@
       },
       {
         "nom": "Lecteur 3",
-        "url": "https://vidmoly.biz/embed-d2il37jhy2dl.html"
+        "url": "https://video.sibnet.ru/shell.php?videoid=6233200"
       },
       {
         "nom": "Lecteur 4",
@@ -43,7 +298,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-8clb77rnyq1t.html"
+        "url": "https://lpayer.embed4me.com/#yc8ic"
       },
       {
         "nom": "Lecteur 3",
@@ -74,7 +329,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-slhxs51787ap.html"
+        "url": "https://lpayer.embed4me.com/#8b6nr"
       },
       {
         "nom": "Lecteur 3",
@@ -105,7 +360,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-ojiudpnyr9ss.html"
+        "url": "https://lpayer.embed4me.com/#6xg3a"
       },
       {
         "nom": "Lecteur 3",
@@ -159,7 +414,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#kokgf"
+        "url": "https://vidmoly.biz/embed-4qw46um0fw5l.html"
       }
     ],
     "mal_id": 52741,
@@ -197,7 +452,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-q687rks3ptwp.html"
+        "url": "https://lpayer.embed4me.com/#awn8u"
       },
       {
         "nom": "Lecteur 3",
@@ -224,7 +479,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#hknlg"
+        "url": "https://vidmoly.biz/embed-hg93h30enjc1.html"
       },
       {
         "nom": "Lecteur 3",
@@ -255,7 +510,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-bcxc1b6mopxs.html"
+        "url": "https://lpayer.embed4me.com/#kokan"
       },
       {
         "nom": "Lecteur 3",
@@ -286,7 +541,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-n05ut8vsj0v5.html"
+        "url": "https://lpayer.embed4me.com/#qazqq"
       },
       {
         "nom": "Lecteur 3",
@@ -432,7 +687,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-5cwd6t2if0nk.html"
+        "url": "https://lpayer.embed4me.com/#6l8eu"
       },
       {
         "nom": "Lecteur 3",
@@ -525,7 +780,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-oq7h52ix40hv.html"
+        "url": "https://lpayer.embed4me.com/#sybeb"
       },
       {
         "nom": "Lecteur 3",
@@ -552,7 +807,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-euj6krew4jfp.html"
+        "url": "https://lpayer.embed4me.com/#ysnmp"
       },
       {
         "nom": "Lecteur 3",
@@ -568,209 +823,6 @@
       }
     ],
     "mal_id": 61686,
-    "imdb_id": null
-  },
-  {
-    "titre": "REBORN AS A VENDING MACHINE",
-    "episode_info": "Saison 3 Episode 11",
-    "format": "Anime",
-    "langue": "Inconnue",
-    "lien": "https://anime-sama.to/catalogue/reborn-as-a-vending-machine/saison3/va/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-8qo27jirkmlg.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#dmhbm"
-      }
-    ],
-    "mal_id": 52619,
-    "imdb_id": null
-  },
-  {
-    "titre": "RENT-A-GIRLFRIEND",
-    "episode_info": "Saison 5 Episode 10",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/rent-a-girlfriend/saison5/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-nflw2ggfo0bo.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-nflw2ggfo0bo.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6181846"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/ukt7dl47p69f"
-      }
-    ],
-    "mal_id": 40839,
-    "imdb_id": null
-  },
-  {
-    "titre": "CLASSROOM OF THE ELITE",
-    "episode_info": "Saison 4 Episode 15",
-    "format": "Anime",
-    "langue": "Inconnue",
-    "lien": "https://anime-sama.to/catalogue/classroom-of-the-elite/saison4/va/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-xxya8lzstrmy.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-xxya8lzstrmy.html"
-      }
-    ],
-    "mal_id": 35507,
-    "imdb_id": null
-  },
-  {
-    "titre": "SAILOR MOON CRYSTAL",
-    "episode_info": "Saison 2",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/sailor-moon/saison7/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-d1f1nylpe00z.html"
-      }
-    ],
-    "mal_id": 14751,
-    "imdb_id": null
-  },
-  {
-    "titre": "SAILOR MOON CRYSTAL",
-    "episode_info": "Saison 1",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/sailor-moon/saison6/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-lm35wzvn22ml.html"
-      }
-    ],
-    "mal_id": 14751,
-    "imdb_id": null
-  },
-  {
-    "titre": "VERSATILE MAGE",
-    "episode_info": "Saison 7 Episode 7",
-    "format": "Anime",
-    "langue": "Inconnue",
-    "lien": "https://anime-sama.to/catalogue/versatile-mage/saison7/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-hegu1g4otarx.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-hegu1g4otarx.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6207835"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/rz4gxpb377c3"
-      }
-    ],
-    "mal_id": 34300,
-    "imdb_id": null
-  },
-  {
-    "titre": "HIDARIKIKI NO EREN",
-    "episode_info": "Saison 1 Episode 13 [FIN]",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/hidarikiki-no-eren/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-tidrdd1e3uj2.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-tidrdd1e3uj2.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6166175"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/yudu24ipvuv1"
-      }
-    ],
-    "mal_id": 53732,
-    "imdb_id": null
-  },
-  {
-    "titre": "REPLICA DATTE, KOI WO SURU",
-    "episode_info": "Saison 1 Episode 13 [FIN]",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/replica-datte-koi-wo-suru/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-f1h7c5pk7iy9.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-f1h7c5pk7iy9.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6166140"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/u16hbxtr9yed"
-      }
-    ],
-    "mal_id": 61013,
-    "imdb_id": null
-  },
-  {
-    "titre": "MARRIAGE TOXIN",
-    "episode_info": "Saison 1 Episode 10",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/marriage-toxin/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://vidmoly.biz/embed-5xom853jg5lx.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://vidmoly.biz/embed-5xom853jg5lx.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6223340"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/7kydoxwgq30w"
-      }
-    ],
-    "mal_id": 64524,
     "imdb_id": null
   }
 ]
