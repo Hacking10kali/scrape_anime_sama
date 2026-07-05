@@ -1,9 +1,9 @@
 [
   {
-    "jour": "Sorties du Dimanche - 05/07",
+    "jour": "SORTIES DU DIMANCHE - 05/07",
     "animes": [
       {
-        "titre": "Digimon Beatbreak",
+        "titre": "DIGIMON BEATBREAK",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tsue to Tsurugi no Wistoria",
+        "titre": "TSUE TO TSURUGI NO WISTORIA",
         "heure_sortie": "11h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kuroneko to Majo no Kyoushitsu",
+        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Sayonara Lara",
+        "titre": "SAYONARA LARA",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The World's Strongest Rearguard",
+        "titre": "THE WORLD'S STRONGEST REARGUARD",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+        "titre": "THE 100 GIRLFRIENDS WHO REALLY, REALLY, REALLY, REALLY, REALLY LOVE YOU",
         "heure_sortie": "?",
         "saison": "Saison 3",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": null
       },
       {
-        "titre": "You and I Are Polar Opposites",
+        "titre": "YOU AND I ARE POLAR OPPOSITES",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -66,7 +66,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Sparks of Tomorrow",
+        "titre": "SPARKS OF TOMORROW",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -75,16 +75,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Mushoku Tensei",
-        "heure_sortie": "?",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 39535,
-        "imdb_id": null
-      },
-      {
-        "titre": "Tetsunabe no Jan!",
+        "titre": "TETSUNABE NO JAN!",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,7 +84,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Let's Go Kaikigumi",
+        "titre": "LET'S GO KAIKIGUMI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -102,7 +93,7 @@
         "imdb_id": null
       },
       {
-        "titre": "One Piece Heroines",
+        "titre": "ONE PIECE HEROINES",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -111,7 +102,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Azur Lane - Bisoku Zenshin!",
+        "titre": "AZUR LANE - BISOKU ZENSHIN!",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -171,8 +162,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 62080,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41278636"
       },
       {
         "titre": "Replica Datte Koi wo Suru",
@@ -498,10 +489,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU SAMEDI - 04/07",
+    "jour": "Sorties du Samedi - 04/07",
     "animes": [
       {
-        "titre": "ASCENDANCE OF A BOOKWORM",
+        "titre": "Ascendance of a Bookworm",
         "heure_sortie": "11h50",
         "saison": "Reporté",
         "format": "Anime",
@@ -510,7 +501,7 @@
         "imdb_id": null
       },
       {
-        "titre": "WELCOME TO DEMON SCHOOL IRUMA-KUN",
+        "titre": "Welcome to Demon School Iruma-kun",
         "heure_sortie": "12h45",
         "saison": "Saison 4",
         "format": "Anime",
@@ -519,7 +510,7 @@
         "imdb_id": null
       },
       {
-        "titre": "DETECTIVE CONAN",
+        "titre": "Detective Conan",
         "heure_sortie": "12h50",
         "saison": "Reporté",
         "format": "Anime",
@@ -528,7 +519,34 @@
         "imdb_id": null
       },
       {
-        "titre": "NEKO TO RYUU",
+        "titre": "Mushoku Tensei",
+        "heure_sortie": "13h20",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 39535,
+        "imdb_id": null
+      },
+      {
+        "titre": "Skeleton Knight in Another World",
+        "heure_sortie": "14h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 48760,
+        "imdb_id": null
+      },
+      {
+        "titre": "Black Torch",
+        "heure_sortie": "15h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61169,
+        "imdb_id": null
+      },
+      {
+        "titre": "Neko to Ryuu",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -537,7 +555,16 @@
         "imdb_id": null
       },
       {
-        "titre": "YOMI NO TSUGAI",
+        "titre": "Iwamoto Senpai",
+        "heure_sortie": "16h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63324,
+        "imdb_id": null
+      },
+      {
+        "titre": "Yomi no Tsugai",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -555,53 +582,8 @@
         "imdb_id": null
       },
       {
-        "titre": "THE OGRE'S BRIDE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61814,
-        "imdb_id": null
-      },
-      {
-        "titre": "IWAMOTO SENPAI",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63324,
-        "imdb_id": null
-      },
-      {
-        "titre": "THE DUKE'S SON CLAIMS HE WON'T LOVE ME YET SHOWERS ME WITH ADORATION",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 56907,
-        "imdb_id": null
-      },
-      {
-        "titre": "RICH GIRL CARETAKER",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62876,
-        "imdb_id": null
-      },
-      {
-        "titre": "BLACK TORCH",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61169,
-        "imdb_id": null
-      },
-      {
-        "titre": "TENMAKU NO JAADUUGAR",
-        "heure_sortie": "?",
+        "titre": "Tenmaku no Jaaduugar",
+        "heure_sortie": "18h45",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -609,25 +591,34 @@
         "imdb_id": null
       },
       {
-        "titre": "BLACK TORCH",
-        "heure_sortie": "?",
+        "titre": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
+        "heure_sortie": "19h20",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
-        "mal_id": 61169,
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt41277587"
+      },
+      {
+        "titre": "The Ogre's Bride",
+        "heure_sortie": "19h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61814,
         "imdb_id": null
       },
       {
-        "titre": "AKANE-BANASHI",
-        "heure_sortie": "?",
+        "titre": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
+        "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
-        "mal_id": 62164,
+        "langue": "VOSTFR",
+        "mal_id": 60637,
         "imdb_id": null
       },
       {
-        "titre": "YOMI NO TSUGAI",
+        "titre": "Yomi no Tsugai",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -636,12 +627,30 @@
         "imdb_id": null
       },
       {
-        "titre": "MAHOU SHOUJO LYRICAL NANOHA EXCEEDS",
+        "titre": "Akane-banashi",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 62164,
+        "imdb_id": null
+      },
+      {
+        "titre": "Black Torch",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 61169,
+        "imdb_id": null
+      },
+      {
+        "titre": "Rich Girl Caretaker",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 60637,
+        "mal_id": 62876,
         "imdb_id": null
       }
     ]
