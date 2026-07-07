@@ -70,7 +70,7 @@
         "heure_sortie": "16h45",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VOSTFR",
+        "langue": "VF",
         "mal_id": 62856,
         "imdb_id": null
       },
@@ -79,7 +79,7 @@
         "heure_sortie": "16h45",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": 62856,
         "imdb_id": null
       },
@@ -118,14 +118,23 @@
         "langue": "VOSTFR",
         "mal_id": 62233,
         "imdb_id": null
+      },
+      {
+        "titre": "Though I Am an Inept Villainess",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 61240,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "SORTIES DU LUNDI - 06/07",
+    "jour": "Sorties du Lundi - 06/07",
     "animes": [
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -134,7 +143,7 @@
         "imdb_id": null
       },
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -143,35 +152,8 @@
         "imdb_id": null
       },
       {
-        "titre": "THE WORLD IS DANCING",
-        "heure_sortie": "16h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 63347,
-        "imdb_id": null
-      },
-      {
-        "titre": "LIAR GAME",
-        "heure_sortie": "18h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 62331,
-        "imdb_id": null
-      },
-      {
-        "titre": "GRAND BLUE",
-        "heure_sortie": "?",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 37105,
-        "imdb_id": null
-      },
-      {
-        "titre": "LOVE UNSEEN BENEATH THE CLEAR NIGHT SKY",
-        "heure_sortie": "?",
+        "titre": "Love Unseen Beneath the Clear Night Sky",
+        "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -179,8 +161,26 @@
         "imdb_id": null
       },
       {
-        "titre": "THE FURIOUS PRINCESS DECIDED TO TAKE REVENGE",
-        "heure_sortie": "?",
+        "titre": "The World is Dancing",
+        "heure_sortie": "15h50",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63347,
+        "imdb_id": null
+      },
+      {
+        "titre": "The Insipid Prince's Furtive Grab for the Throne",
+        "heure_sortie": "16h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32862795"
+      },
+      {
+        "titre": "The Furious Princess Decided to Take Revenge",
+        "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -188,8 +188,17 @@
         "imdb_id": null
       },
       {
-        "titre": "OH BOY WAS I WRONG ABOUT HER",
-        "heure_sortie": "?",
+        "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt41095208"
+      },
+      {
+        "titre": "Oh Boy Was I Wrong About Her",
+        "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -197,30 +206,30 @@
         "imdb_id": null
       },
       {
-        "titre": "THE INSIPID PRINCE'S FURTIVE GRAB FOR THE THRONE",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
+        "titre": "Grand Blue",
+        "heure_sortie": "17h50",
+        "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56736,
+        "mal_id": 37105,
         "imdb_id": null
       },
       {
-        "titre": "THE FORSAKEN SAINTESS AND HER FOODIE ROADTRIP IN ANOTHER WORLD",
-        "heure_sortie": "?",
+        "titre": "Liar Game",
+        "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41095208"
+        "mal_id": 62331,
+        "imdb_id": null
       }
     ]
   },
   {
-    "jour": "Sorties du Mardi - 07/07",
+    "jour": "SORTIES DU MARDI - 07/07",
     "animes": [
       {
-        "titre": "The Oblivious Saint Can't Contain Her Power Glossary",
+        "titre": "THE OBLIVIOUS SAINT CAN'T CONTAIN HER POWER GLOSSARY",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -229,34 +238,7 @@
         "imdb_id": "tt41278636"
       },
       {
-        "titre": "Replica Datte Koi wo Suru",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61013,
-        "imdb_id": null
-      },
-      {
-        "titre": "Marriage Toxin",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 64524,
-        "imdb_id": null
-      },
-      {
-        "titre": "Aishiteru Game wo Owarasetai",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 61839,
-        "imdb_id": null
-      },
-      {
-        "titre": "Marriage Toxin",
+        "titre": "MARRIAGE TOXIN",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -265,12 +247,48 @@
         "imdb_id": null
       },
       {
-        "titre": "Hidarikiki no Eren",
-        "heure_sortie": "18h20",
+        "titre": "KIMI GA SHINU MADE KOI WO SHITAI",
+        "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 53732,
+        "mal_id": 61126,
+        "imdb_id": null
+      },
+      {
+        "titre": "YOUNG LADIES DON'T PLAY FIGHTING GAMES",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 46488,
+        "imdb_id": null
+      },
+      {
+        "titre": "GHOST IN THE SHELL",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 43,
+        "imdb_id": null
+      },
+      {
+        "titre": "RED RIVER",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63489,
+        "imdb_id": null
+      },
+      {
+        "titre": "VICTORIA OF MANY FACES",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62476,
         "imdb_id": null
       }
     ]
@@ -333,21 +351,12 @@
         "imdb_id": null
       },
       {
-        "titre": "Classroom of the Elite",
+        "titre": "Rent a Girlfriend",
         "heure_sortie": "?",
-        "saison": "Saison 4",
+        "saison": "Saison 5",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 35507,
-        "imdb_id": null
-      },
-      {
-        "titre": "Re Zero",
-        "heure_sortie": "?",
-        "saison": "Reporté",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 42364,
+        "mal_id": 40839,
         "imdb_id": null
       },
       {
@@ -360,12 +369,75 @@
         "imdb_id": null
       },
       {
-        "titre": "Rent a Girlfriend",
+        "titre": "Re Zero",
         "heure_sortie": "?",
-        "saison": "Saison 5",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VF",
-        "mal_id": 40839,
+        "mal_id": 42364,
+        "imdb_id": null
+      },
+      {
+        "titre": "Youjo Senki",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 32615,
+        "imdb_id": null
+      },
+      {
+        "titre": "Trapped in a Dating Sim",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 50461,
+        "imdb_id": null
+      },
+      {
+        "titre": "Ibitte Konai Gibo to Gishi",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62102,
+        "imdb_id": null
+      },
+      {
+        "titre": "Tomb Raider King",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63316,
+        "imdb_id": null
+      },
+      {
+        "titre": "Katainaka no Ossan Kensei ni Naru",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59452,
+        "imdb_id": null
+      },
+      {
+        "titre": "Clevatess",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 59205,
+        "imdb_id": null
+      },
+      {
+        "titre": "Classroom of the Elite",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": 35507,
         "imdb_id": null
       }
     ]
@@ -401,31 +473,13 @@
         "imdb_id": null
       },
       {
-        "titre": "The Ramparts of Ice",
-        "heure_sortie": "18h15",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 60852,
-        "imdb_id": null
-      },
-      {
-        "titre": "The Ramparts of Ice",
-        "heure_sortie": "18h15",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": 60852,
-        "imdb_id": null
-      },
-      {
         "titre": "The Exiled Heavy Knight Knows How to Game the System",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 59741,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt33334216"
       },
       {
         "titre": "Chainsmoker Cat",
@@ -452,6 +506,24 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 63150,
+        "imdb_id": null
+      },
+      {
+        "titre": "Smoking Behind the Supermarket with You",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62076,
+        "imdb_id": null
+      },
+      {
+        "titre": "Mebius Dust",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63802,
         "imdb_id": null
       },
       {
@@ -659,8 +731,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56907,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt41277587"
       },
       {
         "titre": "The Ogre's Bride",
@@ -714,6 +786,15 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": 62876,
+        "imdb_id": null
+      },
+      {
+        "titre": "Hanaori-san Still Wants to Fight in the Next Life",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 62535,
         "imdb_id": null
       }
     ]
