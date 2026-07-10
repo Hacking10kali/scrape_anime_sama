@@ -62,8 +62,8 @@
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt28919914"
+        "mal_id": 54714,
+        "imdb_id": null
       },
       {
         "titre": "Sparks of Tomorrow",
@@ -175,8 +175,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 56736,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt32862795"
       },
       {
         "titre": "The Furious Princess Decided to Take Revenge",
@@ -252,8 +252,8 @@
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41278636"
+        "mal_id": 62080,
+        "imdb_id": null
       },
       {
         "titre": "Victoria of Many Faces",
@@ -470,10 +470,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 09/07",
+    "jour": "Sorties du Jeudi - 09/07",
     "animes": [
       {
-        "titre": "REIWA NO DARA-SAN",
+        "titre": "Reiwa no Dara-san",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -482,7 +482,7 @@
         "imdb_id": null
       },
       {
-        "titre": "BUNGO STRAY DOGS WAN!",
+        "titre": "Bungo Stray Dogs WAN!",
         "heure_sortie": "15h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -491,7 +491,16 @@
         "imdb_id": null
       },
       {
-        "titre": "FROM OVERSHADOWED TO OVERPOWERED",
+        "titre": "Mebius Dust",
+        "heure_sortie": "17h20",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 63802,
+        "imdb_id": null
+      },
+      {
+        "titre": "From Overshadowed to Overpowered",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -500,16 +509,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
-        "heure_sortie": "18h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 59741,
-        "imdb_id": null
-      },
-      {
-        "titre": "CHAINSMOKER CAT",
+        "titre": "Chainsmoker Cat",
         "heure_sortie": "18h40",
         "saison": "Saison 1",
         "format": "Anime",
@@ -518,16 +518,7 @@
         "imdb_id": null
       },
       {
-        "titre": "AWAJIMA HYAKKEI",
-        "heure_sortie": "19h10",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": 58820,
-        "imdb_id": null
-      },
-      {
-        "titre": "KAIJU GIRL CARAMELISE",
+        "titre": "Kaiju Girl Caramelise",
         "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -536,8 +527,8 @@
         "imdb_id": null
       },
       {
-        "titre": "SMOKING BEHIND THE SUPERMARKET WITH YOU",
-        "heure_sortie": "?",
+        "titre": "Smoking Behind the Supermarket with You",
+        "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -545,16 +536,16 @@
         "imdb_id": null
       },
       {
-        "titre": "MEBIUS DUST",
-        "heure_sortie": "?",
+        "titre": "The Exiled Heavy Knight Knows How to Game the System",
+        "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 63802,
+        "mal_id": 59741,
         "imdb_id": null
       },
       {
-        "titre": "THE BARBARIAN'S BRIDE",
+        "titre": "The Barbarian's Bride",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -565,19 +556,19 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 10/07",
+    "jour": "SORTIES DU VENDREDI - 10/07",
     "animes": [
       {
-        "titre": "The Frontier Lord Begins with Zero Subjects",
+        "titre": "THE FRONTIER LORD BEGINS WITH ZERO SUBJECTS",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41054252"
+        "mal_id": 62078,
+        "imdb_id": null
       },
       {
-        "titre": "I Became a Legend After My 10 Year-Long Last Stand",
+        "titre": "I BECAME A LEGEND AFTER MY 10 YEAR-LONG LAST STAND",
         "heure_sortie": "16h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -586,7 +577,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h20",
         "saison": "Saison 4",
         "format": "Anime",
@@ -595,7 +586,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -604,7 +595,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kore Kaite Shine",
+        "titre": "KORE KAITE SHINE",
         "heure_sortie": "17h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -613,7 +604,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Please Excuse My Younger Brothers",
+        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -622,7 +613,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Hell Mode",
+        "titre": "HELL MODE",
         "heure_sortie": "19h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -631,7 +622,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -640,7 +631,7 @@
         "imdb_id": null
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
