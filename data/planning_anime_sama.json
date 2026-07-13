@@ -1,9 +1,9 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 12/07",
+    "jour": "Sorties du Dimanche - 19/07",
     "animes": [
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": "tt37499375"
       },
       {
-        "titre": "YOU AND I ARE POLAR OPPOSITES",
+        "titre": "You and I Are Polar Opposites",
         "heure_sortie": "11h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": "tt36034547"
       },
       {
-        "titre": "LET'S GO KAIKIGUMI",
+        "titre": "Let's Go Kaikigumi",
         "heure_sortie": "11h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": "tt41278494"
       },
       {
-        "titre": "TSUE TO TSURUGI NO WISTORIA",
+        "titre": "Tsue to Tsurugi no Wistoria",
         "heure_sortie": "11h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -39,7 +39,7 @@
         "imdb_id": "tt31889371"
       },
       {
-        "titre": "TETSUNABE NO JAN!",
+        "titre": "Tetsunabe no Jan!",
         "heure_sortie": "11h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -48,7 +48,7 @@
         "imdb_id": "tt42963873"
       },
       {
-        "titre": "THE WORLD'S STRONGEST REARGUARD",
+        "titre": "The World's Strongest Rearguard",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +57,7 @@
         "imdb_id": "tt41293112"
       },
       {
-        "titre": "THE 100 GIRLFRIENDS WHO REALLY, REALLY, REALLY, REALLY, REALLY LOVE YOU",
+        "titre": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
         "heure_sortie": "16h20",
         "saison": "Saison 3",
         "format": "Anime",
@@ -66,7 +66,7 @@
         "imdb_id": "tt28919914"
       },
       {
-        "titre": "SPARKS OF TOMORROW",
+        "titre": "Sparks of Tomorrow",
         "heure_sortie": "16h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -75,7 +75,7 @@
         "imdb_id": "tt38939446"
       },
       {
-        "titre": "SPARKS OF TOMORROW",
+        "titre": "Sparks of Tomorrow",
         "heure_sortie": "16h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -84,7 +84,7 @@
         "imdb_id": "tt38939446"
       },
       {
-        "titre": "KURONEKO TO MAJO NO KYOUSHITSU",
+        "titre": "Kuroneko to Majo no Kyoushitsu",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -93,7 +93,7 @@
         "imdb_id": "tt39123043"
       },
       {
-        "titre": "MUSHOKU TENSEI",
+        "titre": "Mushoku Tensei",
         "heure_sortie": "17h20",
         "saison": "Saison 3",
         "format": "Anime",
@@ -102,7 +102,7 @@
         "imdb_id": "tt13293588"
       },
       {
-        "titre": "SAYONARA LARA",
+        "titre": "Sayonara Lara",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -111,7 +111,7 @@
         "imdb_id": "tt38049145"
       },
       {
-        "titre": "AZUR LANE - BISOKU ZENSHIN!",
+        "titre": "Azur Lane - Bisoku Zenshin!",
         "heure_sortie": "19h15",
         "saison": "Saison 2",
         "format": "Anime",
@@ -120,16 +120,16 @@
         "imdb_id": "tt13084120"
       },
       {
-        "titre": "ONE PIECE",
-        "heure_sortie": "?",
+        "titre": "One Piece",
+        "heure_sortie": "20h30",
         "saison": "Saga Elbaf",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0388629"
+        "mal_id": 459,
+        "imdb_id": null
       },
       {
-        "titre": "THOUGH I AM AN INEPT VILLAINESS",
+        "titre": "Though I Am an Inept Villainess",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -140,10 +140,10 @@
     ]
   },
   {
-    "jour": "Sorties du Lundi - 06/07",
+    "jour": "SORTIES DU LUNDI - 13/07",
     "animes": [
       {
-        "titre": "Rick et Morty",
+        "titre": "RICK ET MORTY",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -152,7 +152,7 @@
         "imdb_id": "tt2861424"
       },
       {
-        "titre": "Rick et Morty",
+        "titre": "RICK ET MORTY",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -161,7 +161,7 @@
         "imdb_id": "tt2861424"
       },
       {
-        "titre": "Love Unseen Beneath the Clear Night Sky",
+        "titre": "LOVE UNSEEN BENEATH THE CLEAR NIGHT SKY",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -170,16 +170,25 @@
         "imdb_id": "tt39304754"
       },
       {
-        "titre": "Skeleton Knight in Another World",
+        "titre": "THE INSIPID PRINCE'S FURTIVE GRAB FOR THE THRONE",
         "heure_sortie": "15h20",
-        "saison": "Reporté",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32862795"
+      },
+      {
+        "titre": "SKELETON KNIGHT IN ANOTHER WORLD",
+        "heure_sortie": "15h20",
+        "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt14476236"
       },
       {
-        "titre": "The World is Dancing",
+        "titre": "THE WORLD IS DANCING",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -188,16 +197,7 @@
         "imdb_id": "tt41279522"
       },
       {
-        "titre": "The Insipid Prince's Furtive Grab for the Throne",
-        "heure_sortie": "16h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32862795"
-      },
-      {
-        "titre": "The Furious Princess Decided to Take Revenge",
+        "titre": "THE FURIOUS PRINCESS DECIDED TO TAKE REVENGE",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -206,7 +206,7 @@
         "imdb_id": null
       },
       {
-        "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+        "titre": "THE FORSAKEN SAINTESS AND HER FOODIE ROADTRIP IN ANOTHER WORLD",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -215,7 +215,7 @@
         "imdb_id": "tt41095208"
       },
       {
-        "titre": "Oh Boy Was I Wrong About Her",
+        "titre": "OH BOY WAS I WRONG ABOUT HER",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -224,7 +224,7 @@
         "imdb_id": "tt41278615"
       },
       {
-        "titre": "Grand Blue",
+        "titre": "GRAND BLUE",
         "heure_sortie": "17h50",
         "saison": "Saison 3",
         "format": "Anime",
@@ -233,7 +233,7 @@
         "imdb_id": "tt8086718"
       },
       {
-        "titre": "Liar Game",
+        "titre": "LIAR GAME",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 07/07",
+    "jour": "Sorties du Mardi - 14/07",
     "animes": [
       {
         "titre": "Young Ladies Don't Play Fighting Games",
@@ -289,7 +289,7 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt0113568"
+        "imdb_id": "tt36517689"
       },
       {
         "titre": "Ghost in the Shell",
@@ -298,7 +298,7 @@
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt0113568"
+        "imdb_id": "tt36517689"
       },
       {
         "titre": "Marriage Toxin",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 08/07",
+    "jour": "Sorties du Mercredi - 15/07",
     "animes": [
       {
         "titre": "Versatile Mage",
@@ -488,7 +488,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 09/07",
+    "jour": "Sorties du Jeudi - 16/07",
     "animes": [
       {
         "titre": "Reiwa no Dara-san",
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 10/07",
+    "jour": "Sorties du Vendredi - 17/07",
     "animes": [
       {
         "titre": "The Frontier Lord Begins with Zero Subjects",
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 11/07",
+    "jour": "Sorties du Samedi - 18/07",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
@@ -768,7 +768,7 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt39112665"
+        "imdb_id": "tt39113208"
       },
       {
         "titre": "Mahou Shoujo Lyrical Nanoha EXCEEDS",
