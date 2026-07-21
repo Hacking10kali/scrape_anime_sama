@@ -131,10 +131,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU LUNDI - 20/07",
+    "jour": "Sorties du Lundi - 20/07",
     "animes": [
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -143,7 +143,7 @@
         "imdb_id": "tt2861424"
       },
       {
-        "titre": "RICK ET MORTY",
+        "titre": "Rick et Morty",
         "heure_sortie": "12h00",
         "saison": "Saison 9",
         "format": "Anime",
@@ -152,7 +152,7 @@
         "imdb_id": "tt2861424"
       },
       {
-        "titre": "LOVE UNSEEN BENEATH THE CLEAR NIGHT SKY",
+        "titre": "Love Unseen Beneath the Clear Night Sky",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -161,7 +161,7 @@
         "imdb_id": "tt39304754"
       },
       {
-        "titre": "THE INSIPID PRINCE'S FURTIVE GRAB FOR THE THRONE",
+        "titre": "The Insipid Prince's Furtive Grab for the Throne",
         "heure_sortie": "15h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -170,7 +170,7 @@
         "imdb_id": "tt32862795"
       },
       {
-        "titre": "SKELETON KNIGHT IN ANOTHER WORLD",
+        "titre": "Skeleton Knight in Another World",
         "heure_sortie": "15h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -179,7 +179,7 @@
         "imdb_id": "tt14476236"
       },
       {
-        "titre": "THE WORLD IS DANCING",
+        "titre": "The World is Dancing",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -188,7 +188,7 @@
         "imdb_id": "tt41279522"
       },
       {
-        "titre": "THE FURIOUS PRINCESS DECIDED TO TAKE REVENGE",
+        "titre": "The Furious Princess Decided to Take Revenge",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -197,7 +197,7 @@
         "imdb_id": null
       },
       {
-        "titre": "THE FORSAKEN SAINTESS AND HER FOODIE ROADTRIP IN ANOTHER WORLD",
+        "titre": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -206,7 +206,7 @@
         "imdb_id": "tt41095208"
       },
       {
-        "titre": "OH BOY WAS I WRONG ABOUT HER",
+        "titre": "Oh Boy Was I Wrong About Her",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -215,7 +215,7 @@
         "imdb_id": "tt41278615"
       },
       {
-        "titre": "GRAND BLUE",
+        "titre": "Grand Blue",
         "heure_sortie": "17h50",
         "saison": "Saison 3",
         "format": "Anime",
@@ -224,7 +224,7 @@
         "imdb_id": "tt8086718"
       },
       {
-        "titre": "LIAR GAME",
+        "titre": "Liar Game",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -235,10 +235,10 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 21/07",
+    "jour": "SORTIES DU MARDI - 21/07",
     "animes": [
       {
-        "titre": "Young Ladies Don't Play Fighting Games",
+        "titre": "YOUNG LADIES DON'T PLAY FIGHTING GAMES",
         "heure_sortie": "13h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -247,7 +247,7 @@
         "imdb_id": "tt37015024"
       },
       {
-        "titre": "Kimi ga Shinu made Koi wo Shitai",
+        "titre": "KIMI GA SHINU MADE KOI WO SHITAI",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -256,7 +256,7 @@
         "imdb_id": "tt36056731"
       },
       {
-        "titre": "The Oblivious Saint Can't Contain Her Power Glossary",
+        "titre": "THE OBLIVIOUS SAINT CAN'T CONTAIN HER POWER GLOSSARY",
         "heure_sortie": "15h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -265,7 +265,7 @@
         "imdb_id": "tt41278636"
       },
       {
-        "titre": "Victoria of Many Faces",
+        "titre": "VICTORIA OF MANY FACES",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -274,7 +274,7 @@
         "imdb_id": "tt38273525"
       },
       {
-        "titre": "Ghost in the Shell",
+        "titre": "GHOST IN THE SHELL",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -283,7 +283,7 @@
         "imdb_id": "tt36517689"
       },
       {
-        "titre": "Ghost in the Shell",
+        "titre": "GHOST IN THE SHELL",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -292,7 +292,7 @@
         "imdb_id": "tt36517689"
       },
       {
-        "titre": "Marriage Toxin",
+        "titre": "MARRIAGE TOXIN",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -301,8 +301,8 @@
         "imdb_id": "tt39122769"
       },
       {
-        "titre": "Red River",
-        "heure_sortie": "?",
+        "titre": "RED RIVER",
+        "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
