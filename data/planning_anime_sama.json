@@ -312,10 +312,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MERCREDI - 22/07",
+    "jour": "Sorties du Mercredi - 22/07",
     "animes": [
       {
-        "titre": "VERSATILE MAGE",
+        "titre": "Versatile Mage",
         "heure_sortie": "12h00",
         "saison": "Saison 7",
         "format": "Anime",
@@ -324,7 +324,7 @@
         "imdb_id": "tt11317074"
       },
       {
-        "titre": "CLEVATESS",
+        "titre": "Clevatess",
         "heure_sortie": "14h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -333,7 +333,7 @@
         "imdb_id": "tt32991344"
       },
       {
-        "titre": "YOUJO SENKI",
+        "titre": "Youjo Senki",
         "heure_sortie": "16h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -342,7 +342,7 @@
         "imdb_id": "tt6455986"
       },
       {
-        "titre": "RE ZERO",
+        "titre": "Re Zero",
         "heure_sortie": "16h30",
         "saison": "Reporté",
         "format": "Anime",
@@ -351,16 +351,7 @@
         "imdb_id": "tt5607616"
       },
       {
-        "titre": "IBITTE KONAI GIBO TO GISHI",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37674481"
-      },
-      {
-        "titre": "HEROINE? SAINT? NO, I'M AN ALL-WORKS MAID (AND PROUD OF IT)!",
+        "titre": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -369,7 +360,16 @@
         "imdb_id": null
       },
       {
-        "titre": "REBORN AS A VENDING MACHINE",
+        "titre": "Ibitte Konai Gibo to Gishi",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt37674481"
+      },
+      {
+        "titre": "Reborn as a Vending Machine",
         "heure_sortie": "17h00",
         "saison": "Saison 3",
         "format": "Anime",
@@ -378,25 +378,7 @@
         "imdb_id": "tt28100731"
       },
       {
-        "titre": "KATAINAKA NO OSSAN KENSEI NI NARU",
-        "heure_sortie": "17h45",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt35346717"
-      },
-      {
-        "titre": "KATAINAKA NO OSSAN KENSEI NI NARU",
-        "heure_sortie": "17h45",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt35346717"
-      },
-      {
-        "titre": "TRAPPED IN A DATING SIM",
+        "titre": "Trapped in a Dating Sim",
         "heure_sortie": "17h50",
         "saison": "Saison 2",
         "format": "Anime",
@@ -405,7 +387,25 @@
         "imdb_id": "tt16255458"
       },
       {
-        "titre": "LV999 NO MURABITO",
+        "titre": "Katainaka no Ossan Kensei ni Naru",
+        "heure_sortie": "18h15",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt35346717"
+      },
+      {
+        "titre": "Katainaka no Ossan Kensei ni Naru",
+        "heure_sortie": "18h15",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt35346717"
+      },
+      {
+        "titre": "LV999 no Murabito",
         "heure_sortie": "18h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -414,7 +414,7 @@
         "imdb_id": "tt38262097"
       },
       {
-        "titre": "HANA-KIMI",
+        "titre": "Hana-Kimi",
         "heure_sortie": "18h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -423,7 +423,7 @@
         "imdb_id": "tt38646611"
       },
       {
-        "titre": "TOMB RAIDER KING",
+        "titre": "Tomb Raider King",
         "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -432,7 +432,7 @@
         "imdb_id": "tt32869308"
       },
       {
-        "titre": "TOMB RAIDER KING",
+        "titre": "Tomb Raider King",
         "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -441,7 +441,7 @@
         "imdb_id": "tt32869308"
       },
       {
-        "titre": "RE ZERO",
+        "titre": "Re Zero",
         "heure_sortie": "?",
         "saison": "Reporté",
         "format": "Anime",
@@ -450,39 +450,21 @@
         "imdb_id": "tt5607616"
       },
       {
-        "titre": "CLASSROOM OF THE ELITE",
+        "titre": "Classroom of the Elite",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
         "imdb_id": "tt7263328"
-      },
-      {
-        "titre": "THE BEGINNING AFTER THE END",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt34119820"
-      },
-      {
-        "titre": "RENT A GIRLFRIEND",
-        "heure_sortie": "?",
-        "saison": "Saison 5",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt11448214"
       }
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 23/07",
+    "jour": "SORTIES DU JEUDI - 23/07",
     "animes": [
       {
-        "titre": "Reiwa no Dara-san",
+        "titre": "REIWA NO DARA-SAN",
         "heure_sortie": "14h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -491,7 +473,7 @@
         "imdb_id": "tt39195667"
       },
       {
-        "titre": "Bungo Stray Dogs WAN!",
+        "titre": "BUNGO STRAY DOGS WAN!",
         "heure_sortie": "15h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -500,7 +482,7 @@
         "imdb_id": "tt13192574"
       },
       {
-        "titre": "From Overshadowed to Overpowered",
+        "titre": "FROM OVERSHADOWED TO OVERPOWERED",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -509,7 +491,7 @@
         "imdb_id": "tt40550160"
       },
       {
-        "titre": "Mebius Dust",
+        "titre": "MEBIUS DUST",
         "heure_sortie": "17h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -518,7 +500,7 @@
         "imdb_id": "tt43587102"
       },
       {
-        "titre": "Chainsmoker Cat",
+        "titre": "CHAINSMOKER CAT",
         "heure_sortie": "18h40",
         "saison": "Saison 1",
         "format": "Anime",
@@ -527,7 +509,7 @@
         "imdb_id": "tt39551330"
       },
       {
-        "titre": "Kaiju Girl Caramelise",
+        "titre": "KAIJU GIRL CARAMELISE",
         "heure_sortie": "19h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -536,7 +518,7 @@
         "imdb_id": "tt39246964"
       },
       {
-        "titre": "Smoking Behind the Supermarket with You",
+        "titre": "SMOKING BEHIND THE SUPERMARKET WITH YOU",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -545,7 +527,7 @@
         "imdb_id": "tt37614297"
       },
       {
-        "titre": "The Exiled Heavy Knight Knows How to Game the System",
+        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
         "heure_sortie": "20h20",
         "saison": "Saison 1",
         "format": "Anime",
@@ -554,7 +536,7 @@
         "imdb_id": "tt33334216"
       },
       {
-        "titre": "Chainsmoker Cat",
+        "titre": "CHAINSMOKER CAT",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -563,7 +545,7 @@
         "imdb_id": "tt39551330"
       },
       {
-        "titre": "The Barbarian's Bride",
+        "titre": "THE BARBARIAN'S BRIDE",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
