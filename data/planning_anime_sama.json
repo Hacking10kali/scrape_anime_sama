@@ -452,19 +452,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 17/09",
+    "jour": "Sorties du Jeudi - 17/09",
     "animes": [
       {
-        "titre": "BUNGO STRAY DOGS WAN!",
-        "heure_sortie": "15h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt13192574"
-      },
-      {
-        "titre": "REIWA NO DARA-SAN",
+        "titre": "Reiwa no Dara-san",
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -473,7 +464,16 @@
         "imdb_id": "tt39195667"
       },
       {
-        "titre": "MEBIUS DUST",
+        "titre": "Bungo Stray Dogs WAN!",
+        "heure_sortie": "15h00",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt13192574"
+      },
+      {
+        "titre": "Mebius Dust",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -482,16 +482,7 @@
         "imdb_id": "tt43587102"
       },
       {
-        "titre": "FROM OVERSHADOWED TO OVERPOWERED",
-        "heure_sortie": "17h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt40550160"
-      },
-      {
-        "titre": "SMOKING BEHIND THE SUPERMARKET WITH YOU",
+        "titre": "Smoking Behind the Supermarket with You",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -500,7 +491,7 @@
         "imdb_id": "tt37614297"
       },
       {
-        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
+        "titre": "The Exiled Heavy Knight Knows How to Game the System",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -509,8 +500,8 @@
         "imdb_id": "tt33334216"
       },
       {
-        "titre": "CHAINSMOKER CAT",
-        "heure_sortie": "18h45",
+        "titre": "Chainsmoker Cat",
+        "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -518,7 +509,7 @@
         "imdb_id": "tt39551330"
       },
       {
-        "titre": "KAIJU GIRL CARAMELISE",
+        "titre": "Kaiju Girl Caramelise",
         "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -527,7 +518,7 @@
         "imdb_id": "tt39246964"
       },
       {
-        "titre": "CHAINSMOKER CAT",
+        "titre": "Chainsmoker Cat",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -538,10 +529,10 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 18/09",
+    "jour": "SORTIES DU VENDREDI - 18/09",
     "animes": [
       {
-        "titre": "Link Click",
+        "titre": "LINK CLICK",
         "heure_sortie": "06h00",
         "saison": "Saison 3",
         "format": "Anime",
@@ -550,7 +541,7 @@
         "imdb_id": "tt14976292"
       },
       {
-        "titre": "The Frontier Lord Begins with Zero Subjects",
+        "titre": "THE FRONTIER LORD BEGINS WITH ZERO SUBJECTS",
         "heure_sortie": "16h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -559,7 +550,7 @@
         "imdb_id": "tt41054252"
       },
       {
-        "titre": "I Became a Legend After My 10 Year-Long Last Stand",
+        "titre": "I BECAME A LEGEND AFTER MY 10 YEAR-LONG LAST STAND",
         "heure_sortie": "16h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -568,7 +559,7 @@
         "imdb_id": "tt39443204"
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h30",
         "saison": "Saison 4",
         "format": "Anime",
@@ -577,7 +568,7 @@
         "imdb_id": "tt15467380"
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -586,7 +577,7 @@
         "imdb_id": "tt39026840"
       },
       {
-        "titre": "Kore Kaite Shine",
+        "titre": "KORE KAITE SHINE",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -595,7 +586,7 @@
         "imdb_id": "tt36290385"
       },
       {
-        "titre": "The Elusive Samurai",
+        "titre": "THE ELUSIVE SAMURAI",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -604,7 +595,7 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "Hell Mode",
+        "titre": "HELL MODE",
         "heure_sortie": "19h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -613,7 +604,7 @@
         "imdb_id": "tt38646634"
       },
       {
-        "titre": "Please Excuse My Younger Brothers",
+        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
         "heure_sortie": "19h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -622,7 +613,7 @@
         "imdb_id": "tt41293320"
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -631,7 +622,7 @@
         "imdb_id": "tt15467380"
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -640,7 +631,7 @@
         "imdb_id": "tt39026840"
       },
       {
-        "titre": "The Elusive Samurai",
+        "titre": "THE ELUSIVE SAMURAI",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
