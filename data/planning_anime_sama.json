@@ -299,10 +299,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 24/09",
+    "jour": "Sorties du Jeudi - 24/09",
     "animes": [
       {
-        "titre": "REIWA NO DARA-SAN",
+        "titre": "Reiwa no Dara-san",
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -311,7 +311,7 @@
         "imdb_id": "tt39195667"
       },
       {
-        "titre": "MEBIUS DUST",
+        "titre": "Mebius Dust",
         "heure_sortie": "17h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -320,7 +320,7 @@
         "imdb_id": "tt43587102"
       },
       {
-        "titre": "SMOKING BEHIND THE SUPERMARKET WITH YOU",
+        "titre": "Smoking Behind the Supermarket with You",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -329,7 +329,7 @@
         "imdb_id": "tt37614297"
       },
       {
-        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
+        "titre": "The Exiled Heavy Knight Knows How to Game the System",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -338,31 +338,31 @@
         "imdb_id": "tt33334216"
       },
       {
-        "titre": "CHAINSMOKER CAT",
-        "heure_sortie": "19h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39551330"
-      },
-      {
-        "titre": "CHAINSMOKER CAT",
+        "titre": "Chainsmoker Cat",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
         "imdb_id": "tt39551330"
+      },
+      {
+        "titre": "Chainsmoker Cat",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt39551330"
       }
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 25/09",
+    "jour": "SORTIES DU VENDREDI - 25/09",
     "animes": [
       {
-        "titre": "Link Click",
-        "heure_sortie": "06h00",
+        "titre": "LINK CLICK",
+        "heure_sortie": "05h30",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "Inconnue",
@@ -370,7 +370,25 @@
         "imdb_id": "tt14976292"
       },
       {
-        "titre": "Ibitte Konai Gibo to Gishi",
+        "titre": "JOJO'S BIZARRE ADVENTURE",
+        "heure_sortie": "11h15",
+        "saison": "Steel Ball Run",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt2359704"
+      },
+      {
+        "titre": "JOJO'S BIZARRE ADVENTURE",
+        "heure_sortie": "11h15",
+        "saison": "Steel Ball Run",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt2359704"
+      },
+      {
+        "titre": "IBITTE KONAI GIBO TO GISHI",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -379,7 +397,7 @@
         "imdb_id": "tt37674481"
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "17h30",
         "saison": "Saison 4",
         "format": "Anime",
@@ -388,7 +406,7 @@
         "imdb_id": "tt14408130"
       },
       {
-        "titre": "Kore Kaite Shine",
+        "titre": "KORE KAITE SHINE",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -397,7 +415,7 @@
         "imdb_id": "tt36290385"
       },
       {
-        "titre": "The Elusive Samurai",
+        "titre": "THE ELUSIVE SAMURAI",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -406,7 +424,7 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "Hell Mode",
+        "titre": "HELL MODE",
         "heure_sortie": "19h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -415,16 +433,16 @@
         "imdb_id": "tt38646634"
       },
       {
-        "titre": "Please Excuse My Younger Brothers",
+        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
         "heure_sortie": "19h00",
-        "saison": "Saison 1",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt41293320"
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -433,7 +451,7 @@
         "imdb_id": "tt39026840"
       },
       {
-        "titre": "The Elusive Samurai",
+        "titre": "THE ELUSIVE SAMURAI",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -442,25 +460,7 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "JoJo's Bizarre Adventure",
-        "heure_sortie": "?",
-        "saison": "Steel Ball Run",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt2359704"
-      },
-      {
-        "titre": "JoJo's Bizarre Adventure",
-        "heure_sortie": "?",
-        "saison": "Steel Ball Run",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt2359704"
-      },
-      {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
