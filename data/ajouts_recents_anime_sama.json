@@ -1,5 +1,367 @@
 [
   {
+    "titre": "RICK ET MORTY",
+    "episode_info": "President Curtis Episode 10 [FIN]",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/rick-et-morty/oav2/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-g69c15z0pn4y.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6256145"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt2861424"
+  },
+  {
+    "titre": "RICK ET MORTY",
+    "episode_info": "President Curtis Episode 10 [FIN]",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/rick-et-morty/oav2/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-f3amdr10xjwv.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-f3amdr10xjwv.html"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt2861424"
+  },
+  {
+    "titre": "BLEACH THOUSAND-YEAR BLOOD WAR",
+    "episode_info": "Partie 4 Episode 2",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/bleach/saison2-4/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#9tvqa"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/tztcki1r2nuh"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt14986406"
+  },
+  {
+    "titre": "BLEACH THOUSAND-YEAR BLOOD WAR",
+    "episode_info": "Partie 4 Episode 1",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/bleach/saison2-4/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#9tvqa"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/tztcki1r2nuh"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt14986406"
+  },
+  {
+    "titre": "OVERGEARED",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/overgeared/saison1/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-17eom36sbwvs.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#hwk1x"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://jeremyparticipantanything.com/e/4ibbfatfnbe2"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://ansembed.net/embed-17eom36sbwvs.html"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/kbieygoynreo"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt43691353"
+  },
+  {
+    "titre": "ONE PIECE",
+    "episode_info": "Episode 1180 [FIN]",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/one-piece/saison12/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-uitxfsx7oso2.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-uitxfsx7oso2.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6164289"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/f8y0txswvalp"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt0388629"
+  },
+  {
+    "titre": "SPARKS OF TOMORROW",
+    "episode_info": "Saison 1 Episode 13 [FIN]",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/sparks-of-tomorrow/saison1/va/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-gli4xczo1n01.html"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt38939446"
+  },
+  {
+    "titre": "MUSHOKU TENSEI",
+    "episode_info": "Saison 3 Episode 11",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/mushoku-tensei/saison3/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-t2c1vdoxuplz.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-t2c1vdoxuplz.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6270463"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/zs66wry5idei"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt13293588"
+  },
+  {
+    "titre": "THOUGH I AM AN INEPT VILLAINESS",
+    "episode_info": "Saison 1 Episode 9",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/though-i-am-an-inept-villainess/saison1/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-ezywgp142nk7.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-ezywgp142nk7.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6255883"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/cjbowcy5mhnl"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt41293157"
+  },
+  {
+    "titre": "OVERGEARED",
+    "episode_info": "Saison 1 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/overgeared/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-dv4pdtakmmpi.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-dv4pdtakmmpi.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://jeremyparticipantanything.com/e/asbgooheeuyf"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://sendvid.com/embed/4b1f6g3r"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/49f4l7vv6pmm"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt43691353"
+  },
+  {
+    "titre": "TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU",
+    "episode_info": "Saison 3 Episode 1",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/tensei-kizoku-kantei-skill-de-nariagaru/saison3/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-d3tju4cmvorc.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-d3tju4cmvorc.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://jeremyparticipantanything.com/e/7vsgufckoueq"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://sendvid.com/embed/x2zve82t"
+      },
+      {
+        "nom": "Lecteur 5",
+        "url": "https://minochinos.com/embed/za0jy4zksrh0"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt31975847"
+  },
+  {
+    "titre": "SPARKS OF TOMORROW",
+    "episode_info": "Saison 1 Episode 13 [FIN]",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/sparks-of-tomorrow/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-g9rpejbxg662.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-g9rpejbxg662.html"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6235143"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/c58ur5tljte9"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt38939446"
+  },
+  {
+    "titre": "MUSHOKU TENSEI",
+    "episode_info": "Saison 3 Episode 14 [FIN]",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/mushoku-tensei/saison3/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-dx6zx7929rxx.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#aqsxq"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6234360"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/qb8fdrglkgac"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt13293588"
+  },
+  {
+    "titre": "SPARKS OF TOMORROW",
+    "episode_info": "Saison 1 Episode 13 [FIN]",
+    "format": "Anime",
+    "langue": "VF",
+    "lien": "https://anime-sama.to/catalogue/sparks-of-tomorrow/saison1/vf/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-nn8ph7pt8u38.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#8bjtb"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6235153"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/v9hrs0u8h15l"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt38939446"
+  },
+  {
     "titre": "YOU AND I ARE POLAR OPPOSITES",
     "episode_info": "Saison 2 Episode 12",
     "format": "Anime",
@@ -66,7 +428,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-au9a51wztpky.html"
+        "url": "https://video.sibnet.ru/shell.php?videoid=6068282"
       }
     ],
     "mal_id": null,
@@ -85,7 +447,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-h8evk1tussvw.html"
+        "url": "https://lpayer.embed4me.com/#9c1fx"
       },
       {
         "nom": "Lecteur 3",
@@ -112,7 +474,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-m2ct1fp1ekuq.html"
+        "url": "https://lpayer.embed4me.com/#vf56k"
       },
       {
         "nom": "Lecteur 3",
@@ -139,7 +501,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-rpt99dnz01ed.html"
+        "url": "https://lpayer.embed4me.com/#rokpp"
       },
       {
         "nom": "Lecteur 3",
@@ -208,7 +570,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-ichx6apdl33b.html"
+        "url": "https://lpayer.embed4me.com/#nkvbo"
       },
       {
         "nom": "Lecteur 3",
@@ -220,7 +582,7 @@
       }
     ],
     "mal_id": null,
-    "imdb_id": "tt37185884"
+    "imdb_id": "tt37577523"
   },
   {
     "titre": "A WILD LAST BOSS APPEARED",
@@ -235,14 +597,18 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-tl571o59zf79.html"
+        "url": "https://lpayer.embed4me.com/#rgq1g"
       },
       {
         "nom": "Lecteur 3",
-        "url": "https://sendvid.com/embed/9n6soezr"
+        "url": "https://jeremyparticipantanything.com/e/df67f5rbphzj"
       },
       {
         "nom": "Lecteur 4",
+        "url": "https://sendvid.com/embed/9n6soezr"
+      },
+      {
+        "nom": "Lecteur 5",
         "url": "https://minochinos.com/embed/kkfu46gczzd8"
       }
     ],
@@ -262,7 +628,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-htzzz8f53mah.html"
+        "url": "https://lpayer.embed4me.com/#xn8gn"
       },
       {
         "nom": "Lecteur 3",
@@ -339,7 +705,7 @@
       },
       {
         "nom": "Lecteur 3",
-        "url": "https://minochinos.com/embed/s2ob52erfkxo"
+        "url": "https://ansembed.net/embed-ix7k3qu4o3xb.html"
       }
     ],
     "mal_id": null,
@@ -358,7 +724,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-rkiasvbqwhz6.html"
+        "url": "https://lpayer.embed4me.com/#vp5rj"
       },
       {
         "nom": "Lecteur 3",
@@ -398,367 +764,5 @@
     ],
     "mal_id": null,
     "imdb_id": "tt27187054"
-  },
-  {
-    "titre": "THE ELUSIVE SAMURAI",
-    "episode_info": "Saison 2 Episode 7",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/the-elusive-samurai/saison2/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-73cfjv1wq1fa.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9umou"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6285867"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9j8h0sx6dbx5"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt27187054"
-  },
-  {
-    "titre": "THE ELUSIVE SAMURAI",
-    "episode_info": "Saison 2 Episode 6",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/the-elusive-samurai/saison2/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-73cfjv1wq1fa.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9umou"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6285867"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9j8h0sx6dbx5"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt27187054"
-  },
-  {
-    "titre": "IBITTE KONAI GIBO TO GISHI",
-    "episode_info": "Saison 1 Episode 12",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/ibitte-konai-gibo-to-gishi/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-m5j9y8w8x360.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#ft59k"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6237310"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/yyycn653qabv"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt37674481"
-  },
-  {
-    "titre": "HELL MODE",
-    "episode_info": "Saison 2 Episode 13 [FIN]",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/hell-mode/saison2/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-bvcjfcn72cgy.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#6wgcz"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6233869"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/dmccttae8n3j"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt38646634"
-  },
-  {
-    "titre": "KAMI NO SHIZUKU",
-    "episode_info": "Saison 1 Episode 18",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-yvij72q4hees.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-yvij72q4hees.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6183334"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/bjta7fzj1p1f"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt39026840"
-  },
-  {
-    "titre": "THE ELUSIVE SAMURAI",
-    "episode_info": "Saison 2 Episode 5",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/the-elusive-samurai/saison2/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-73cfjv1wq1fa.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9umou"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6285867"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9j8h0sx6dbx5"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt27187054"
-  },
-  {
-    "titre": "KAMI NO SHIZUKU",
-    "episode_info": "Saison 1 Episode 17",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-yvij72q4hees.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#jpqzm"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6183334"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/bjta7fzj1p1f"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt39026840"
-  },
-  {
-    "titre": "THE ELUSIVE SAMURAI",
-    "episode_info": "Saison 2 Episode 11",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/the-elusive-samurai/saison2/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-tq8v0ee3r110.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#6uue1"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6244882"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt27187054"
-  },
-  {
-    "titre": "KAMI NO SHIZUKU",
-    "episode_info": "Saison 1 Episode 16",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-yvij72q4hees.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#jpqzm"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6183334"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/bjta7fzj1p1f"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt39026840"
-  },
-  {
-    "titre": "KAMI NO SHIZUKU",
-    "episode_info": "Saison 1 Episode 23",
-    "format": "Anime",
-    "langue": "Inconnue",
-    "lien": "https://anime-sama.to/catalogue/kami-no-shizuku/saison1/va/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-69da2epfhixh.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#61qsd"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt39026840"
-  },
-  {
-    "titre": "KORE KAITE SHINE",
-    "episode_info": "Saison 1 Episode 12 [FIN]",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/kore-kaite-shine/saison1/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-tmtm4c4yrw0s.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#1ibpm"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6233839"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/j0b02x7oq4vr"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt36290385"
-  },
-  {
-    "titre": "TENSEI SHITARA SLIME DATTA KEN",
-    "episode_info": "Saison 4 Episode 21",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/tensei-shitara-slime-datta-ken/saison4/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-wqho3lbv4a6w.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#8xvaz"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6178860"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/75ekep5q91ch"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt14408130"
-  },
-  {
-    "titre": "TENSEI SHITARA SLIME DATTA KEN",
-    "episode_info": "Saison 4 Episode 24 [FIN]",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/tensei-shitara-slime-datta-ken/saison4/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-d12j7m1yz00d.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#vptge"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6162851"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9bbm796idmv7"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt14408130"
-  },
-  {
-    "titre": "JOJO'S BIZARRE ADVENTURE",
-    "episode_info": "Steel Ball RunEpisode 2",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/jojos-bizarre-adventure/saison7/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-o6elz0pvm9n9.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6153624"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://lpayer.embed4me.com/#yz8ks"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt2359704"
   }
 ]

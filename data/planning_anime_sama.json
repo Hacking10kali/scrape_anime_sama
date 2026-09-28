@@ -1,9 +1,9 @@
 [
   {
-    "jour": "SORTIES DU DIMANCHE - 27/09",
+    "jour": "Sorties du Dimanche - 04/10",
     "animes": [
       {
-        "titre": "DIGIMON BEATBREAK",
+        "titre": "Digimon Beatbreak",
         "heure_sortie": "09h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -12,7 +12,7 @@
         "imdb_id": "tt37499375"
       },
       {
-        "titre": "YOU AND I ARE POLAR OPPOSITES",
+        "titre": "You and I Are Polar Opposites",
         "heure_sortie": "11h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -21,7 +21,7 @@
         "imdb_id": "tt36034547"
       },
       {
-        "titre": "LET'S GO KAIKIGUMI",
+        "titre": "Let's Go Kaikigumi",
         "heure_sortie": "11h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -30,7 +30,7 @@
         "imdb_id": "tt41278494"
       },
       {
-        "titre": "TETSUNABE NO JAN!",
+        "titre": "Tetsunabe no Jan!",
         "heure_sortie": "11h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -39,16 +39,7 @@
         "imdb_id": "tt42963873"
       },
       {
-        "titre": "SPARKS OF TOMORROW",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38939446"
-      },
-      {
-        "titre": "SPARKS OF TOMORROW",
+        "titre": "Sparks of Tomorrow",
         "heure_sortie": "17h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -57,7 +48,16 @@
         "imdb_id": "tt38939446"
       },
       {
-        "titre": "MUSHOKU TENSEI",
+        "titre": "Sparks of Tomorrow",
+        "heure_sortie": "17h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38939446"
+      },
+      {
+        "titre": "Mushoku Tensei",
         "heure_sortie": "17h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -66,53 +66,8 @@
         "imdb_id": "tt13293588"
       },
       {
-        "titre": "THOUGH I AM AN INEPT VILLAINESS",
-        "heure_sortie": "18h20",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41293157"
-      },
-      {
-        "titre": "ONE PIECE",
-        "heure_sortie": "20h30",
-        "saison": "Saga Elbaf",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt0388629"
-      },
-      {
-        "titre": "MUSHOKU TENSEI",
-        "heure_sortie": "?",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt13293588"
-      },
-      {
-        "titre": "YOU AND I ARE POLAR OPPOSITES",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt36034547"
-      },
-      {
-        "titre": "THOUGH I AM AN INEPT VILLAINESS",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt41293157"
-      },
-      {
-        "titre": "TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU",
-        "heure_sortie": "?",
+        "titre": "Tensei Kizoku, Kantei Skill de Nariagaru",
+        "heure_sortie": "17h45",
         "saison": "Saison 3",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -120,21 +75,75 @@
         "imdb_id": "tt31975847"
       },
       {
-        "titre": "OVERGEARED",
-        "heure_sortie": "?",
+        "titre": "Overgeared",
+        "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt43691353"
+      },
+      {
+        "titre": "Mushoku Tensei",
+        "heure_sortie": "18h30",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt13293588"
+      },
+      {
+        "titre": "Though I Am an Inept Villainess",
+        "heure_sortie": "18h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt41293157"
+      },
+      {
+        "titre": "One Piece",
+        "heure_sortie": "20h30",
+        "saison": "Saga Elbaf",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": 459,
+        "imdb_id": null
+      },
+      {
+        "titre": "Bleach TYBW",
+        "heure_sortie": "?",
+        "saison": "Partie 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt14986406"
+      },
+      {
+        "titre": "Overgeared",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt43691353"
+      },
+      {
+        "titre": "You and I Are Polar Opposites",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt36034547"
       }
     ]
   },
   {
-    "jour": "Sorties du Lundi - 21/09",
+    "jour": "SORTIES DU LUNDI - 28/09",
     "animes": [
       {
-        "titre": "Liar Game",
+        "titre": "LIAR GAME",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -145,7 +154,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 22/09",
+    "jour": "Sorties du Mardi - 29/09",
     "animes": [
       {
         "titre": "Young Ladies Don't Play Fighting Games",
@@ -177,7 +186,7 @@
     ]
   },
   {
-    "jour": "Sorties du Mercredi - 23/09",
+    "jour": "Sorties du Mercredi - 30/09",
     "animes": [
       {
         "titre": "Clevatess",
@@ -317,7 +326,7 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 24/09",
+    "jour": "Sorties du Jeudi - 01/10",
     "animes": [
       {
         "titre": "Reiwa no Dara-san",
@@ -376,7 +385,7 @@
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 25/09",
+    "jour": "Sorties du Vendredi - 02/10",
     "animes": [
       {
         "titre": "Link Click",
@@ -394,7 +403,7 @@
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt2359704"
+        "imdb_id": "tt38268282"
       },
       {
         "titre": "JoJo's Bizarre Adventure",
@@ -403,7 +412,7 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt2359704"
+        "imdb_id": "tt38268282"
       },
       {
         "titre": "Ibitte Konai Gibo to Gishi",
@@ -489,7 +498,7 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 26/09",
+    "jour": "Sorties du Samedi - 03/10",
     "animes": [
       {
         "titre": "Ascendance of a Bookworm",
@@ -543,7 +552,7 @@
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt37185884"
+        "imdb_id": "tt37577523"
       },
       {
         "titre": "Hanaori-san Still Wants to Fight in the Next Life",
