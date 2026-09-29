@@ -1,5 +1,66 @@
 [
   {
+    "titre": "MONONOKE",
+    "episode_info": "The Curse of the Serpent",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/mononoke/film/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-wqugm2q8k1ej.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://ansembed.net/embed-wqugm2q8k1ej.html"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt0119698"
+  },
+  {
+    "titre": "LIAR GAME",
+    "episode_info": "Saison 1 Episode 24",
+    "format": "Anime",
+    "langue": "Inconnue",
+    "lien": "https://anime-sama.to/catalogue/liar-game/saison1/va/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-l8lw63334mgb.html"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt39229633"
+  },
+  {
+    "titre": "LIAR GAME",
+    "episode_info": "Saison 1 Episode 26 [FIN]",
+    "format": "Anime",
+    "langue": "VOSTFR",
+    "lien": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
+    "lecteurs": [
+      {
+        "nom": "Lecteur 1",
+        "url": "https://ansembed.net/embed-1l1d2he4c3wj.html"
+      },
+      {
+        "nom": "Lecteur 2",
+        "url": "https://lpayer.embed4me.com/#1to86"
+      },
+      {
+        "nom": "Lecteur 3",
+        "url": "https://video.sibnet.ru/shell.php?videoid=6165400"
+      },
+      {
+        "nom": "Lecteur 4",
+        "url": "https://minochinos.com/embed/5k5inl6e1hht"
+      }
+    ],
+    "mal_id": null,
+    "imdb_id": "tt39229633"
+  },
+  {
     "titre": "RICK ET MORTY",
     "episode_info": "President Curtis Episode 10 [FIN]",
     "format": "Anime",
@@ -50,7 +111,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9tvqa"
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
       },
       {
         "nom": "Lecteur 3",
@@ -77,7 +138,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9tvqa"
+        "url": "https://ansembed.net/embed-9wk8wsgi1t35.html"
       },
       {
         "nom": "Lecteur 3",
@@ -204,7 +265,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-ezywgp142nk7.html"
+        "url": "https://lpayer.embed4me.com/#vgq5g"
       },
       {
         "nom": "Lecteur 3",
@@ -231,7 +292,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-dv4pdtakmmpi.html"
+        "url": "https://lpayer.embed4me.com/#ja8lj"
       },
       {
         "nom": "Lecteur 3",
@@ -262,7 +323,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-d3tju4cmvorc.html"
+        "url": "https://lpayer.embed4me.com/#cjnh1"
       },
       {
         "nom": "Lecteur 3",
@@ -293,7 +354,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-g9rpejbxg662.html"
+        "url": "https://lpayer.embed4me.com/#8bjt6"
       },
       {
         "nom": "Lecteur 3",
@@ -374,7 +435,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-u8wgky8410qx.html"
+        "url": "https://lpayer.embed4me.com/#pjntk"
       },
       {
         "nom": "Lecteur 3",
@@ -401,7 +462,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-nq4j55diy141.html"
+        "url": "https://lpayer.embed4me.com/#6wk88"
       },
       {
         "nom": "Lecteur 3",
@@ -447,7 +508,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#9c1fx"
+        "url": "https://ansembed.net/embed-h8evk1tussvw.html"
       },
       {
         "nom": "Lecteur 3",
@@ -628,7 +689,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#xn8gn"
+        "url": "https://ansembed.net/embed-htzzz8f53mah.html"
       },
       {
         "nom": "Lecteur 3",
@@ -674,7 +735,7 @@
       },
       {
         "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-mj68v4xxbb1u.html"
+        "url": "https://lpayer.embed4me.com/#8de8b"
       },
       {
         "nom": "Lecteur 3",
@@ -687,82 +748,5 @@
     ],
     "mal_id": null,
     "imdb_id": "tt11034066"
-  },
-  {
-    "titre": "DETECTIVE CONAN",
-    "episode_info": "Episode 1214",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/detective-conan/saison31/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-ix7k3qu4o3xb.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-ix7k3qu4o3xb.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://ansembed.net/embed-ix7k3qu4o3xb.html"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt0131179"
-  },
-  {
-    "titre": "ASCENDANCE OF A BOOKWORM",
-    "episode_info": "Saison 2 Episode 23",
-    "format": "Anime",
-    "langue": "VOSTFR",
-    "lien": "https://anime-sama.to/catalogue/ascendance-of-a-bookworm/saison2/vostfr/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-rkiasvbqwhz6.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://lpayer.embed4me.com/#vp5rj"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6163432"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/dzq9q3hd275o"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt10885406"
-  },
-  {
-    "titre": "THE ELUSIVE SAMURAI",
-    "episode_info": "Saison 2 Episode 8",
-    "format": "Anime",
-    "langue": "VF",
-    "lien": "https://anime-sama.to/catalogue/the-elusive-samurai/saison2/vf/",
-    "lecteurs": [
-      {
-        "nom": "Lecteur 1",
-        "url": "https://ansembed.net/embed-73cfjv1wq1fa.html"
-      },
-      {
-        "nom": "Lecteur 2",
-        "url": "https://ansembed.net/embed-73cfjv1wq1fa.html"
-      },
-      {
-        "nom": "Lecteur 3",
-        "url": "https://video.sibnet.ru/shell.php?videoid=6285867"
-      },
-      {
-        "nom": "Lecteur 4",
-        "url": "https://minochinos.com/embed/9j8h0sx6dbx5"
-      }
-    ],
-    "mal_id": null,
-    "imdb_id": "tt27187054"
   }
 ]

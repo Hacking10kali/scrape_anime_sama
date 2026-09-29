@@ -3,15 +3,6 @@
     "jour": "Sorties du Dimanche - 04/10",
     "animes": [
       {
-        "titre": "Digimon Beatbreak",
-        "heure_sortie": "09h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37499375"
-      },
-      {
         "titre": "You and I Are Polar Opposites",
         "heure_sortie": "11h00",
         "saison": "Saison 2",
@@ -19,51 +10,6 @@
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt36034547"
-      },
-      {
-        "titre": "Let's Go Kaikigumi",
-        "heure_sortie": "11h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41278494"
-      },
-      {
-        "titre": "Tetsunabe no Jan!",
-        "heure_sortie": "11h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt42963873"
-      },
-      {
-        "titre": "Sparks of Tomorrow",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt38939446"
-      },
-      {
-        "titre": "Sparks of Tomorrow",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38939446"
-      },
-      {
-        "titre": "Mushoku Tensei",
-        "heure_sortie": "17h30",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt13293588"
       },
       {
         "titre": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -102,13 +48,67 @@
         "imdb_id": "tt41293157"
       },
       {
-        "titre": "One Piece",
-        "heure_sortie": "20h30",
-        "saison": "Saga Elbaf",
+        "titre": "Overgeared",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt43691353"
+      },
+      {
+        "titre": "Ao Ashi",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
-        "mal_id": 459,
-        "imdb_id": null
+        "mal_id": null,
+        "imdb_id": "tt15792808"
+      },
+      {
+        "titre": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt43691418"
+      },
+      {
+        "titre": "You and I Are Polar Opposites",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt36034547"
+      },
+      {
+        "titre": "Uncle's Obsession with Cute Things",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt43691343"
+      },
+      {
+        "titre": "Reborn as a Space Mercenary",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt41298100"
+      },
+      {
+        "titre": "Hotel Inhumans",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt35995459"
       },
       {
         "titre": "Bleach TYBW",
@@ -120,30 +120,30 @@
         "imdb_id": "tt14986406"
       },
       {
-        "titre": "Overgeared",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt43691353"
-      },
-      {
-        "titre": "You and I Are Polar Opposites",
+        "titre": "Blue Box",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt36034547"
+        "imdb_id": "tt32639706"
       }
     ]
   },
   {
-    "jour": "SORTIES DU LUNDI - 28/09",
+    "jour": "Sorties du Lundi - 28/09",
     "animes": [
       {
-        "titre": "LIAR GAME",
+        "titre": "Bleach TYBW",
+        "heure_sortie": "17h30",
+        "saison": "Reporté",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt14986406"
+      },
+      {
+        "titre": "Liar Game",
         "heure_sortie": "18h30",
         "saison": "Saison 1",
         "format": "Anime",
@@ -154,19 +154,19 @@
     ]
   },
   {
-    "jour": "Sorties du Mardi - 29/09",
+    "jour": "SORTIES DU MARDI - 29/09",
     "animes": [
       {
-        "titre": "Young Ladies Don't Play Fighting Games",
-        "heure_sortie": "14h00",
-        "saison": "Saison 1",
+        "titre": "MONONOKE",
+        "heure_sortie": "11h30",
+        "saison": "Film:The Curse of the Serpent",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt37015024"
+        "imdb_id": "tt0119698"
       },
       {
-        "titre": "Kimi ga Shinu made Koi wo Shitai",
+        "titre": "KIMI GA SHINU MADE KOI WO SHITAI",
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -175,7 +175,7 @@
         "imdb_id": "tt36056731"
       },
       {
-        "titre": "Red River",
+        "titre": "RED RIVER",
         "heure_sortie": "20h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -198,15 +198,6 @@
         "imdb_id": "tt32991344"
       },
       {
-        "titre": "Youjo Senki",
-        "heure_sortie": "16h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt6455986"
-      },
-      {
         "titre": "Re Zero",
         "heure_sortie": "16h30",
         "saison": "Saison 4",
@@ -216,94 +207,49 @@
         "imdb_id": "tt5607616"
       },
       {
-        "titre": "Trapped in a Dating Sim",
-        "heure_sortie": "18h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt16255458"
-      },
-      {
-        "titre": "Katainaka no Ossan Kensei ni Naru",
-        "heure_sortie": "18h45",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt35346717"
-      },
-      {
-        "titre": "Katainaka no Ossan Kensei ni Naru",
-        "heure_sortie": "18h45",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt35346717"
-      },
-      {
         "titre": "Tomb Raider King",
         "heure_sortie": "20h00",
-        "saison": "Reporté",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32869308"
-      },
-      {
-        "titre": "Tomb Raider King",
-        "heure_sortie": "20h00",
-        "saison": "Reporté",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "Inconnue",
         "mal_id": null,
         "imdb_id": "tt32869308"
       },
       {
-        "titre": "Thunder 3",
+        "titre": "Tomb Raider King",
         "heure_sortie": "20h00",
-        "saison": "Reporté",
+        "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt43589481"
+        "imdb_id": "tt32869308"
       },
       {
         "titre": "Thunder 3",
         "heure_sortie": "20h00",
-        "saison": "Reporté",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt43589481"
       },
       {
-        "titre": "Hana-Kimi",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt38646611"
-      },
-      {
-        "titre": "Tomb Raider King",
-        "heure_sortie": "?",
+        "titre": "Thunder 3",
+        "heure_sortie": "20h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt32869308"
+        "imdb_id": "tt43589481"
       },
       {
-        "titre": "Trapped in a Dating Sim",
+        "titre": "Re Zero",
         "heure_sortie": "?",
-        "saison": "Saison 2",
+        "saison": "Reporté",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt16255458"
+        "imdb_id": "tt5607616"
       },
       {
         "titre": "Clevatess",
@@ -315,46 +261,37 @@
         "imdb_id": "tt32991344"
       },
       {
-        "titre": "Re Zero",
+        "titre": "Tomb Raider King",
         "heure_sortie": "?",
-        "saison": "Reporté",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt5607616"
+        "imdb_id": "tt32869308"
+      },
+      {
+        "titre": "Hana-Kimi",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt38646611"
+      },
+      {
+        "titre": "Trapped in a Dating Sim",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt16255458"
       }
     ]
   },
   {
     "jour": "Sorties du Jeudi - 01/10",
     "animes": [
-      {
-        "titre": "Reiwa no Dara-san",
-        "heure_sortie": "15h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt39195667"
-      },
-      {
-        "titre": "Mebius Dust",
-        "heure_sortie": "17h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt43587102"
-      },
-      {
-        "titre": "Smoking Behind the Supermarket with You",
-        "heure_sortie": "18h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37614297"
-      },
       {
         "titre": "The Exiled Heavy Knight Knows How to Game the System",
         "heure_sortie": "18h30",
@@ -365,6 +302,24 @@
         "imdb_id": "tt33334216"
       },
       {
+        "titre": "The Ramparts of Ice",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt39123061"
+      },
+      {
+        "titre": "The Ramparts of Ice",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt39123061"
+      },
+      {
         "titre": "Chainsmoker Cat",
         "heure_sortie": "?",
         "saison": "Saison 1",
@@ -374,13 +329,13 @@
         "imdb_id": "tt39551330"
       },
       {
-        "titre": "Chainsmoker Cat",
+        "titre": "FX Senshi Kurumi-chan",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt39551330"
+        "imdb_id": "tt43119470"
       }
     ]
   },
@@ -401,7 +356,7 @@
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt38268282"
       },
@@ -410,36 +365,9 @@
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
-        "langue": "VOSTFR",
+        "langue": "VF",
         "mal_id": null,
         "imdb_id": "tt38268282"
-      },
-      {
-        "titre": "Ibitte Konai Gibo to Gishi",
-        "heure_sortie": "17h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt37674481"
-      },
-      {
-        "titre": "Tensei Shitara Slime Datta Ken",
-        "heure_sortie": "17h30",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt14408130"
-      },
-      {
-        "titre": "Kore Kaite Shine",
-        "heure_sortie": "18h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt36290385"
       },
       {
         "titre": "The Elusive Samurai",
@@ -451,22 +379,31 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "Hell Mode",
-        "heure_sortie": "19h00",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38646634"
-      },
-      {
         "titre": "Please Excuse My Younger Brothers",
         "heure_sortie": "19h00",
-        "saison": "Reporté",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt41293320"
+      },
+      {
+        "titre": "Tokyo Revengers",
+        "heure_sortie": "19h30",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt13196080"
+      },
+      {
+        "titre": "Tensei Shitara Slime Datta Ken",
+        "heure_sortie": "?",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt14408130"
       },
       {
         "titre": "Kami no Shizuku",
@@ -487,13 +424,22 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "Les Carnets de l'Apothicaire",
         "heure_sortie": "?",
-        "saison": "Saison 4",
+        "saison": "Saison 3",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt14408130"
+        "imdb_id": "tt26743760"
+      },
+      {
+        "titre": "Tougen Anki",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32344704"
       }
     ]
   },
@@ -519,13 +465,13 @@
         "imdb_id": "tt0131179"
       },
       {
-        "titre": "Welcome to Demon School Iruma-kun",
-        "heure_sortie": "14h30",
-        "saison": "Saison 4",
+        "titre": "Gensou Suikoden",
+        "heure_sortie": "13h45",
+        "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt11034066"
+        "imdb_id": "tt0303097"
       },
       {
         "titre": "A Wild Last Boss Appeared!",
@@ -537,49 +483,94 @@
         "imdb_id": "tt33258199"
       },
       {
-        "titre": "Bleach TYBW",
-        "heure_sortie": "17h30",
-        "saison": "Reporté",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt14986406"
-      },
-      {
-        "titre": "MAO",
-        "heure_sortie": "18h45",
+        "titre": "The Seven Knights of the Marronnier Kingdom",
+        "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt37577523"
+        "imdb_id": "tt44757191"
       },
       {
-        "titre": "Hanaori-san Still Wants to Fight in the Next Life",
-        "heure_sortie": "20h00",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt41276828"
-      },
-      {
-        "titre": "Magilumiere",
-        "heure_sortie": "20h30",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt30476504"
-      },
-      {
-        "titre": "Magilumiere",
-        "heure_sortie": "20h30",
-        "saison": "Saison 2",
+        "titre": "Ranma 1/2",
+        "heure_sortie": "19h30",
+        "saison": "Saison 3",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
-        "imdb_id": "tt30476504"
+        "imdb_id": "tt32588798"
+      },
+      {
+        "titre": "Ranma 1/2",
+        "heure_sortie": "19h30",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32588798"
+      },
+      {
+        "titre": "Seitokai ni mo Ana wa Aru!",
+        "heure_sortie": "19h45",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt43650242"
+      },
+      {
+        "titre": "#Zombie Sagashitemasu",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": null
+      },
+      {
+        "titre": "Vertex Force",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt42487863"
+      },
+      {
+        "titre": "A Tale of the Secret Saint",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38939893"
+      },
+      {
+        "titre": "Black Clover",
+        "heure_sortie": "?",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt7441658"
+      },
+      {
+        "titre": "Romelia Senki",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt42727894"
+      },
+      {
+        "titre": "Tenmaku no Jaaduugar",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt39281887"
       },
       {
         "titre": "Yomi no Tsugai",
@@ -591,13 +582,13 @@
         "imdb_id": "tt37532356"
       },
       {
-        "titre": "Tenmaku no Jaaduugar",
+        "titre": "Magical Explorer",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt39281887"
+        "imdb_id": "tt41296506"
       }
     ]
   }
