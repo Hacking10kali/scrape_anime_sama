@@ -154,10 +154,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU MARDI - 29/09",
+    "jour": "Sorties du Mardi - 29/09",
     "animes": [
       {
-        "titre": "MONONOKE",
+        "titre": "Mononoke",
         "heure_sortie": "11h30",
         "saison": "Film:The Curse of the Serpent",
         "format": "Anime",
@@ -166,7 +166,7 @@
         "imdb_id": "tt0119698"
       },
       {
-        "titre": "KIMI GA SHINU MADE KOI WO SHITAI",
+        "titre": "Kimi ga Shinu made Koi wo Shitai",
         "heure_sortie": "15h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -175,7 +175,7 @@
         "imdb_id": "tt36056731"
       },
       {
-        "titre": "RED RIVER",
+        "titre": "Red River",
         "heure_sortie": "20h15",
         "saison": "Saison 1",
         "format": "Anime",
@@ -193,6 +193,15 @@
         "heure_sortie": "15h00",
         "saison": "Saison 2",
         "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt32991344"
+      },
+      {
+        "titre": "Clevatess",
+        "heure_sortie": "15h00",
+        "saison": "Saison 2",
+        "format": "Anime",
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt32991344"
@@ -205,6 +214,24 @@
         "langue": "VOSTFR",
         "mal_id": null,
         "imdb_id": "tt5607616"
+      },
+      {
+        "titre": "Re Zero",
+        "heure_sortie": "17h30",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt5607616"
+      },
+      {
+        "titre": "Reincarnated as a Sword",
+        "heure_sortie": "18h30",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt15483602"
       },
       {
         "titre": "Tomb Raider King",
@@ -243,24 +270,6 @@
         "imdb_id": "tt43589481"
       },
       {
-        "titre": "Re Zero",
-        "heure_sortie": "?",
-        "saison": "Reporté",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt5607616"
-      },
-      {
-        "titre": "Clevatess",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt32991344"
-      },
-      {
         "titre": "Tomb Raider King",
         "heure_sortie": "?",
         "saison": "Saison 1",
@@ -290,19 +299,10 @@
     ]
   },
   {
-    "jour": "Sorties du Jeudi - 01/10",
+    "jour": "SORTIES DU JEUDI - 01/10",
     "animes": [
       {
-        "titre": "The Exiled Heavy Knight Knows How to Game the System",
-        "heure_sortie": "18h30",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt33334216"
-      },
-      {
-        "titre": "The Ramparts of Ice",
+        "titre": "THE RAMPARTS OF ICE",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -311,7 +311,7 @@
         "imdb_id": "tt39123061"
       },
       {
-        "titre": "The Ramparts of Ice",
+        "titre": "THE RAMPARTS OF ICE",
         "heure_sortie": "18h30",
         "saison": "Saison 2",
         "format": "Anime",
@@ -320,7 +320,16 @@
         "imdb_id": "tt39123061"
       },
       {
-        "titre": "Chainsmoker Cat",
+        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
+        "heure_sortie": "19h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt33334216"
+      },
+      {
+        "titre": "CHAINSMOKER CAT",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -329,7 +338,7 @@
         "imdb_id": "tt39551330"
       },
       {
-        "titre": "FX Senshi Kurumi-chan",
+        "titre": "FX SENSHI KURUMI-CHAN",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
