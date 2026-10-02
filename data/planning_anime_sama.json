@@ -299,20 +299,20 @@
     ]
   },
   {
-    "jour": "SORTIES DU JEUDI - 01/10",
+    "jour": "Sorties du Jeudi - 01/10",
     "animes": [
       {
-        "titre": "THE RAMPARTS OF ICE",
-        "heure_sortie": "18h30",
-        "saison": "Saison 2",
+        "titre": "FX Senshi Kurumi-chan",
+        "heure_sortie": "15h00",
+        "saison": "Saison 1",
         "format": "Anime",
-        "langue": "VF",
+        "langue": "VOSTFR",
         "mal_id": null,
-        "imdb_id": "tt39123061"
+        "imdb_id": "tt43119470"
       },
       {
-        "titre": "THE RAMPARTS OF ICE",
-        "heure_sortie": "18h30",
+        "titre": "The Ramparts of Ice",
+        "heure_sortie": "18h00",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -320,8 +320,17 @@
         "imdb_id": "tt39123061"
       },
       {
-        "titre": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM",
-        "heure_sortie": "19h00",
+        "titre": "The Ramparts of Ice",
+        "heure_sortie": "18h15",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt39123061"
+      },
+      {
+        "titre": "The Exiled Heavy Knight Knows How to Game the System",
+        "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -329,30 +338,21 @@
         "imdb_id": "tt33334216"
       },
       {
-        "titre": "CHAINSMOKER CAT",
+        "titre": "Chainsmoker Cat",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
         "imdb_id": "tt39551330"
-      },
-      {
-        "titre": "FX SENSHI KURUMI-CHAN",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt43119470"
       }
     ]
   },
   {
-    "jour": "Sorties du Vendredi - 02/10",
+    "jour": "SORTIES DU VENDREDI - 02/10",
     "animes": [
       {
-        "titre": "Link Click",
+        "titre": "LINK CLICK",
         "heure_sortie": "05h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -361,7 +361,7 @@
         "imdb_id": "tt14976292"
       },
       {
-        "titre": "JoJo's Bizarre Adventure",
+        "titre": "JOJO'S BIZARRE ADVENTURE",
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
@@ -370,7 +370,7 @@
         "imdb_id": "tt38268282"
       },
       {
-        "titre": "JoJo's Bizarre Adventure",
+        "titre": "JOJO'S BIZARRE ADVENTURE",
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
@@ -379,8 +379,17 @@
         "imdb_id": "tt38268282"
       },
       {
-        "titre": "The Elusive Samurai",
-        "heure_sortie": "18h30",
+        "titre": "LES CARNETS DE L'APOTHICAIRE",
+        "heure_sortie": "17h45",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt26743760"
+      },
+      {
+        "titre": "THE ELUSIVE SAMURAI",
+        "heure_sortie": "18h20",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -388,8 +397,17 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "Please Excuse My Younger Brothers",
-        "heure_sortie": "19h00",
+        "titre": "TOUGEN ANKI",
+        "heure_sortie": "18h45",
+        "saison": "Saison 2",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt32344704"
+      },
+      {
+        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
+        "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -397,8 +415,8 @@
         "imdb_id": "tt41293320"
       },
       {
-        "titre": "Tokyo Revengers",
-        "heure_sortie": "19h30",
+        "titre": "TOKYO REVENGERS",
+        "heure_sortie": "20h00",
         "saison": "Saison 4",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -406,7 +424,7 @@
         "imdb_id": "tt13196080"
       },
       {
-        "titre": "Tensei Shitara Slime Datta Ken",
+        "titre": "TENSEI SHITARA SLIME DATTA KEN",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -415,7 +433,7 @@
         "imdb_id": "tt14408130"
       },
       {
-        "titre": "Kami no Shizuku",
+        "titre": "KAMI NO SHIZUKU",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -424,31 +442,13 @@
         "imdb_id": "tt39026840"
       },
       {
-        "titre": "The Elusive Samurai",
+        "titre": "THE ELUSIVE SAMURAI",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VF",
         "mal_id": null,
         "imdb_id": "tt27187054"
-      },
-      {
-        "titre": "Les Carnets de l'Apothicaire",
-        "heure_sortie": "?",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt26743760"
-      },
-      {
-        "titre": "Tougen Anki",
-        "heure_sortie": "?",
-        "saison": "Saison 2",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt32344704"
       }
     ]
   },
