@@ -349,10 +349,10 @@
     ]
   },
   {
-    "jour": "SORTIES DU VENDREDI - 02/10",
+    "jour": "Sorties du Vendredi - 02/10",
     "animes": [
       {
-        "titre": "LINK CLICK",
+        "titre": "Link Click",
         "heure_sortie": "05h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -361,7 +361,7 @@
         "imdb_id": "tt14976292"
       },
       {
-        "titre": "JOJO'S BIZARRE ADVENTURE",
+        "titre": "JoJo's Bizarre Adventure",
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
@@ -370,7 +370,7 @@
         "imdb_id": "tt38268282"
       },
       {
-        "titre": "JOJO'S BIZARRE ADVENTURE",
+        "titre": "JoJo's Bizarre Adventure",
         "heure_sortie": "11h15",
         "saison": "Steel Ball Run",
         "format": "Anime",
@@ -379,7 +379,25 @@
         "imdb_id": "tt38268282"
       },
       {
-        "titre": "LES CARNETS DE L'APOTHICAIRE",
+        "titre": "Tokyo Revengers",
+        "heure_sortie": "12h00",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt13196080"
+      },
+      {
+        "titre": "Tokyo Revengers",
+        "heure_sortie": "13h00",
+        "saison": "Saison 4",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt13196080"
+      },
+      {
+        "titre": "Les Carnets de l'Apothicaire",
         "heure_sortie": "17h45",
         "saison": "Saison 3",
         "format": "Anime",
@@ -388,7 +406,7 @@
         "imdb_id": "tt26743760"
       },
       {
-        "titre": "THE ELUSIVE SAMURAI",
+        "titre": "The Elusive Samurai",
         "heure_sortie": "18h20",
         "saison": "Saison 2",
         "format": "Anime",
@@ -397,7 +415,7 @@
         "imdb_id": "tt27187054"
       },
       {
-        "titre": "TOUGEN ANKI",
+        "titre": "Tougen Anki",
         "heure_sortie": "18h45",
         "saison": "Saison 2",
         "format": "Anime",
@@ -406,7 +424,7 @@
         "imdb_id": "tt32344704"
       },
       {
-        "titre": "PLEASE EXCUSE MY YOUNGER BROTHERS",
+        "titre": "Please Excuse My Younger Brothers",
         "heure_sortie": "18h50",
         "saison": "Saison 1",
         "format": "Anime",
@@ -415,16 +433,7 @@
         "imdb_id": "tt41293320"
       },
       {
-        "titre": "TOKYO REVENGERS",
-        "heure_sortie": "20h00",
-        "saison": "Saison 4",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt13196080"
-      },
-      {
-        "titre": "TENSEI SHITARA SLIME DATTA KEN",
+        "titre": "Tensei Shitara Slime Datta Ken",
         "heure_sortie": "?",
         "saison": "Saison 4",
         "format": "Anime",
@@ -433,7 +442,7 @@
         "imdb_id": "tt14408130"
       },
       {
-        "titre": "KAMI NO SHIZUKU",
+        "titre": "Kami no Shizuku",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -442,7 +451,7 @@
         "imdb_id": "tt39026840"
       },
       {
-        "titre": "THE ELUSIVE SAMURAI",
+        "titre": "The Elusive Samurai",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -453,10 +462,10 @@
     ]
   },
   {
-    "jour": "Sorties du Samedi - 03/10",
+    "jour": "SORTIES DU SAMEDI - 03/10",
     "animes": [
       {
-        "titre": "Ascendance of a Bookworm",
+        "titre": "ASCENDANCE OF A BOOKWORM",
         "heure_sortie": "12h00",
         "saison": "Saison 2",
         "format": "Anime",
@@ -465,7 +474,7 @@
         "imdb_id": "tt10885406"
       },
       {
-        "titre": "Detective Conan",
+        "titre": "DETECTIVE CONAN",
         "heure_sortie": "13h00",
         "saison": "Saison 31",
         "format": "Anime",
@@ -474,7 +483,7 @@
         "imdb_id": "tt0131179"
       },
       {
-        "titre": "Gensou Suikoden",
+        "titre": "GENSOU SUIKODEN",
         "heure_sortie": "13h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -483,8 +492,17 @@
         "imdb_id": "tt0303097"
       },
       {
-        "titre": "A Wild Last Boss Appeared!",
-        "heure_sortie": "15h50",
+        "titre": "A TALE OF THE SECRET SAINT",
+        "heure_sortie": "16h00",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt38939893"
+      },
+      {
+        "titre": "A WILD LAST BOSS APPEARED!",
+        "heure_sortie": "16h20",
         "saison": "Saison 2",
         "format": "Anime",
         "langue": "VOSTFR",
@@ -492,7 +510,25 @@
         "imdb_id": "tt33258199"
       },
       {
-        "titre": "The Seven Knights of the Marronnier Kingdom",
+        "titre": "#ZOMBIE SAGASHITEMASU",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": null
+      },
+      {
+        "titre": "VERTEX FORCE",
+        "heure_sortie": "17h30",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt42487863"
+      },
+      {
+        "titre": "THE SEVEN KNIGHTS OF THE MARRONNIER KINGDOM",
         "heure_sortie": "18h00",
         "saison": "Saison 1",
         "format": "Anime",
@@ -501,16 +537,7 @@
         "imdb_id": "tt44757191"
       },
       {
-        "titre": "Ranma 1/2",
-        "heure_sortie": "19h30",
-        "saison": "Saison 3",
-        "format": "Anime",
-        "langue": "VF",
-        "mal_id": null,
-        "imdb_id": "tt32588798"
-      },
-      {
-        "titre": "Ranma 1/2",
+        "titre": "RANMA 1/2",
         "heure_sortie": "19h30",
         "saison": "Saison 3",
         "format": "Anime",
@@ -519,7 +546,16 @@
         "imdb_id": "tt32588798"
       },
       {
-        "titre": "Seitokai ni mo Ana wa Aru!",
+        "titre": "RANMA 1/2",
+        "heure_sortie": "19h30",
+        "saison": "Saison 3",
+        "format": "Anime",
+        "langue": "VF",
+        "mal_id": null,
+        "imdb_id": "tt32588798"
+      },
+      {
+        "titre": "SEITOKAI NI MO ANA WA ARU!",
         "heure_sortie": "19h45",
         "saison": "Saison 1",
         "format": "Anime",
@@ -528,34 +564,7 @@
         "imdb_id": "tt43650242"
       },
       {
-        "titre": "#Zombie Sagashitemasu",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": null
-      },
-      {
-        "titre": "Vertex Force",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt42487863"
-      },
-      {
-        "titre": "A Tale of the Secret Saint",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt38939893"
-      },
-      {
-        "titre": "Black Clover",
+        "titre": "BLACK CLOVER",
         "heure_sortie": "?",
         "saison": "Saison 2",
         "format": "Anime",
@@ -564,16 +573,7 @@
         "imdb_id": "tt7441658"
       },
       {
-        "titre": "Romelia Senki",
-        "heure_sortie": "?",
-        "saison": "Saison 1",
-        "format": "Anime",
-        "langue": "VOSTFR",
-        "mal_id": null,
-        "imdb_id": "tt42727894"
-      },
-      {
-        "titre": "Tenmaku no Jaaduugar",
+        "titre": "TENMAKU NO JAADUUGAR",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -582,7 +582,16 @@
         "imdb_id": "tt39281887"
       },
       {
-        "titre": "Yomi no Tsugai",
+        "titre": "ROMELIA SENKI",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt42727894"
+      },
+      {
+        "titre": "YOMI NO TSUGAI",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
@@ -591,7 +600,16 @@
         "imdb_id": "tt37532356"
       },
       {
-        "titre": "Magical Explorer",
+        "titre": "MAGIC REPO MAN",
+        "heure_sortie": "?",
+        "saison": "Saison 1",
+        "format": "Anime",
+        "langue": "VOSTFR",
+        "mal_id": null,
+        "imdb_id": "tt43650419"
+      },
+      {
+        "titre": "MAGICAL EXPLORER",
         "heure_sortie": "?",
         "saison": "Saison 1",
         "format": "Anime",
